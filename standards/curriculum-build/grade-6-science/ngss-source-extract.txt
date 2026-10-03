@@ -1,0 +1,2540 @@
+PDF PAGE 47
+ 
+ 
+Middle School Physical Science 
+ 
+Students in middle school continue to develop understanding of four core ideas in the physical 
+sciences. The middle school performance expectations in the Physical Sciences build on the K – 
+5 ideas and capabilities to allow learners to explain phenomena central to the physical sciences 
+but also to the life sciences and earth and space science. The performance expectations in 
+physical science blend the core ideas with scientific and engineering practices and crosscutting 
+concepts to support students in developing useable knowledge to explain real world phenomena 
+in the physical, biological, and earth and space sciences. In the physical sciences, performance 
+expectations at the middle school level focus on students developing understanding of several 
+scientific practices. These include developing and using models, planning and conducting 
+investigations, analyzing and interpreting data, using mathematical and computational thinking, 
+and constructing explanations; and to use these practices to demonstrate understanding of the 
+core ideas. Students are also expected to demonstrate understanding of several of engineering 
+practices including design and evaluation.   
+ 
+The performance expectations in PS1: Matter and its Interactions help students to 
+formulate an answer to the question, “How do atomic and molecular interactions explain the 
+properties of matter that we see and feel?” by building understanding of what occurs at the 
+atomic and molecular scale. In middle school, the PS1 Disciplinary Core Idea from the NRC 
+Framework is broken down into two sub-ideas:  the structure and properties of matter, and 
+chemical reactions.  By the end of middle school, students will be able to apply understanding 
+that pure substances have characteristic physical and chemical properties and are made from a 
+single type of atom or molecule. They will be able to provide molecular level accounts to explain 
+states of matters and changes between states, that chemical reactions involve regrouping of 
+atoms to form new substances, and that atoms rearrange during chemical reactions. Students 
+are also able to apply an understanding of the design and the process of optimization in 
+engineering to chemical reaction systems. The crosscutting concepts of patterns; cause and 
+effect; scale, proportion and quantity; energy and matter; structure and function; 
+interdependence of science, engineering, and technology; and influence of science, engineering 
+and technology on society and the natural world are called out as organizing concepts for these 
+disciplinary core ideas. In the PS1 performance expectations, students are expected to 
+demonstrate proficiency in developing and using models, analyzing and interpreting data, 
+designing solutions, and obtaining, evaluating, and communicating information. Students use 
+these scientific and engineering practices to demonstrate understanding of the disciplinary core 
+ideas. 
+ 
+The performance expectations in PS2: Motion and Stability: Forces and Interactions 
+focuses on helping students understand ideas related to why some objects will keep moving, 
+why objects fall to the ground and why some materials are attracted to each other while others 
+are not.  Students answer the question, “How can one describe physical interactions between 
+objects and within systems of objects?” At the middle school level, the PS2 Disciplinary Core 
+Idea from the NRC Framework is broken down into two sub-ideas:  Forces and Motion and 
+Types of interactions. By the end of middle school, students will be able to apply Newton’s Third 
+Law of Motion to relate forces to explain the motion of objects. Students also apply ideas about 
+gravitational, electrical, and magnetic forces to explain a variety of phenomena including 
+beginning ideas about why some materials attract each other while others repel. In particular, 
+students will develop understanding that gravitational interactions are always attractive but that 
+September 2017
+©2013 Achieve, Inc. All rights reserved.
+47 of 103
+
+PDF PAGE 48
+ 
+ 
+electrical and magnetic forces can be both attractive and negative. Students also develop ideas 
+that objects can exert forces on each other even though the objects are not in contact, through 
+fields. Students are also able to apply an engineering practice and concept to solve a problem 
+caused when objects collide. The crosscutting concepts of cause and effect; system and system 
+models; stability and change; and the influence of science, engineering, and technology on 
+society and the natural world serve as organizing concepts for these disciplinary core ideas. In 
+the PS2 performance expectations, students are expected to demonstrate proficiency in asking 
+questions, planning and carrying out investigations, and designing solutions, and engaging in 
+argument; and to use these practices to demonstrate understanding of the core ideas.  
+ 
+The performance expectations in PS3: Energy help students formulate an answer to the 
+question, “How can energy be transferred from one object or system to another?” At the middle 
+school level, the PS3 Disciplinary Core Idea from the NRC Framework is broken down into four 
+sub-core ideas:  Definitions of Energy, Conservation of Energy and Energy Transfer, the 
+Relationship between Energy and Forces, and Energy in Chemical Process and Everyday Life.  
+Students develop their understanding of important qualitative ideas about energy including that 
+the interactions of objects can be explained and predicted using the concept of transfer of 
+energy from one object or system of objects to another, and the total change of energy in any 
+system is always equal to the total energy transferred into or out of the system. Students 
+understand that objects that are moving have kinetic energy and that objects may also contain 
+stored (potential) energy, depending on their relative positions. Students will also come to know 
+the difference between energy and temperature, and begin to develop an understanding of the 
+relationship between force and energy. Students are also able to apply an understanding of 
+design to the process of energy transfer. The crosscutting concepts of scale, proportion, and 
+quantity; systems and system models; and energy are called out as organizing concepts for 
+these disciplinary core ideas. The performance expectations in PS3 expect students to 
+demonstrate proficiency in developing and using models, planning investigations, analyzing and 
+interpreting data, and designing solutions, and engaging in argument from evidence; and to use 
+these practices to demonstrate understanding of the core ideas in PS3.  
+ 
+The performance expectations in PS4: Waves and Their Applications in Technologies for 
+Information Transfer help students formulate an answer to the question, “What are the 
+characteristic properties of waves and how can they be used?” At the middle school level, the 
+PS4 Disciplinary Core Idea from the NRC Framework is broken down into Wave Properties, 
+Electromagnetic Radiation, and Information Technologies and Instrumentation. Students are 
+able to describe and predict characteristic properties and behaviors of waves when the waves 
+interact with matter. Students can apply an understanding of waves as a means to send digital 
+information. The crosscutting concepts of patterns and structure and function are used as 
+organizing concepts for these disciplinary core ideas. The performance expectations in PS4 
+focus on students demonstrating proficiency in developing and using models, using 
+mathematical thinking, and obtaining, evaluating and communicating information; and to use 
+these practices to demonstrate understanding of the core ideas. 
+ 
+September 2017
+©2013 Achieve, Inc. All rights reserved.
+48 of 103
+
+PDF PAGE 49
+MS-PS1  Matter and Its Interactions 
+*The performance expectations marked with an asterisk integrate traditional science content with engineering through a Practice or  Disciplinary Core Idea. 
+The section entitled “Disciplinary Core Ideas” is reproduced verbatim from A Framework for K-12 Science Education: Practices, Cross-Cutting Concepts, and Core Ideas.  Integrated 
+and reprinted with permission from the National Academy of Sciences. 
+MS-PS1     Matter and Its Interactions 
+Students who demonstrate understanding can:   
+MS-PS1-1. Develop models to describe the atomic composition of simple molecules and extended structures.  [Clarification 
+Statement:  Emphasis is on developing models of molecules that vary in complexity. Examples of simple molecules could include  ammonia and methanol. Examples 
+of extended structures could include sodium chloride or diamonds. Examples of molecular-level models could include drawings, 3D ball and stick structures , or 
+computer representations showing different molecules with different types of atoms.]  [Assessment Boundary:  Assessment does not include valence electrons and 
+bonding energy, discussing the ionic nature of subunits of complex structures, or a complete depiction of all individual atoms in a complex molecule or extended 
+structure.] 
+MS-PS1-2. Analyze and interpret data on the properties of substances before and after the substances interact to determine 
+if a chemical reaction has occurred.  [Clarification Statement:  Examples of reactions could include burning sugar or steel wool, fat reacting with 
+sodium hydroxide, and mixing zinc with hydrogen chloride.] [Assessment Boundary:  Assessment is limited to analysis of the following properties:  density, melting 
+point, boiling point, solubility, flammability, and odor.] 
+MS-PS1-3. Gather and make sense of information to describe that synthetic materials come from natural resources and 
+impact society.  [Clarification Statement:  Emphasis is on natural resources that undergo a chemical process to form the synthetic material. E xamples of new 
+materials could include new medicine, foods, and alternative fuels.] [Assessment Boundary:  Assessment is limited to qualitative information.]  
+MS-PS1-4. Develop a model that predicts and describes changes in particle motion, temperature, and state of a pure 
+substance when thermal energy is added or removed.  [Clarification Statement:  Emphasis is on qualitative molecular-level models of solids, 
+liquids, and gases to show that adding or removing thermal energy increases or decreases kinetic energy of the particles unti l a change of state occurs. Examples of 
+models could include drawings and diagrams. Examples of particles could include molecules or inert atoms. Examples of pure substances could include water, carbon 
+dioxide, and helium.] 
+MS-PS1-5. Develop and use a model to describe how the total number of atoms does not change in a chemical reaction and 
+thus mass is conserved.  [Clarification Statement:  Emphasis is on law of conservation of matter and on physical models or drawings, including digital  
+forms, that represent atoms.] [Assessment Boundary:  Assessment does not include the use of atomic masses, balancing symbolic equa tions, or intermolecular 
+forces.]   
+MS-PS1-6. Undertake a design project to construct, test, and modify a device that either releases or absorbs thermal energy 
+by chemical processes.*  [Clarification Statement:  Emphasis is on the design, controlling the transfer of  energy to the environment, and modification of a 
+device using factors such as type and concentration of a substance. Examples of d esigns could involve chemical reactions such as dissolving ammonium chloride or 
+calcium chloride.] [Assessment Boundary:  Assessment is limited to the criteria of amount, time, and temperature of substance in testing the device.] 
+The performance expectations above were developed using the following elements from the NRC document  A Framework for K-12 Science Education: 
+ 
+Science and Engineering Practices 
+Developing and Using Models 
+Modeling in 6–8 builds on K–5 and progresses to 
+developing, using and revising models to describe, test, 
+and predict more abstract phenomena and design 
+systems. 
+▪ Develop a model to predict and/or describe 
+phenomena. (MS-PS1-1),(MS-PS1-4) 
+▪ Develop a model to describe unobservable 
+mechanisms. (MS-PS1-5) 
+Analyzing and Interpreting Data 
+Analyzing data in 6–8 builds on K–5 and progresses to 
+extending quantitative analysis to investigations, 
+distinguishing between correlation and causation, and 
+basic statistical techniques of data and error analysis. 
+▪ Analyze and interpret data to determine similarities 
+and differences in findings. (MS-PS1-2) 
+Constructing Explanations and Designing 
+Solutions 
+Constructing explanations and designing solutions in 6–8 
+builds on K–5 experiences and progresses to include 
+constructing explanations and designing solutions 
+supported by multiple sources of evidence consistent with 
+scientific knowledge, principles, and theories. 
+▪ Undertake a design project, engaging in the design 
+cycle, to construct and/or implement a solution that 
+meets specific design criteria and constraints. (MS-
+PS1-6) 
+Obtaining, Evaluating, and Communicating 
+Information  
+Obtaining, evaluating, and communicating information in 
+6–8 builds on K–5 and progresses to evaluating the merit 
+and validity of ideas and methods. 
+▪ Gather, read, and synthesize information from 
+multiple appropriate sources and assess the 
+credibility, accuracy, and possible bias of each 
+publication and methods used, and describe how 
+they are supported or not supported by evidence. 
+(MS-PS1-3) 
+--------------------------------------------- 
+Connections to Nature of Science 
+ 
+Scientific Knowledge is Based on Empirical 
+Evidence 
+▪ Science knowledge is based upon logical and 
+conceptual connections between evidence and 
+ 
+Disciplinary Core Ideas 
+PS1.A:  Structure and Properties of Matter 
+▪ Substances are made from different types of atoms, which 
+combine with one another in various ways. Atoms form 
+molecules that range in size from two to thousands of atoms. 
+(MS-PS1-1) 
+▪ Each pure substance has characteristic physical and chemical 
+properties (for any bulk quantity under given conditions) that 
+can be used to identify it. (MS-PS1-2),(MS-PS1-3) 
+▪ Gases and liquids are made of molecules or inert atoms that are 
+moving about relative to each other. (MS-PS1-4) 
+▪ In a liquid, the molecules are constantly in contact with others; 
+in a gas, they are widely spaced except when they happen to 
+collide. In a solid, atoms are closely spaced and may vibrate in 
+position but do not change relative locations. (MS-PS1-4) 
+▪ Solids may be formed from molecules, or they may be extended 
+structures with repeating subunits (e.g., crystals). (MS-PS1-1) 
+▪ The changes of state that occur with variations in temperature 
+or pressure can be described and predicted using these models 
+of matter. (MS-PS1-4) 
+PS1.B:  Chemical Reactions 
+▪ Substances react chemically in characteristic ways.  In a 
+chemical process, the atoms that make up the original 
+substances are regrouped into different molecules, and these 
+new substances have different properties from those of the 
+reactants. (MS-PS1-2),(MS-PS1-3),(MS-PS1-5) 
+▪ The total number of each type of atom is conserved, and thus 
+the mass does not change. (MS-PS1-5) 
+▪ Some chemical reactions release energy, others store energy. 
+(MS-PS1-6) 
+PS3.A:  Definitions of Energy 
+▪ The term “heat” as used in everyday language refers both to 
+thermal energy (the motion of atoms or molecules within a 
+substance) and the transfer of that thermal energy from one 
+object to another.  In science, heat is used only for this second 
+meaning; it refers to the energy transferred due to the 
+temperature difference between two objects. (secondary to MS-
+PS1-4) 
+▪ The temperature of a system is proportional to the average 
+internal kinetic energy and potential energy per atom or 
+molecule (whichever is the appropriate building block for the 
+system’s material).  The details of that relationship depend on 
+the type of atom or molecule and the interactions among the 
+atoms in the material. Temperature is not a direct measure of a 
+system's total thermal energy. The total thermal energy 
+(sometimes called the total internal energy) of a system depends 
+ 
+Crosscutting Concepts 
+Patterns 
+▪ Macroscopic patterns are related to the 
+nature of microscopic and atomic-level 
+structure. (MS-PS1-2) 
+Cause and Effect  
+▪ Cause and effect relationships may be used to 
+predict phenomena in natural or designed 
+systems. (MS-PS1-4) 
+Scale, Proportion, and Quantity 
+▪ Time, space, and energy phenomena can be 
+observed at various scales using models to 
+study systems that are too large or too small. 
+(MS-PS1-1) 
+Energy and Matter  
+▪ Matter is conserved because atoms are 
+conserved in physical and chemical processes. 
+(MS-PS1-5) 
+▪ The transfer of energy can be tracked as 
+energy flows through a designed or natural 
+system. (MS-PS1-6) 
+Structure and Function 
+▪ Structures can be designed to serve particular 
+functions by taking into account properties of 
+different materials, and how materials can be 
+shaped and used. (MS-PS1-3) 
+ 
+------------------------------------------------ 
+Connections to Engineering, Technology, 
+and Applications of Science 
+ 
+Interdependence of Science, Engineering, 
+and Technology 
+▪ Engineering advances have led to important 
+discoveries in virtually every field of science, 
+and scientific discoveries have led to the 
+development of entire industries and 
+engineered systems. (MS-PS1-3) 
+Influence of Science, Engineering and 
+Technology on Society and the Natural 
+World 
+▪ The uses of technologies and any limitations 
+on their use are driven by individual or 
+societal needs, desires, and values; by the 
+findings of scientific research; and by 
+differences in such factors as climate, natural 
+September 2017
+©2013 Achieve, Inc. All rights reserved.
+49 of 103
+
+PDF PAGE 50
+MS-PS1  Matter and Its Interactions 
+*The performance expectations marked with an asterisk integrate traditional science content with engineering through a Practice or  Disciplinary Core Idea. 
+The section entitled “Disciplinary Core Ideas” is reproduced verbatim from A Framework for K-12 Science Education: Practices, Cross-Cutting Concepts, and Core Ideas.  Integrated 
+and reprinted with permission from the National Academy of Sciences. 
+explanations. (MS-PS1-2) 
+Science Models, Laws, Mechanisms, and Theories 
+Explain Natural Phenomena 
+▪ Laws are regularities or mathematical descriptions of 
+natural phenomena. (MS-PS1-5) 
+jointly on the temperature, the total number of atoms in the 
+system, and the state of the material. (secondary to MS-PS1-4) 
+ETS1.B:  Developing Possible Solutions 
+▪ A solution needs to be tested, and then modified on the basis of 
+the test results, in order to improve it. (secondary to MS-PS1-6) 
+ETS1.C:  Optimizing the Design Solution 
+▪ Although one design may not perform the best across all tests, 
+identifying the characteristics of the design that performed the 
+best in each test can provide useful information for the redesign 
+process—that is, some of the characteristics may be 
+incorporated into the new design. (secondary to MS-PS1-6) 
+▪ The iterative process of testing the most promising solutions and 
+modifying what is proposed on the basis of the test results leads 
+to greater refinement and ultimately to an optimal solution. 
+(secondary to MS-PS1-6) 
+resources, and economic conditions. Thus 
+technology use varies from region to region 
+and over time. (MS-PS1-3) 
+ 
+ 
+Connections to other DCIs in this grade-band:  MS.PS3.D (MS-PS1-2),(MS-PS1-6); MS.LS1.C (MS-PS1-2),(MS-PS1-5); MS.LS2.A (MS-PS1-3); MS.LS2.B (MS-PS1-5); MS.LS4.D 
+(MS-PS1-3); MS.ESS2.A (MS-PS1-2),(MS-PS1-5); MS.ESS2.C (MS-PS1-1),(MS-PS1-4); MS.ESS3.A (MS-PS1-3); MS.ESS3.C (MS-PS1-3) 
+Articulation across grade-bands:  5.PS1.A (MS-PS1-1); 5.PS1.B (MS-PS1-2),(MS-PS1-5); HS.PS1.A (MS-PS1-1),(MS-PS1-3),(MS-PS1-4),(MS-PS1-6); HS.PS1.B (MS-PS1-2),(MS-PS1-
+4),(MS-PS1-5),(MS-PS1-6); HS.PS3.A (MS-PS1-4),(MS-PS1-6); HS.PS3.B (MS-PS1-6); HS.PS3.D (MS-PS1-6); HS.LS2.A (MS-PS1-3); HS.LS4.D (MS-PS1-3); HS.ESS1.A (MS-PS1-
+1); HS.ESS3.A (MS-PS1-3) 
+Common Core State Standards Connections:  
+ELA/Literacy –  
+RST.6-8.1  Cite specific textual evidence to support analysis of science and technical texts, attending to the precise details of explan ations or descriptions (MS-PS1-2),(MS-
+PS1-3) 
+RST.6-8.3  Follow precisely a multistep procedure when carrying out experiments, taking measurements, or performing technical tasks. (MS -PS1-6) 
+RST.6-8.7  Integrate quantitative or technical information expressed in words in a text with a version of that information expressed visually (e.g., in a flowchart, diagram, 
+model, graph, or table). (MS-PS1-1),(MS-PS1-2),(MS-PS1-4),(MS-PS1-5) 
+WHST.6-8.7  Conduct short research projects to answer a question (including a self -generated question), drawing on several sources and generating additional related, 
+focused questions that allow for multiple avenues of exploration. (MS-PS1-6) 
+WHST.6-8.8   Gather relevant information from multiple print and digital sources, using search terms effectively; assess the credibility and accuracy of each source; and quote 
+or paraphrase the data and conclusions of others while avoiding plagiarism and following a standard format for citation.  (MS-PS1-3) 
+Mathematics –  
+MP.2 Reason abstractly and quantitatively.  (MS-PS1-1),(MS-PS1-2),(MS-PS1-5) 
+MP.4 Model with mathematics. (MS-PS1-1),(MS-PS1-5) 
+6.RP.A.3 Use ratio and rate reasoning to solve real-world and mathematical problems. (MS-PS1-1),(MS-PS1-2),(MS-PS1-5) 
+6.NS.C.5 Understand that positive and negative numbers are used together to describe quantities having opposite directions or values (e.g., temperature above/below  
+zero, elevation above/below sea level, credits/debits, positive/negative electric charge); use positive and negative numbers to represent quantities in real-world 
+contexts, explaining the meaning of 0 in each situation. (MS-PS1-4) 
+8.EE.A.3 Use numbers expressed in the form of a single digit times an integer power of 10 to estimate very large or very small quantit ies, and to express how many times 
+as much one is than the other. (MS-PS1-1) 
+6.SP.B.4 Display numerical data in plots on a number line, including dot plots, histograms, and box plots.  (MS-PS1-2) 
+6.SP.B.5 Summarize numerical data sets in relation to their context (MS-PS1-2) 
+ 
+September 2017
+©2013 Achieve, Inc. All rights reserved.
+50 of 103
+
+PDF PAGE 51
+MS-PS2  Motion and Stability:  Forces and Interactions 
+*The performance expectations marked with an asterisk integrate traditional science content with engineering through a Practi ce or Disciplinary Core Idea. 
+The section entitled “Disciplinary Core Ideas” is reproduced verbatim from A Framework for K -12 Science Education: Practices, Cross-Cutting Concepts, and Core Ideas.  Integrated 
+and reprinted with permission from the National Academy of Sciences. 
+MS-PS2     Motion and Stability:  Forces and Interactions 
+Students who demonstrate understanding can: 
+MS-PS2-1. Apply Newton’s Third Law to design a solution to a problem involving the motion of two colliding objects.*   
+[Clarification Statement:  Examples of practical problems could include the impact of collisions between two cars, between a c ar and stationary objects, and 
+between a meteor and a space vehicle.] [Assessment Boundary:  Assessment is limited to vertical or horizontal interactions in one dimension.] 
+MS-PS2-2. Plan an investigation to provide evidence that the change in an object’s motion depends on the sum of the 
+forces on the object and the mass of the object.  [Clarification Statement:  Emphasis is on balanced (Newton’s First Law) and unbalanced 
+forces in a system, qualitative comparisons of forces, mass and changes in motion (Newton’s Second Law), frame of reference, and specification of units.] 
+[Assessment Boundary:  Assessment is limited to forces and changes in motion in one-dimension in an inertial reference frame and to change in one variable at a 
+time. Assessment does not include the use of trigonometry.] 
+MS-PS2-3. Ask questions about data to determine the factors that affect the strength of electric and magnetic forces.  
+[Clarification Statement:  Examples of devices that use electric and magnetic forces could include electromagnets, electric m otors, or generators. Examples of 
+data could include the effect of the number of turns of wire on the strength of an electromagnet, or the effect of increasing the number or strength of magnets 
+on the speed of an electric motor.] [Assessment Boundary:  Assessment about questions that require quantitative answers is li mited to proportional reasoning and 
+algebraic thinking.] 
+MS-PS2-4. Construct and present arguments using evidence to support the claim that gravitational interactions are 
+attractive and depend on the masses of interacting objects.  [Clarification Statement:  Examples of evidence for arguments could 
+include data generated from simulations or digital tools; and charts displaying mass, strength of interaction, distance from the Sun, and orbital periods of objects 
+within the solar system.] [Assessment Boundary:  Assessment does not include Newton’s Law of Gravitation or Kepler’s Laws.] 
+MS-PS2-5. Conduct an investigation and evaluate the experimental design to provide evidence that fields exist between 
+objects exerting forces on each other even though the objects are not in contact.  [Clarification Statement:  Examples of this 
+phenomenon could include the interactions of magnets, electrically-charged strips of tape, and electrically-charged pith balls. Examples of investigations could 
+include first-hand experiences or simulations.] [Assessment Boundary:  Assessment is limited to electric and magnetic fields, and limited to qualitative evidence 
+for the existence of fields.]  
+The performance expectations above were developed using the following elements from the NRC document  A Framework for K-12 Science Education: 
+ 
+Science and Engineering Practices 
+Asking Questions and Defining Problems 
+Asking questions and defining problems in grades 6–8 builds from grades 
+K–5 experiences and progresses to specifying relationships between 
+variables, and clarifying arguments and models. 
+▪ Ask questions that can be investigated within the scope of the 
+classroom, outdoor environment, and museums and other public 
+facilities with available resources and, when appropriate, frame a 
+hypothesis based on observations and scientific principles. (MS-PS2-3) 
+Planning and Carrying Out Investigations 
+Planning and carrying out investigations to answer questions or test 
+solutions to problems in 6–8 builds on K–5 experiences and progresses to 
+include investigations that use multiple variables and provide evidence to 
+support explanations or design solutions. 
+▪ Plan an investigation individually and collaboratively, and in the design: 
+identify independent and dependent variables and controls, what tools 
+are needed to do the gathering, how measurements will be recorded, 
+and how many data are needed to support a claim. (MS-PS2-2) 
+▪ Conduct an investigation and evaluate the experimental design to 
+produce data to serve as the basis for evidence that can meet the 
+goals of the investigation. (MS-PS2-5) 
+Constructing Explanations and Designing Solutions  
+Constructing explanations and designing solutions in 6–8 builds on K–5 
+experiences and progresses to include constructing explanations and 
+designing solutions supported by multiple sources of evidence consi stent 
+with scientific ideas, principles, and theories. 
+▪ Apply scientific ideas or principles to design an object, tool, process or 
+system. (MS-PS2-1) 
+Engaging in Argument from Evidence 
+Engaging in argument from evidence in 6–8 builds from K–5 experiences 
+and progresses to constructing a convincing argument that supports or 
+refutes claims for either explanations or solutions about the natural and 
+designed world.  
+▪ Construct and present oral and written arguments supported by 
+empirical evidence and scientific reasoning to support or refute an 
+explanation or a model for a phenomenon or a solution to a problem. 
+(MS-PS2-4) 
+ 
+------------------------------------------------------ 
+Connections to Nature of Science  
+ 
+Scientific Knowledge is Based on Empirical E vidence 
+▪ Science knowledge is based upon logical and conceptual connections 
+between evidence and explanations. (MS-PS2-2),(MS-PS2-4) 
+ 
+Disciplinary Core Ideas 
+PS2.A:  Forces and Motion 
+▪ For any pair of interacting objects, the force 
+exerted by the first object on the second object is 
+equal in strength to the force that the second 
+object exerts on the first, but in the opposite 
+direction (Newton’s third law). (MS-PS2-1) 
+▪ The motion of an object is determined by the sum 
+of the forces acting on it; if the total force on the 
+object is not zero, its motion will change. The 
+greater the mass of the object, the greater the 
+force needed to achieve the same change in 
+motion. For any given object, a larger force causes 
+a larger change in motion. (MS-PS2-2) 
+▪ All positions of objects and the directions of forces 
+and motions must be described in an arbitrarily 
+chosen reference frame and arbitrarily chosen units 
+of size. In order to share information with other 
+people, these choices must also be shared. (MS-
+PS2-2) 
+PS2.B:  Types of Interactions 
+▪ Electric and magnetic (electromagnetic) forces can 
+be attractive or repulsive, and their sizes depend on 
+the magnitudes of the charges, currents, or 
+magnetic strengths involved and on the distances 
+between the interacting objects. (MS-PS2-3) 
+▪ Gravitational forces are always attractive. There is a 
+gravitational force between any two masses, but it 
+is very small except when one or both of the 
+objects have large mass—e.g., Earth and the sun. 
+(MS-PS2-4) 
+▪ Forces that act at a distance (electric, magnetic, 
+and gravitational) can be explained by fields that 
+extend through space and can be mapped by their 
+effect on a test object (a charged object, or a ball, 
+respectively). (MS-PS2-5) 
+ 
+ 
+Crosscutting Concepts 
+Cause and Effect 
+▪ Cause and effect relationships may be 
+used to predict phenomena in natural or 
+designed systems. (MS-PS2-3),(MS-PS2-
+5) 
+Systems and System Models 
+▪ Models can be used to represent 
+systems and their interactions—such as 
+inputs, processes and outputs—and 
+energy and matter flows within 
+systems. (MS-PS2-1),(MS-PS2-4),  
+Stability and Change 
+▪ Explanations of stability and change in 
+natural or designed systems can be 
+constructed by examining the changes 
+over time and forces at different scales. 
+(MS-PS2-2) 
+ 
+---------------------------------------------- 
+Connections to Engineering, Technology, 
+and Applications of Science 
+ 
+Influence of Science, Engineering, and 
+Technology on Society and the Natural 
+World 
+▪ The uses of technologies and any 
+limitations on their use are driven by 
+individual or societal needs, desires, and 
+values; by the findings of scientific 
+research; and by differences in such 
+factors as climate, natural resources, 
+and economic conditions. (MS-PS2-1) 
+ 
+ 
+Connections to other DCIs in this grade-band:  MS.PS3.A (MS-PS2-2); MS.PS3.B (MS-PS2-2); MS.PS3.C (MS-PS2-1); MS.ESS1.A (MS-PS2-4); MS.ESS1.B (MS-PS2-4); 
+MS.ESS2.C (MS-PS2-2),(MS-PS2-4) 
+Articulation across grade-bands:  3.PS2.A (MS-PS2-1),(MS-PS2-2); 3.PS2.B (MS-PS2-3),(MS-PS2-5); 5.PS2.B (MS-PS2-4); HS.PS2.A (MS-PS2-1),(MS-PS2-2); HS.PS2.B (MS-PS2-
+3),(MS-PS2-4),(MS-PS2-5); HS.PS3.A (MS-PS2-5); HS.PS3.B (MS-PS2-2),(MS-PS2-5); HS.PS3.C (MS-PS2-5); HS.ESS1.B (MS-PS2-2),(MS-PS2-4) 
+Common Core State Standards Connections:  
+ELA/Literacy –  
+September 2017
+©2013 Achieve, Inc. All rights reserved.
+51 of 103
+
+PDF PAGE 52
+MS-PS2  Motion and Stability:  Forces and Interactions 
+*The performance expectations marked with an asterisk integrate traditional science content with engineering through a Practi ce or Disciplinary Core Idea. 
+The section entitled “Disciplinary Core Ideas” is reproduced verbatim from A Framework for K -12 Science Education: Practices, Cross-Cutting Concepts, and Core Ideas.  Integrated 
+and reprinted with permission from the National Academy of Sciences. 
+RST.6-8.1  Cite specific textual evidence to support analysis of science and technical texts, attending to the precise details of explan ations or descriptions (MS-PS2-1),(MS-
+PS2-3) 
+RST.6-8.3     Follow precisely a multistep procedure when carrying out experiments, taking measurements, or performing technical tasks. (MS-PS2-1),(MS-PS2-2),(MS-PS2-
+5) 
+WHST.6-8.1  Write arguments focused on discipline-specific content. (MS-PS2-4) 
+WHST.6-8.7               Conduct short research projects to answer a question (including a self -generated question), drawing on several sources and generating additional related, 
+focused questions that allow for multiple avenues of exploration. (MS-PS2-1),(MS-PS2-2),(MS-PS2-5) 
+Mathematics –  
+MP.2  Reason abstractly and quantitatively. (MS-PS2-1),(MS-PS2-2),(MS-PS2-3) 
+6.NS.C.5 Understand that positive and negative numbers are used together to describe quantities having opposite directions or values; use positive and negative 
+numbers to represent quantities in real-world contexts, explaining the meaning of 0 in each situation. (MS-PS2-1) 
+6.EE.A.2 Write, read, and evaluate expressions in which letters stand for numbers. (MS-PS2-1),(MS-PS2-2) 
+7.EE.B.3 Solve multi-step real-life and mathematical problems posed with positive and negative rational numbers in any form, using tools strategically. Appl y properties 
+of operations to calculate with numbers in any form; convert between forms as appropriate; and a ssess the reasonableness of answers using mental 
+computation and estimation strategies. (MS-PS2-1),(MS-PS2-2) 
+7.EE.B.4 Use variables to represent quantities in a real-world or mathematical problem, and construct simple equations and inequalities to solve p roblems by reasoning 
+about the quantities. (MS-PS2-1),(MS-PS2-2) 
+ 
+ 
+September 2017
+©2013 Achieve, Inc. All rights reserved.
+52 of 103
+
+PDF PAGE 53
+MS-PS3  Energy 
+*The performance expectations marked with an asterisk integrate traditional science content with engineering through a Practi ce or Disciplinary Core Idea. 
+The section entitled “Disciplinary Core Ideas” is reproduced verbatim from A Framework for K -12 Science Education: Practices, Cross-Cutting Concepts, and Core Ideas.  Integrated 
+and reprinted with permission from the National Academy of Sciences. 
+MS-PS3  Energy 
+Students who demonstrate understanding can: 
+MS-PS3-1. Construct and interpret graphical displays of data to describe the relationships of kinetic energy to the mass of an 
+object and to the speed of an object.  [Clarification Statement:  Emphasis is on descriptive relationships between kinetic energy and mass separately 
+from kinetic energy and speed. Examples could include riding a bicycle at different speeds, rolling different sizes of rocks downhill, and getting hit by a wiffle ball 
+versus a tennis ball.] 
+MS-PS3-2. Develop a model to describe that when the arrangement of objects interacting at a distance changes, different 
+amounts of potential energy are stored in the system.  [Clarification Statement:  Emphasis is on relative amounts of potential energy, not on 
+calculations of potential energy. Examples of objects within systems interacting at varying distances could include:  the Earth and either a roller coaster cart at varying 
+positions on a hill or objects at varying heights on shelves, changing the direction/orientation of a magnet, and a balloon w ith static electrical charge being brought 
+closer to a classmate’s hair. Examples of models could include representations, diagrams, pictures, and written descriptions of systems.] [Assessment Boundary:  
+Assessment is limited to two objects and electric, magnetic, and gravitational interactions. ]  
+MS-PS3-3. Apply scientific principles to design, construct, and test a device that either minimizes or maximizes thermal 
+energy transfer.*  [Clarification Statement:  Examples of devices could include an insulated box, a solar cooker, and a Styrofoam cup.] [Assessment 
+Boundary:  Assessment does not include calculating the total amount of thermal energy transferred.]  
+MS-PS3-4. Plan an investigation to determine the relationships among the energy transferred, the type of matter, the mass, 
+and the change in the average kinetic energy of the particles as measured by the temperature of the sample.   
+[Clarification Statement:  Examples of experiments could include comparing final water temperatures after different masses of ice melted in the same vol ume of water 
+with the same initial temperature, the temperature change of samples of different materials with the same mass as the y cool or heat in the environment, or the same 
+material with different masses when a specific amount of energy is added. ] [Assessment Boundary:  Assessment does not include calculating the total amount of 
+thermal energy transferred.] 
+MS-PS3-5. Construct, use, and present arguments to support the claim that when the kinetic energy of an object changes, 
+energy is transferred to or from the object.  [Clarification Statement:  Examples of empirical evidence used in arguments could include an 
+inventory or other representation of the energy before and after the transfer in the form of temperature changes or motion of object.] [Assessment Boundary:  
+Assessment does not include calculations of energy.] 
+The performance expectations above were developed using the following elements from the NRC document A Framework for K-12 Science Education: 
+ 
+Science and Engineering Practices 
+Developing and Using Models 
+Modeling in 6–8 builds on K–5 and progresses to developing, using and 
+revising models to describe, test, and predict more abstract phenomena and 
+design systems. 
+▪ Develop a model to describe unobservable mechanisms. (MS-PS3-2) 
+Planning and Carrying Out Investigations 
+Planning and carrying out investigations to answer questions or test solutions 
+to problems in 6–8 builds on K–5 experiences and progresses to include 
+investigations that use multiple variables and provide evidence to support 
+explanations or design solutions. 
+▪ Plan an investigation individually and collaboratively, and in the design: 
+identify independent and dependent variables and controls, what tools 
+are needed to do the gathering, how measurements will be recorded, and 
+how many data are needed to support a claim. (MS-PS3-4) 
+Analyzing and Interpreting Data  
+Analyzing data in 6–8 builds on K–5 and progresses to extending quantitative 
+analysis to investigations, distinguishing between correlation and causation, 
+and basic statistical techniques of data and error analysis.  
+▪ Construct and interpret graphical displays of data to identify linear and 
+nonlinear relationships. (MS-PS3-1) 
+Constructing Explanations and Designing Solutions  
+Constructing explanations and designing solutions in 6–8 builds on K–5 
+experiences and progresses to include constructing explanations and 
+designing solutions supported by multiple sources of evidence consistent with 
+scientific ideas, principles, and theories. 
+▪ Apply scientific ideas or principles to design, construct, and test a design 
+of an object, tool, process or system. (MS-PS3-3) 
+Engaging in Argument from Evidence 
+Engaging in argument from evidence in 6–8 builds on K–5 experiences and 
+progresses to constructing a convincing argument that supports or refutes 
+claims for either explanations or solutions about the natural and designed 
+worlds.  
+▪ Construct, use, and present oral and written arguments supported by 
+empirical evidence and scientific reasoning to support or refute an 
+explanation or a model for a phenomenon. (MS-PS3-5) 
+ 
+------------------------------------------------- 
+Connections to Nature of Science  
+ 
+Scientific Knowledge is Based on Empirical Evidence 
+▪ Science knowledge is based upon logical and conceptual connections 
+between evidence and explanations (MS-PS3-4),(MS-PS3-5) 
+ 
+Disciplinary Core Ideas 
+PS3.A:  Definitions of Energy  
+▪ Motion energy is properly called kinetic energy; it is 
+proportional to the mass of the moving object and 
+grows with the square of its speed. (MS-PS3-1) 
+▪ A system of objects may also contain stored 
+(potential) energy, depending on their relative 
+positions. (MS-PS3-2) 
+▪ Temperature is a measure of the average kinetic 
+energy of particles of matter. The relationship between 
+the temperature and the total energy of a system 
+depends on the types, states, and amounts of matter 
+present. (MS-PS3-3),(MS-PS3-4) 
+PS3.B:  Conservation of Energy and Energy Transfer 
+▪ When the motion energy of an object changes, there 
+is inevitably some other change in energy at the same 
+time. (MS-PS3-5) 
+▪ The amount of energy transfer needed to change the 
+temperature of a matter sample by a given amount 
+depends on the nature of the matter, the size of the 
+sample, and the environment. (MS-PS3-4) 
+▪ Energy is spontaneously transferred out of hotter 
+regions or objects and into colder ones. (MS-PS3-3) 
+PS3.C:  Relationship Between Energy and Forces 
+▪ When two objects interact, each one exerts a force on 
+the other that can cause energy to be transferred to or 
+from the object. (MS-PS3-2) 
+ETS1.A:  Defining and Delimiting an Engineering 
+Problem 
+▪ The more precisely a design task’s criteria and 
+constraints can be defined, the more likely it is that 
+the designed solution will be successful. Specification 
+of constraints includes consideration of scientific 
+principles and other relevant knowledge that is likely 
+to limit possible solutions. (secondary to MS-PS3-3) 
+ETS1.B:  Developing Possible Solutions 
+▪ A solution needs to be tested, and then modified on 
+the basis of the test results in order to improve it. 
+There are systematic processes for evaluating 
+solutions with respect to how well they meet criteria 
+and constraints of a problem. (secondary to MS-PS3-3) 
+ 
+ 
+Crosscutting Concepts 
+Scale, Proportion, and Quantity 
+▪ Proportional relationships (e.g. speed 
+as the ratio of distance traveled to 
+time taken) among different types of 
+quantities provide information about 
+the magnitude of properties and 
+processes. (MS-PS3-1),(MS-PS3-4) 
+Systems and System Models 
+▪ Models can be used to represent 
+systems and their interactions – such 
+as inputs, processes, and outputs – 
+and energy and matter flows within 
+systems. (MS-PS3-2) 
+Energy and Matter  
+▪ Energy may take different forms 
+(e.g. energy in fields, thermal 
+energy, energy of motion). (MS-PS3-
+5) 
+▪ The transfer of energy can be 
+tracked as energy flows through a 
+designed or natural system. (MS-
+PS3-3) 
+ 
+ 
+ 
+Connections to other DCIs in this grade-band:  MS.PS1.A (MS-PS3-4); MS.PS1.B (MS-PS3-3); MS.PS2.A (MS-PS3-1),(MS-PS3-4),(MS-PS3-5); MS.ESS2.A (MS-PS3-3); MS.ESS2.C 
+(MS-PS3-3),(MS-PS3-4); MS.ESS2.D (MS-PS3-3),(MS-PS3-4); MS.ESS3.D (MS-PS3-4) 
+Articulation across grade-bands:  4.PS3.B (MS-PS3-1),(MS-PS3-3); 4.PS3.C (MS-PS3-4),(MS-PS3-5); HS.PS1.B (MS-PS3-4); HS.PS2.B (MS-PS3-2); HS.PS3.A (MS-PS3-1),(MS-PS3-
+4),(MS-PS3-5); HS.PS3.B (MS-PS3-1),(MS-PS3-2),(MS-PS3-3),(MS-PS3-4),(MS-PS3-5); HS.PS3.C (MS-PS3-2) 
+Common Core State Standards Connections: 
+September 2017
+©2013 Achieve, Inc. All rights reserved.
+53 of 103
+
+PDF PAGE 54
+MS-PS3  Energy 
+*The performance expectations marked with an asterisk integrate traditional science content with engineering through a Practi ce or Disciplinary Core Idea. 
+The section entitled “Disciplinary Core Ideas” is reproduced verbatim from A Framework for K -12 Science Education: Practices, Cross-Cutting Concepts, and Core Ideas.  Integrated 
+and reprinted with permission from the National Academy of Sciences. 
+ELA/Literacy –  
+RST.6-8.1  Cite specific textual evidence to support analysis of science and technical texts, attending to the precise details of explanations or descriptions  (MS-PS3-1),(MS-
+PS3-5) 
+RST.6-8.3   Follow precisely a multistep procedure when carrying out experiments, taking measurements, or pe rforming technical tasks. (MS-PS3-3),(MS-PS3-4) 
+RST.6-8.7   Integrate quantitative or technical information expressed in words in a text with a version of that information expressed vis ually (e.g., in a flowchart, diagram, 
+model, graph, or table). (MS-PS3-1) 
+WHST.6-8.1   Write arguments focused on discipline content. (MS-PS3-5) 
+WHST.6-8.7  Conduct short research projects to answer a question (including a self -generated question), drawing on several sources and generating additional related, 
+focused questions that allow for multiple avenues of exploration. (MS-PS3-3),(MS-PS3-4) 
+SL.8.5  Integrate multimedia and visual displays into presentations to clarify information, strengthen claims and evidence, and add i nterest. (MS-PS3-2) 
+Mathematics –  
+MP.2  Reason abstractly and quantitatively. (MS-PS3-1),(MS-PS3-4),(MS-PS3-5) 
+6.RP.A.1  Understand the concept of ratio and use ratio language to describe a ratio relationship between two quantities. (MS -PS3-1),(MS-PS3-5) 
+6.RP.A.2  Understand the concept of a unit rate a/b associated with a ratio a:b with b ≠ 0, and use rate language in the context of a ratio relationship.  (MS-PS3-1) 
+7.RP.A.2 Recognize and represent proportional relationships between quantities. (MS -PS3-1),(MS-PS3-5) 
+8.EE.A.1 Know and apply the properties of integer exponents to generate equivalent numerical expressions. (MS -PS3-1) 
+8.EE.A.2 Use square root and cube root symbols to represent solutions to equations of the form x2 = p and x3 = p, where p is a positiv e rational number. Evaluate square 
+roots of small perfect squares and cube roots of small perfect cubes. Know that √2 is irrational.  (MS-PS3-1) 
+8.F.A.3 Interpret the equation y = mx + b as defining a linear function, whose graph is a straight line; give examples of functions t hat are not linear. (MS-PS3-1),(MS-
+PS3-5) 
+6.SP.B.5 Summarize numerical data sets in relation to their context. (MS-PS3-4) 
+ 
+September 2017
+©2013 Achieve, Inc. All rights reserved.
+54 of 103
+
+PDF PAGE 55
+MS-PS4  Waves and Their Applications in Technologies for Information Transfer 
+*The performance expectations marked with an asterisk integrate traditional science content with engineering through a Practi ce or Disciplinary Core Idea. 
+The section entitled “Disciplinary Core Ideas” is reproduced verbatim from A Framework for K-12 Science Education: Practices, Cross-Cutting Concepts, and Core Ideas.  Integrated 
+and reprinted with permission from the National Academy of Sciences.  
+MS-PS4     Waves and Their Applications in Technologies for Information Transfer 
+Students who demonstrate understanding can: 
+MS-PS4-1. Use mathematical representations to describe a simple model for waves that includes how the amplitude of a 
+wave is related to the energy in a wave.  [Clarification Statement:  Emphasis is on describing waves with both qualitative and quantitative 
+thinking.] [Assessment Boundary:  Assessment does not include electromagnetic waves and is limited to standard repeating waves. ]  
+MS-PS4-2. Develop and use a model to describe that waves are reflected, absorbed, or transmitted through various 
+materials.  [Clarification Statement:  Emphasis is on both light and mechanical waves. Examples of models could include drawings, simulations, and written 
+descriptions.] [Assessment Boundary:  Assessment is limited to qualitative applications pertaining to light and mechanical waves. ]  
+MS-PS4-3. Integrate qualitative scientific and technical information to support the claim that digitized signals are a more 
+reliable way to encode and transmit information than analog signals.  [Clarification Statement:  Emphasis is on a basic 
+understanding that waves can be used for communication purposes. Examples could include using fiber optic cable to transmit light pulses, radio wave pulses in wifi 
+devices, and conversion of stored binary patterns to make sound or text on a computer screen.] [ Assessment Boundary:  Assessment does not include binary 
+counting. Assessment does not include the specific mechanism of any given device.]  
+The performance expectations above were developed using the following elements from the NRC document  A Framework for K-12 Science Education: 
+ 
+Science and Engineering Practices 
+Developing and Using Models 
+Modeling in 6–8 builds on K–5 and progresses to developing, using, 
+and revising models to describe, test, and predict more abstract 
+phenomena and design systems. 
+▪ Develop and use a model to describe phenomena. (MS-PS4-2) 
+Using Mathematics and Computational Thinking 
+Mathematical and computational thinking at the 6–8 level builds on 
+K–5 and progresses to identifying patterns in large data sets and 
+using mathematical concepts to support explanations and arguments.  
+▪ Use mathematical representations to describe and/or support 
+scientific conclusions and design solutions. (MS-PS4-1) 
+Obtaining, Evaluating, and Communicating Information  
+Obtaining, evaluating, and communicating information in 6-8 builds 
+on K-5 and progresses to evaluating the merit and validity of ideas 
+and methods. 
+▪ Integrate qualitative scientific and technical information in 
+written text with that contained in media and visual displays to 
+clarify claims and findings. (MS-PS4-3) 
+ 
+---------------------------------------------------- 
+Connections to Nature of Science  
+ 
+Scientific Knowledge is Based on Empirical Evidence  
+▪ Science knowledge is based upon logical and conceptual 
+connections between evidence and explanations. (MS-PS4-1) 
+ 
+Disciplinary Core Ideas 
+PS4.A:  Wave Properties 
+▪ A simple wave has a repeating pattern with a specific 
+wavelength, frequency, and amplitude. (MS-PS4-1) 
+▪ A sound wave needs a medium through which it is transmitted. 
+(MS-PS4-2) 
+PS4.B:  Electromagnetic Radiation 
+▪ When light shines on an object, it is reflected, absorbed, or 
+transmitted through the object, depending on the object’s 
+material and the frequency (color) of the light. (MS-PS4-2) 
+▪ The path that light travels can be traced as straight lines, 
+except at surfaces between different transparent materials 
+(e.g., air and water, air and glass) where the light path bends. 
+(MS-PS4-2) 
+▪ A wave model of light is useful for explaining brightness, color, 
+and the frequency-dependent bending of light at a surface 
+between media. (MS-PS4-2) 
+▪ However, because light can travel through space, it cannot be 
+a matter wave, like sound or water waves. (MS-PS4-2) 
+PS4.C:  Information Technologies and Instrumentation 
+▪ Digitized signals (sent as wave pulses) are a more reliable way 
+to encode and transmit information. (MS-PS4-3) 
+ 
+ 
+Crosscutting Concepts 
+Patterns 
+▪ Graphs and charts can be used to 
+identify patterns in data. (MS-PS4-
+1) 
+Structure and Function  
+▪ Structures can be designed to serve 
+particular functions by taking into 
+account properties of different 
+materials, and how materials can 
+be shaped and used. (MS-PS4-2) 
+▪ Structures can be designed to serve 
+particular functions. (MS-PS4-3) 
+ 
+---------------------------------------- 
+Connections to Engineering, 
+Technology, and Applications of 
+Science 
+ 
+Influence of Science, Engineering, 
+and Technology on Society and the 
+Natural World 
+▪ Technologies extend the 
+measurement, exploration, 
+modeling, and computational 
+capacity of scientific investigations. 
+(MS-PS4-3) 
+----------------------------------------- 
+Connections to Nature of Science  
+ 
+Science is a Human Endeavor 
+▪ Advances in technology influence 
+the progress of science and science 
+has influenced advances in 
+technology. (MS-PS4-3) 
+Connections to other DCIs in this grade-band:  MS.LS1.D (MS-PS4-2) 
+Articulation across grade-bands:  4.PS3.A (MS-PS4-1); 4.PS3.B (MS-PS4-1); 4.PS4.A (MS-PS4-1); 4.PS4.B (MS-PS4-2); 4.PS4.C (MS-PS4-3); HS.PS4.A (MS-PS4-1),(MS-PS4-
+2),(MS-PS4-3); HS.PS4.B (MS-PS4-1),(MS-PS4-2); HS.PS4.C (MS-PS4-3);  HS.ESS1.A (MS-PS4-2); HS.ESS2.A (MS-PS4-2); HS.ESS2.C (MS-PS4-2); HS.ESS2.D (MS-PS4-2) 
+Common Core State Standards Connections:  
+ELA/Literacy –  
+RST.6-8.1  Cite specific textual evidence to support analysis of science and technical texts. (MS-PS4-3) 
+RST.6-8.2  Determine the central ideas or conclusions of a text; provide an accurate summary of the text distinct from prior knowledge o r opinions. (MS-PS4-3) 
+RST.6-8.9 Compare and contrast the information gained from experiments, simulations, video, or multimedia sources with that gained from reading a text on the same 
+topic. (MS-PS4-3) 
+WHST.6-8.9  Draw evidence from informational texts to support analysis, reflection, and research. (MS -PS4-3) 
+SL.8.5  Integrate multimedia and visual displays into presentations to clarify information, strengthen claims and evidence, and add interest.  (MS-PS4-1),(MS-PS4-2) 
+Mathematics –  
+MP.2 Reason abstractly and quantitatively. (MS-PS4-1) 
+MP.4 Model with mathematics. (MS-PS4-1) 
+6.RP.A.1 Understand the concept of a ratio and use ratio language to describe a ratio relationship between two quantities. (MS -PS4-1) 
+6.RP.A.3 Use ratio and rate reasoning to solve real-world and mathematical problems. (MS-PS4-1) 
+7.RP.A.2 Recognize and represent proportional relationships between quantities. (MS -PS4-1) 
+8.F.A.3 Interpret the equation y = mx + b as defining a linear function, whose graph is a straight line; give examples of functions t hat are not linear. (MS-PS4-1) 
+ 
+September 2017
+©2013 Achieve, Inc. All rights reserved.
+55 of 103
+
+PDF PAGE 56
+ 
+Middle School Life Science 
+ 
+Students in middle school develop understanding of key concepts to help them make sense of 
+life science. The ideas build upon students’ science understanding from earlier grades and from 
+the disciplinary core ideas, science and engineering practices, and crosscutting concepts of 
+other experiences with physical and earth sciences. There are four life science disciplinary core 
+ideas in middle school: 1) From Molecules to Organisms: Structures and Processes, 2) 
+Ecosystems: Interactions, Energy, and Dynamics, 3) Heredity: Inheritance and Variation of 
+Traits, 4) Biological Evolution: Unity and Diversity. The performance expectations in middle 
+school blend the core ideas with scientific and engineering practices and crosscutting concepts 
+to support students in developing useable knowledge across the science disciplines. While the 
+performance expectations in middle school life science couple particular practices with specific 
+disciplinary core ideas, instructional decisions should include use of many science and 
+engineering practices integrated in the performance expectations. 
+ 
+The performance expectations in LS1: From Molecules to Organisms: Structures and 
+Processes help students formulate an answer to the question, “How can one explain the ways 
+cells contribute to the function of living organisms.” The LS1 Disciplinary Core Idea from the 
+NRC Framework is organized into four sub-ideas:  Structure and Function, Growth and 
+Development of Organisms, Organization for Matter and Energy Flow in Organisms, and 
+Information Processing. Students can gather information and use this information to support 
+explanations of the structure and function relationship of cells. They can communicate 
+understanding of cell theory. They have a basic understanding of the role of cells in body 
+systems and how those systems work to support the life functions of the organism. The 
+understanding of cells provides a context for the plant process of photosynthesis and the 
+movement of matter and energy needed for the cell. Students can construct an explanation for 
+how environmental and genetic factors affect growth of organisms.  They can connect this to 
+the role of animal behaviors in reproduction of animals as well as the dependence of some 
+plants on animal behaviors for their reproduction. Crosscutting concepts of cause and effect, 
+structure and function, and matter and energy are called out as organizing concepts for the 
+core ideas about processes of living organisms.  
+ 
+The performance expectations in LS2: Interactions, Energy, and Dynamics Relationships 
+in Ecosystems help students formulate an answer to the question, “How does a system of 
+living and non-living things operate to meet the needs of the organisms in an ecosystem?” The 
+LS2 Disciplinary Core Idea is divided into three sub-ideas:  Interdependent Relationships in 
+Ecosystems; Cycles of Matter and Energy Transfer in Ecosystems; and Ecosystem Dynamics, 
+Functioning, and Resilience. Students can analyze and interpret data, develop models, and 
+construct arguments and demonstrate a deeper understanding of resources and the cycling of 
+matter and the flow of energy in ecosystems. They can also study patterns of the interactions 
+among organisms within an ecosystem. They consider biotic and abiotic factors in an ecosystem 
+and the effects these factors have on population. They evaluate competing design solutions for 
+maintaining biodiversity and ecosystem services.   
+ 
+The performance expectations in LS3: Heredity: Inheritance and Variation of Traits help 
+students formulate an answer to the question, “How do living organisms pass traits from one 
+generation to the next?” The LS3 Disciplinary Core Idea from the NRC Framework includes two 
+sub-ideas:  Inheritance of Traits, and Variation of Traits. Students can use models to describe 
+September 2017
+©2013 Achieve, Inc. All rights reserved.
+56 of 103
+
+PDF PAGE 57
+ 
+ways gene mutations and sexual reproduction contribute to genetic variation. Crosscutting 
+concepts of cause and effect and structure and function provide students with a deeper 
+understanding of how gene structure determines differences in the functioning of organisms. 
+ 
+The performance expectations in LS4: Biological Evolution: Unity and Diversity help 
+students formulate an answer to the question, “How do organisms change over time in 
+response to changes in the environment?” The LS4 Disciplinary Core Idea is divided into four 
+sub-ideas:  Evidence of Common Ancestry and Diversity, Natural Selection, Adaptation, and 
+Biodiversity and Humans. Students can construct explanations based on evidence to support 
+fundamental understandings of natural selection and evolution. They can use ideas of genetic 
+variation in a population to make sense of organisms surviving and reproducing, hence passing 
+on the traits of the species. They are able to use fossil records and anatomical similarities of the 
+relationships among organisms and species to support their understanding. Crosscutting 
+concepts of patterns and structure and function contribute to the evidence students can use to 
+describe biological evolution.     
+ 
+ 
+ 
+September 2017
+©2013 Achieve, Inc. All rights reserved.
+57 of 103
+
+PDF PAGE 58
+MS-LS1    From Molecules to Organisms: Structures and Processes 
+*The performance expectations marked with an asterisk integrate traditional science content with engineering through a Practi ce or Disciplinary Core Idea. 
+The section entitled “Disciplinary Core Ideas” is reproduced verbatim from A Framework for K -12 Science Education: Practices, Cross-Cutting Concepts, and Core Ideas.  Integrated   
+and reprinted with permission from the National Academy of Sciences. 
+MS-LS1    From Molecules to Organisms: Structures and Processes 
+Students who demonstrate understanding can: 
+MS-LS1-1. Conduct an investigation to provide evidence that living things are made of cells; either one cell or many 
+different numbers and types of cells.  [Clarification Statement:  Emphasis is on developing evidence that living things are made of cells, 
+distinguishing between living and non-living things, and understanding that living things may be made of one cell or many and varied cells.] 
+MS-LS1-2. Develop and use a model to describe the function of a cell as a whole and ways the parts of cells contribute to 
+the function.  [Clarification Statement:  Emphasis is on the cell functioning as a whole system and the primary role of identified parts of the cell, specifically 
+the nucleus, chloroplasts, mitochondria, cell membrane, and cell wall.] [Assessment Boundary:  Assessment of organelle structure/function relationships is limited to 
+the cell wall and cell membrane. Assessment of the function of the other organelles is limited to their relationship to the whole cell. Assessment does not include the 
+biochemical function of cells or cell parts.] 
+MS-LS1-3. Use argument supported by evidence for how the body is a system of interacting subsystems composed of 
+groups of cells.  [Clarification Statement:  Emphasis is on the conceptual understanding that cells form tissues and tissues form organs specialized for 
+particular body functions. Examples could include the interaction of subsystems within a system and the normal functioning of those systems.] [Assessment 
+Boundary:  Assessment does not include the mechanism of one body system independent of others. Assessment is limited to the circulatory, excretory, digestive, 
+respiratory, muscular, and nervous systems.] 
+MS-LS1-4. Use argument based on empirical evidence and scientific reasoning to support an explanation for how 
+characteristic animal behaviors and specialized plant structures affect the probability of successful reproduction 
+of animals and plants respectively.  [Clarification Statement:  Examples of behaviors that affect the probability of animal reproduction could include  
+nest building to protect young from cold, herding of animals to protect young from predators, and vocalization of animals and colorful plumage to attract mates for 
+breeding. Examples of animal behaviors that affect the probability of plant reproduction could include transferring pollen or seeds, and creating conditions for seed 
+germination and growth. Examples of plant structures could include bright flowers attracting butterflies that transfer pollen, flower nectar and odors that attract 
+insects that transfer pollen, and hard shells on nuts that squirrels bury.]   
+MS-LS1-5. Construct a scientific explanation based on evidence for how environmental and genetic factors influence the 
+growth of organisms.  [Clarification Statement:  Examples of local environmental conditions could include availability of food, light, space, and water.  
+Examples of genetic factors could include large breed cattle and species of grass affecting growth of organisms. Examples of evidence could include drought 
+decreasing plant growth, fertilizer increasing plant growth, different varieties of plant seeds growing at different rates in different conditions, and fish growing larger 
+in large ponds than they do in small ponds.] [Assessment Boundary:  Assessment does not include genetic mechanisms, gene regulation, or biochemical processes.] 
+MS-LS1-6. Construct a scientific explanation based on evidence for the role of photosynthesis in the cycling of matter and 
+flow of energy into and out of organisms.  [Clarification Statement:  Emphasis is on tracing movement of matter and flow of energy.] 
+[Assessment Boundary:  Assessment does not include the biochemical mechanisms of photosynthesis.] 
+MS-LS1-7. Develop a model to describe how food is rearranged through chemical reactions forming new molecules that 
+support growth and/or release energy as this matter moves through an organism.  [Clarification Statement:  Emphasis is on 
+describing that molecules are broken apart and put back together and that in this process, energy is released.] [Assessment Boundary:  Assessment does not include 
+details of the chemical reactions for photosynthesis or respiration.]   
+MS-LS1-8. Gather and synthesize information that sensory receptors respond to stimuli by sending messages to the brain 
+for immediate behavior or storage as memories.  [Assessment Boundary:  Assessment does not include mechanisms for the transmission of 
+this information.] 
+The performance expectations above were developed using the following elements from the NRC document  A Framework for K-12 Science Education: 
+ 
+Science and Engineering Practices 
+Developing and Using Models 
+Modeling in 6–8 builds on K–5 experiences and progresses 
+to developing, using, and revising models to describe, test, 
+and predict more abstract phenomena and design 
+systems. 
+▪ Develop and use a model to describe phenomena. 
+(MS-LS1-2) 
+▪ Develop a model to describe unobservable 
+mechanisms. (MS-LS1-7) 
+Planning and Carrying Out Investigations 
+Planning and carrying out investigations in 6-8 builds on K-
+5 experiences and progresses to include investigations that 
+use multiple variables and provide evidence to support 
+explanations or solutions. 
+▪ Conduct an investigation to produce data to serve as 
+the basis for evidence that meet the goals of an 
+investigation. (MS-LS1-1) 
+Constructing Explanations and Designing Solutions  
+Constructing explanations and designing solutions in 6–8 
+builds on K–5 experiences and progresses to include 
+constructing explanations and designing solutions 
+supported by multiple sources of evidence consistent with 
+scientific knowledge, principles, and theories. 
+▪ Construct a scientific explanation based on valid and 
+reliable evidence obtained from sources (including the 
+students’ own experiments) and the assumption that 
+theories and laws that describe the natural world 
+operate today as they did in the past and will continue 
+to do so in the future. (MS-LS1-5),(MS-LS1-6) 
+Engaging in Argument from Evidence 
+Engaging in argument from evidence in 6–8 builds on K–5 
+experiences and progresses to constructing a convincing 
+ 
+Disciplinary Core Ideas 
+LS1.A:  Structure and Function 
+▪ All living things are made up of cells, which is the 
+smallest unit that can be said to be alive. An organism 
+may consist of one single cell (unicellular) or many 
+different numbers and types of cells (multicellular). 
+(MS-LS1-1) 
+▪ Within cells, special structures are responsible for 
+particular functions, and the cell membrane forms the 
+boundary that controls what enters and leaves the cell. 
+(MS-LS1-2) 
+▪ In multicellular organisms, the body is a system of 
+multiple interacting subsystems. These subsystems are 
+groups of cells that work together to form tissues and 
+organs that are specialized for particular body functions. 
+(MS-LS1-3) 
+LS1.B:  Growth and Development of Organisms  
+▪ Animals engage in characteristic behaviors that increase 
+the odds of reproduction. (MS-LS1-4) 
+▪ Plants reproduce in a variety of ways, sometimes 
+depending on animal behavior and specialized features 
+for reproduction. (MS-LS1-4) 
+▪ Genetic factors as well as local conditions affect the 
+growth of the adult plant. (MS-LS1-5) 
+LS1.C:  Organization for Matter and Energy Flow in 
+Organisms 
+▪ Plants, algae (including phytoplankton), and many 
+microorganisms use the energy from light to make 
+sugars (food) from carbon dioxide from the atmosphere 
+and water through the process of photosynthesis, which 
+also releases oxygen. These sugars can be used 
+immediately or stored for growth or later use. (MS-LS1-
+6) 
+ 
+Crosscutting Concepts 
+Cause and Effect 
+▪ Cause and effect relationships may be used to 
+predict phenomena in natural systems. (MS-LS1-8) 
+▪ Phenomena may have more than one cause, and 
+some cause and effect relationships in systems can 
+only be described using probability. (MS-LS1-4),(MS-
+LS1-5) 
+Scale, Proportion, and Quantity 
+▪ Phenomena that can be observed at one scale may 
+not be observable at another scale. (MS-LS1-1) 
+Systems and System Models  
+▪ Systems may interact with other systems; they may 
+have sub-systems and be a part of larger complex 
+systems. (MS-LS1-3) 
+Energy and Matter  
+▪ Matter is conserved because atoms are conserved in 
+physical and chemical processes. (MS-LS1-7) 
+▪ Within a natural system, the transfer of energy 
+drives the motion and/or cycling of matter. (MS-LS1-
+6) 
+Structure and Function  
+▪ Complex and microscopic structures and systems can 
+be visualized, modeled, and used to describe how 
+their function depends on the relationships among its 
+parts, therefore complex natural structures/systems 
+can be analyzed to determine how they function. 
+(MS-LS1-2) 
+ 
+------------------------------------------------------ 
+Connections to Engineering, Technology, 
+and Applications of Science 
+ 
+September 2017
+©2013 Achieve, Inc. All rights reserved.
+58 of 103
+
+PDF PAGE 59
+MS-LS1    From Molecules to Organisms: Structures and Processes 
+*The performance expectations marked with an asterisk integrate traditional science content with engineering through a Practi ce or Disciplinary Core Idea. 
+The section entitled “Disciplinary Core Ideas” is reproduced verbatim from A Framework for K -12 Science Education: Practices, Cross-Cutting Concepts, and Core Ideas.  Integrated   
+and reprinted with permission from the National Academy of Sciences. 
+ 
+argument that supports or refutes claims for either 
+explanations or solutions about the natural and designed 
+world(s).  
+▪ Use an oral and written argument supported by 
+evidence to support or refute an explanation or a 
+model for a phenomenon.  (MS-LS1-3) 
+▪ Use an oral and written argument supported by 
+empirical evidence and scientific reasoning to support 
+or refute an explanation or a model for a phenomenon 
+or a solution to a problem.  (MS-LS1-4) 
+Obtaining, Evaluating, and Communicating 
+Information 
+Obtaining, evaluating, and communicating information in 
+6-8 builds on K-5 experiences and progresses to 
+evaluating the merit and validity of ideas and methods. 
+▪ Gather, read, and synthesize information from multiple 
+appropriate sources and assess the credibility, 
+accuracy, and possible bias of each publication and 
+methods used, and describe how they are supported 
+or not supported by evidence. (MS-LS1-8) 
+ 
+----------------------------------------------------  
+Connections to Nature of Science  
+ 
+Scientific Knowledge is Based on Empirical 
+Evidence 
+▪ Science knowledge is based upon logical connections 
+between evidence and explanations. (MS-LS1-6) 
+▪ Within individual organisms, food moves through a 
+series of chemical reactions in which it is broken down 
+and rearranged to form new molecules, to support 
+growth, or to release energy. (MS-LS1-7)  
+LS1.D:  Information Processing 
+▪ Each sense receptor responds to different inputs 
+(electromagnetic, mechanical, chemical), transmitting 
+them as signals that travel along nerve cells to the 
+brain. The signals are then processed in the brain, 
+resulting in immediate behaviors or memories. (MS-LS1-
+8) 
+PS3.D:  Energy in Chemical Processes and Everyday 
+Life 
+▪ The chemical reaction by which plants produce complex 
+food molecules (sugars) requires an energy input (i.e., 
+from sunlight) to occur. In this reaction, carbon dioxide 
+and water combine to form carbon-based organic 
+molecules and release oxygen. (secondary to MS-LS1-6) 
+▪ Cellular respiration in plants and animals involve 
+chemical reactions with oxygen that release stored 
+energy. In these processes, complex molecules 
+containing carbon react with oxygen to produce carbon 
+dioxide and other materials. (secondary to MS-LS1-7) 
+Interdependence of Science, Engineering, and 
+Technology 
+▪ Engineering advances have led to important 
+discoveries in virtually every field of science, and 
+scientific discoveries have led to the development of 
+entire industries and engineered systems. (MS-LS1-
+1) 
+ 
+------------------------------------------------------ 
+Connections to Nature of Science  
+ 
+Science is a Human Endeavor 
+▪ Scientists and engineers are guided by habits of mind 
+such as intellectual honesty, tolerance of ambiguity, 
+skepticism, and openness to new ideas. (MS-LS1-3) 
+Connections to other DCIs in this grade-band:  MS.PS1.B (MS-LS1-6),(MS-LS1-7); MS.LS2.A (MS-LS1-4),(MS-LS1-5); MS.LS3.A (MS-LS1-2); MS.ESS2.A (MS-LS1-6) 
+Articulation to DCIs across grade-bands: 3.LS1.B (MS-LS1-4),(MS-LS1-5); 3.LS3.A (MS-LS1-5); 4.LS1.A (MS-LS1-2); 4.LS1.D (MS-LS1-8); 5.PS3.D (MS-LS1-6),(MS-LS1-7); 5.LS1.C 
+(MS-LS1-6),(MS-LS1-7); 5.LS2.A (MS-LS1-6); 5.LS2.B (MS-LS1-6),(MS-LS1-7); HS.PS1.B (MS-LS1-6),(MS-LS1-7); HS.LS1.A (MS-LS1-1),(MS-LS1-2),(MS-LS1-3),(MS-LS1-8); 
+HS.LS1.C (MS-LS1-6),(MS-LS1-7); HS.LS2.A (MS-LS1-4),(MS-LS1-5); HS.LS2.B (MS-LS1-6),(MS-LS1-7); HS.LS2.D (MS-LS1-4);  HS.ESS2.D (MS-LS1-6) 
+Common Core State Standards Connections:  
+ELA/Literacy –  
+RST.6-8.1  Cite specific textual evidence to support analysis of science and technical texts.  (MS-LS1-3),(MS-LS1-4),(MS-LS1-5),(MS-LS1-6) 
+RST.6-8.2  Determine the central ideas or conclusions of a text; provide an accurate summary of the text distinct from prior knowledge o r opinions. (MS-LS1-5),(MS-LS1-6) 
+RI.6.8   Trace and evaluate the argument and specific claims in a text, distinguishing claims that are supported by reasons and eviden ce from claims that are not.  (MS-
+LS1-3),(MS-LS1-4) 
+WHST.6-8.1   Write arguments focused on discipline content. (MS-LS1-3),(MS-LS1-4) 
+WHST.6-8.2   Write informative/explanatory texts to examine a topic and convey ideas, concepts, and information through the selection, org anization, and analysis of relevant 
+content. (MS-LS1-5),(MS-LS1-6) 
+WHST.6-8.7  Conduct short research projects to answer a question (including a self-generated question), drawing on several sources and generating additional related, 
+focused questions that allow for multiple avenues of exploration. (MS-LS1-1) 
+WHST.6-8.8  Gather relevant information from multiple print and digital sources, using search terms effectively; assess the credibility and accuracy of each source; and quot e 
+or paraphrase the data and conclusions of others while avoiding plagiarism and following a standard format for citation.  (MS-LS1-8) 
+WHST.6-8.9  Draw evidence from informational texts to support analysis, reflection, and research. (MS-LS1-5),(MS-LS1-6) 
+SL.8.5  Integrate multimedia and visual displays into presentations to clarify information, strengthen claims and evidence, and add interest. (MS-LS1-2),(MS-LS1-7) 
+Mathematics –  
+6.EE.C.9  Use variables to represent two quantities in a real-world problem that change in relationship to one another; write an equation to express one quantity, thought 
+of as the dependent variable, in terms of the other quantity, thought of as the independent variable. Analyze the relationship between the dependent and 
+independent variables using graphs and tables, and relate these to the equation.  (MS-LS1-1),(MS-LS1-2),(MS-LS1-3),(MS-LS1-6) 
+6.SP.A.2 Understand that a set of data collected to answer a statistical question has a distribution which can be described by its cen ter, spread, and overall shape. (MS-
+LS1-4),(MS-LS1-5) 
+6.SP.B.4 Summarize numerical data sets in relation to their context. (MS-LS1-4),(MS-LS1-5) 
+September 2017
+©2013 Achieve, Inc. All rights reserved.
+59 of 103
+
+PDF PAGE 60
+MS-LS2  Ecosystems:  Interactions, Energy, and Dynamics 
+*The performance expectations marked with an asterisk integrate traditional science content with engineering through a Practi ce or Disciplinary Core Idea. 
+The section entitled “Disciplinary Core Ideas” is reproduced verbatim from A Framework for K -12 Science Education: Practices, Cross-Cutting Concepts, and Core Ideas.  Integrated   
+and reprinted with permission from the National Academy of Sciences. 
+MS-LS2     Ecosystems:  Interactions, Energy, and Dynamics 
+Students who demonstrate understanding can: 
+MS-LS2-1. Analyze and interpret data to provide evidence for the effects of resource availability on organisms and 
+populations of organisms in an ecosystem.  [Clarification Statement:  Emphasis is on cause and effect relationships between resources and 
+growth of individual organisms and the numbers of organisms in ecosystems during periods of abundant and scarce resources.]  
+MS-LS2-2. Construct an explanation that predicts patterns of interactions among organisms across multiple ecosystems.  
+[Clarification Statement:  Emphasis is on predicting consistent patterns of interactions in different ecosystems in terms of the relationship s among and between 
+organisms and abiotic components of ecosystems. Examples of types of interactions could include competitive, predatory, and mutually beneficial.]   
+MS-LS2-3. Develop a model to describe the cycling of matter and flow of energy among living and nonliving parts of an 
+ecosystem.  [Clarification Statement:  Emphasis is on describing the conservation of matter and flow of energy into and out of various ecosystems, and on 
+defining the boundaries of the system.] [Assessment Boundary:  Assessment does not include the use of chemical reactions to describe the processes.] 
+MS-LS2-4. Construct an argument supported by empirical evidence that changes to physical or biological components of an 
+ecosystem affect populations.  [Clarification Statement:  Emphasis is on recognizing patterns in data and making warranted inferences about changes 
+in populations, and on evaluating empirical evidence supporting arguments about changes to ecosystems.] 
+MS-LS2-5. Evaluate competing design solutions for maintaining biodiversity and ecosystem services.*  [Clarification Statement:  
+Examples of ecosystem services could include water purification, nutrient recycling, and prevention of soil erosion. Examples of design solution constraints could 
+include scientific, economic, and social considerations.] 
+The performance expectations above were developed using the following elements from the NRC document A Framework for K-12 Science Education: 
+ 
+Science and Engineering Practices 
+Developing and Using Models 
+Modeling in 6–8 builds on K–5 experiences and 
+progresses to developing, using, and revising models to 
+describe, test, and predict more abstract phenomena and 
+design systems. 
+▪ Develop a model to describe phenomena. (MS-LS2-3) 
+Analyzing and Interpreting Data 
+Analyzing data in 6–8 builds on K–5 experiences and 
+progresses to extending quantitative analysis to 
+investigations, distinguishing between correlation and 
+causation, and basic statistical techniques of data and 
+error analysis.  
+▪ Analyze and interpret data to provide evidence for 
+phenomena. (MS-LS2-1) 
+Constructing Explanations and Designing 
+Solutions 
+Constructing explanations and designing solutions in 6–8 
+builds on K–5 experiences and progresses to include 
+constructing explanations and designing solutions 
+supported by multiple sources of evidence consistent 
+with scientific ideas, principles, and theories. 
+▪ Construct an explanation that includes qualitative or 
+quantitative relationships between variables that 
+predict phenomena. (MS-LS2-2) 
+Engaging in Argument from Evidence 
+Engaging in argument from evidence in 6–8 builds on K–
+5 experiences and progresses to constructing a 
+convincing argument that supports or refutes claims for 
+either explanations or solutions about the natural and 
+designed world(s). 
+▪ Construct an oral and written argument supported by 
+empirical evidence and scientific reasoning to support 
+or refute an explanation or a model for a 
+phenomenon or a solution to a problem. (MS-LS2-4) 
+▪ Evaluate competing design solutions based on jointly 
+developed and agreed-upon design criteria. (MS-LS2-
+5) 
+ 
+---------------------------------------------- 
+Connections to Nature of Science 
+ 
+Scientific Knowledge is Based on Empirical 
+Evidence 
+▪ Science disciplines share common rules of obtaining 
+and evaluating empirical evidence. (MS-LS2-4) 
+ 
+ 
+Disciplinary Core Ideas 
+LS2.A:  Interdependent Relationships in Ecosystems 
+▪ Organisms, and populations of organisms, are dependent on 
+their environmental interactions both with other living things and 
+with nonliving factors. (MS-LS2-1) 
+▪ In any ecosystem, organisms and populations with similar 
+requirements for food, water, oxygen, or other resources may 
+compete with each other for limited resources, access to which 
+consequently constrains their growth and reproduction. (MS-LS2-
+1) 
+▪ Growth of organisms and population increases are limited by 
+access to resources. (MS-LS2-1) 
+▪ Similarly, predatory interactions may reduce the number of 
+organisms or eliminate whole populations of organisms. Mutually 
+beneficial interactions, in contrast, may become so 
+interdependent that each organism requires the other for 
+survival. Although the species involved in these competitive, 
+predatory, and mutually beneficial interactions vary across 
+ecosystems, the patterns of interactions of organisms with their 
+environments, both living and nonliving, are shared. (MS-LS2-2) 
+LS2.B:  Cycle of Matter and Energy Transfer in Ecosystems  
+▪ Food webs are models that demonstrate how matter and energy 
+is transferred between producers, consumers, and decomposers 
+as the three groups interact within an ecosystem. Transfers of 
+matter into and out of the physical environment occur at every 
+level. Decomposers recycle nutrients from dead plant or animal 
+matter back to the soil in terrestrial environments or to the 
+water in aquatic environments. The atoms that make up the 
+organisms in an ecosystem are cycled repeatedly between the 
+living and nonliving parts of the ecosystem. (MS-LS2-3) 
+LS2.C:  Ecosystem Dynamics, Functioning, and Resilience  
+▪ Ecosystems are dynamic in nature; their characteristics can vary 
+over time. Disruptions to any physical or biological component of 
+an ecosystem can lead to shifts in all its populations. (MS-LS2-4) 
+▪ Biodiversity describes the variety of species found in Earth’s 
+terrestrial and oceanic ecosystems. The completeness or 
+integrity of an ecosystem’s biodiversity is often used as a 
+measure of its health. (MS-LS2-5) 
+LS4.D:  Biodiversity and Humans  
+▪ Changes in biodiversity can influence humans’ resources, such as 
+food, energy, and medicines, as well as ecosystem services that 
+humans rely on—for example, water purification and recycling. 
+(secondary to MS-LS2-5) 
+ETS1.B: Developing Possible Solutions 
+▪ There are systematic processes for evaluating solutions with 
+respect to how well they meet the criteria and constraints of a 
+problem. (secondary to MS-LS2-5)  
+  
+ 
+Crosscutting Concepts 
+Patterns 
+▪ Patterns can be used to identify cause and 
+effect relationships. (MS-LS2-2) 
+Cause and Effect 
+▪ Cause and effect relationships may be used to 
+predict phenomena in natural or designed 
+systems. (MS-LS2-1) 
+Energy and Matter  
+▪ The transfer of energy can be tracked as 
+energy flows through a natural system. (MS-
+LS2-3) 
+Stability and Change 
+▪ Small changes in one part of a system might 
+cause large changes in another part. (MS-
+LS2-4),(MS-LS2-5)  
+ 
+-------------------------------------------------- 
+Connections to Engineering, Technology, 
+and Applications of Science 
+ 
+Influence of Science, Engineering, and 
+Technology on Society and the Natural 
+World 
+▪ The use of technologies and any limitations 
+on their use are driven by individual or 
+societal needs, desires, and values; by the 
+findings of scientific research; and by 
+differences in such factors as climate, natural 
+resources, and economic conditions. Thus 
+technology use varies from region to region 
+and over time. (MS-LS2-5) 
+ 
+------------------------------------------------
+Connections to Nature of Science  
+ 
+Scientific Knowledge Assumes an Order and 
+Consistency in Natural Systems 
+▪ Science assumes that objects and events in 
+natural systems occur in consistent patterns 
+that are understandable through 
+measurement and observation. (MS-LS2-3) 
+Science Addresses Questions About the 
+Natural and Material World 
+▪ Scientific knowledge can describe the 
+consequences of actions but does not 
+necessarily prescribe the decisions that 
+society takes. (MS-LS2-5) 
+ 
+ 
+ 
+Connections to other DCIs in this grade-band:  MS.PS1.B (MS-LS2-3); MS.LS1.B (MS-LS2-2); MS.LS4.C (MS-LS2-4); MS.LS4.D (MS-LS2-4); MS.ESS2.A (MS-LS2-3),(MS-LS2-4); 
+MS.ESS3.A (MS-LS2-1),(MS-LS2-4); MS.ESS3.C (MS-LS2-1),(MS-LS2-4),(MS-LS2-5) 
+Articulation across grade-bands:  1.LS1.B (MS-LS2-2); 3.LS2.C (MS-LS2-1),(MS-LS2-4); 3.LS4.D (MS-LS2-1),(MS-LS2-4); 5.LS2.A (MS-LS2-1),(MS-LS2-3); 5.LS2.B (MS-LS2-3); 
+HS.PS3.B (MS-LS2-3); HS.LS1.C (MS-LS2-3); HS.LS2.A (MS-LS2-1),(MS-LS2-2),(MS-LS2-5); HS.LS2.B (MS-LS2-2),(MS-LS2-3); HS.LS2.C (MS-LS2-4),(MS-LS2-5); HS.LS2.D (MS-
+LS2-2); HS.LS4.C (MS-LS2-1),(MS-LS2-4); HS.LS4.D (MS-LS2-1),(MS-LS2-4),(MS-LS2-5); HS.ESS2.A (MS-LS2-3); HS.ESS2.E (MS-LS2-4); HS.ESS3.A (MS-LS2-1),(MS-LS2-5); 
+September 2017
+©2013 Achieve, Inc. All rights reserved.
+60 of 103
+
+PDF PAGE 61
+MS-LS2  Ecosystems:  Interactions, Energy, and Dynamics 
+*The performance expectations marked with an asterisk integrate traditional science content with engineering through a Practi ce or Disciplinary Core Idea. 
+The section entitled “Disciplinary Core Ideas” is reproduced verbatim from A Framework for K -12 Science Education: Practices, Cross-Cutting Concepts, and Core Ideas.  Integrated   
+and reprinted with permission from the National Academy of Sciences. 
+HS.ESS3.B (MS-LS2-4); HS.ESS3.C (MS-LS2-4),(MS-LS2-5); HS.ESS3.D (MS-LS2-5) 
+Common Core State Standards Connections:  
+ELA/Literacy –  
+RST.6-8.1   Cite specific textual evidence to support analysis of science and technical texts. (MS -LS2-1),(MS-LS2-2),(MS-LS2-4) 
+RST.6-8.7   Integrate quantitative or technical information expressed in words in a text with a version of that information expressed vis ually (e.g., in a flowchart, diagram, 
+model, graph, or table). (MS-LS2-1) 
+RST.6-8.8   Distinguish among facts, reasoned judgment based on research findings, and speculation in a text. (MS -LS2-5) 
+RI.8.8   Trace and evaluate the argument and specific claims in a text, assessing whether the reasoning is sound and the evidence is relevant and sufficient to support 
+the claims. (MS-LS2-4),(MS-LS2-5) 
+WHST.6-8.1 Write arguments to support claims with clear reasons and relevant evidence. (MS -LS2-4) 
+WHST.6-8.2 Write informative/explanatory texts to examine a topic and convey ideas, concepts, and information through the selection, org anization, and analysis of relevant 
+content. (MS-LS2-2) 
+WHST.6-8.9 Draw evidence from literary or informational texts to support an alysis, reflection, and research. (MS-LS2-2),(MS-LS2-4) 
+SL.8.1 Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grade 8 topics, texts, and issues, 
+building on others’ ideas and expressing their own clearly. (MS-LS2-2) 
+SL.8.4 Present claims and findings, emphasizing salient points in a focused, coherent manner with relevant evidence, sound valid reasoning, and well -chosen details; 
+use appropriate eye contact, adequate volume, and clear pronunciation. (MS-LS2-2) 
+SL.8.5 Integrate multimedia and visual displays into presentations to clarify information, strengthen claims and evidence, and add i nterest. (MS-LS2-3) 
+Mathematics –  
+MP.4 Model with mathematics. (MS-LS2-5) 
+6.RP.A.3 Use ratio and rate reasoning to solve real-world and mathematical problems. (MS-LS2-5) 
+6.EE.C.9 Use variables to represent two quantities in a real-world problem that change in relationship to one another; write an equation to express one quantity, thought  
+of as the dependent variable, in terms of the other quantity, thought of as the independent variable. Analyze the relationshi p between the dependent and 
+independent variables using graphs and tables, and relate these to the equation.  (MS-LS2-3) 
+6.SP.B.5 Summarize numerical data sets in relation to their context. (MS-LS2-2) 
+ 
+September 2017
+©2013 Achieve, Inc. All rights reserved.
+61 of 103
+
+PDF PAGE 62
+MS-LS3  Heredity:  Inheritance and Variation of Traits 
+*The performance expectations marked with an asterisk integrate traditional science content with engineering through a Practice or Disciplinary  C ore Idea.  
+The section entitled “Disciplinary Core Ideas” is reproduced verbatim from A Framework for K-12 Science Education: Practices, Cross-Cutting C oncepts, and C ore Ideas.  Integrated 
+and reprinted with permission from the National A cademy  of Sciences.  
+MS-LS3     Heredity:  Inheritance and Variation of Traits  
+Students who demonstrate understanding can:  
+MS-LS3-1. Develop and use a model to describe why structural changes to genes  (mutations)  located on chromosomes  may 
+affect proteins and may result in harmful, beneficial, or neutral effects to the structure and function of the 
+organism.  [C larification Statement:  Emphasis is on conceptual understanding that changes in genetic material may result in making different proteins.] 
+[A ssessment Boundary:  A ssessment does not include specific changes at the molecular level, mechanisms for protein synthesis, or specific ty pes of mutations.] 
+MS-LS3-2. Develop and use a model to  describe why asexual reproduction results in offspring with identical genetic 
+information and sexual reproduction results in offspring with genetic variation .  [C larification Statement:  Emphasis is on using 
+models such as Punnett squares, diagrams, and simulations to describe the cause and effect relationship of gene transmission from parent(s) to offspring and 
+resulting genetic v ariation.] 
+The performance expectations abov e were dev eloped using the following elements from the NRC  document  A  Framework for K -12 Science Educati on: 
+ 
+Science and Engineering Practices  
+Developing and Using Models 
+Modeling in 6–8 builds on K–5 experiences and 
+progresses to dev eloping, using, and revising models 
+to describe, test, and predict more abstract 
+phenomena and design systems.  
+ Dev elop and use a model to describe phenomena. 
+(MS -LS3-1),(MS-LS3-2) 
+ 
+ 
+ 
+Disciplinary Core Ideas  
+LS1 .B:  Growth and Development of Organisms  
+ O rganisms reproduce, either sexually or asexually, and transfer 
+their genetic information to their offspring. (secondary to MS-
+LS3-2) 
+LS3 .A:  Inheritance of Traits 
+ Genes are located in the chromosomes of cells, with each 
+chromosome pair containing two variants of each of many 
+distinct genes. Each distinct gene chiefly controls the production 
+of specific proteins, which in turn affects the traits of the 
+indiv idual. Changes (mutations) to genes can result in changes 
+to proteins, which can affect the structures and functions of the 
+organism and thereby  change traits. (MS-LS3-1) 
+ V ariations of inherited traits between parent and offspring arise 
+from genetic differences that result from the subset of 
+chromosomes (and therefore genes) inherited. (MS-LS3-2) 
+LS3 .B:  Variation of Traits  
+ In sexually  reproducing organisms, each parent contributes half 
+of the genes acquired (at random) by  the offspring. Individuals 
+hav e two of each chromosome and hence two alleles of each 
+gene, one acquired from each parent. These versions may be 
+identical or may  differ from each other. (MS-LS3-2) 
+ In addition to v ariations that arise from sexual reproduction, 
+genetic information can be altered because of mutations. 
+Though rare, mutations may result in changes to the structure 
+and function of proteins. Some changes are beneficial, others 
+harmful, and some neutral to the organism. (MS-LS3-1) 
+ 
+Crosscutting Concepts  
+Cause and Effect 
+ C ause and effect relationships may be used to 
+predict phenomena in natural sy stems. (MS-LS3-
+2) 
+Structure and Function 
+ C omplex and microscopic structures and systems 
+can be v isualized, modeled, and used to describe 
+how their function depends on the shapes, 
+composition, and relationships among its parts, 
+therefore complex natural structures/sy stems 
+can be analy zed to determine how they function. 
+(MS -LS3-1) 
+ 
+ 
+C onnections to other DCIs in this grade-band:  MS.LS1.A (MS-LS3-1); MS.LS4.A (MS-LS3-1) 
+A rticulation across grade-bands:  3 .LS3.A (MS-LS3-1),(MS-LS3-2); 3 .LS3.B (MS-LS3-1),(MS-LS3-2); HS.LS1.A (MS-LS3-1); HS.LS1.B (MS-LS3-1),(MS-LS3-2); HS.LS3.A (MS-LS3-
+1),(MS -LS3-2); HS.LS3-B (MS-LS3-1),(MS-LS3-2) 
+C ommon Core State Standards Connections: 
+ELA /Literacy –  
+RST .6-8.1   C ite specific textual evidence to support analysis of science and technical texts.  (MS-LS3-1),(MS-LS3-2) 
+RST .6-8.4   Determine the meaning of symbols, key terms, and other domain-specific words and phrases as they are used in a specific scientific or technical context relevant 
+to grades 6-8 texts and topics. (MS -LS3-1),(MS-LS3-2) 
+RST .6-8.7 Integrate quantitative or technical information expressed in words in a text with a v ersion of that information expressed visually (e.g., in a flowchart, diagram, 
+model, graph, or table). (MS -LS3-1),(MS-LS3-2) 
+SL.8 .5 Integrate multimedia and visual displays into presentations to clarify information, strengthen claims and evidence, and add interest. (MS-LS3-1),(MS-LS3-2) 
+Mathematics –  
+MP.4  Model with mathematics. (MS-LS3-2) 
+6 .SP.B.5 Summarize numerical data sets in relation to their context. (MS-LS3-2) 
+ 
+April 2014
+©2013 Achieve, Inc. All rights reserved.
+1 of 1
+September 2017
+©2013 Achieve, Inc. All rights reserved.
+62 of 103
+
+PDF PAGE 63
+MS-LS4  Biological Evolution: Unity and Diversity 
+*The performance expectations marked with an asterisk integrate traditional science content with engineering through a Practice or Disciplinary Core Idea. 
+The section entitled “Disciplinary Core Ideas” is reproduced verbatim from A Framework for K -12 Science Education: Practices, Cross-Cutting Concepts, and Core Ideas.  Integrated 
+and reprinted with permission from the National Academy of Sciences.  
+ 
+ 
+MS-LS4     Biological Evolution:  Unity and Diversity 
+Students who demonstrate understanding can: 
+MS-LS4-1. Analyze and interpret data for patterns in the fossil record that document the existence, diversity, extinction, 
+and change of life forms throughout the history of life on Earth under the assumption that natural laws operate 
+today as in the past.  [Clarification Statement:  Emphasis is on finding patterns of changes in the level of complexity of anatomical structures in organisms 
+and the chronological order of fossil appearance in the rock layers.] [Assessment Boundary:  Assessment does not include the names of individual species or 
+geological eras in the fossil record.] 
+MS-LS4-2. Apply scientific ideas to construct an explanation for the anatomical similarities and differences among modern 
+organisms and between modern and fossil organisms to infer evolutionary relationships.  [Clarification Statement:  
+Emphasis is on explanations of the evolutionary relationships among organisms in terms of similarity or differences of the gross appear ance of anatomical 
+structures.] 
+MS-LS4-3. Analyze displays of pictorial data to compare patterns of similarities in the embryological development across 
+multiple species to identify relationships not evident in the fully formed anatomy.  [Clarification Statement:  Emphasis is on 
+inferring general patterns of relatedness among embryos of different organisms by comparing the macroscopic appearance of diagrams or pictures.] [Assessment 
+Boundary:  Assessment of comparisons is limited to gross appearance of anatomical structures in embryological development .] 
+MS-LS4-4. Construct an explanation based on evidence that describes how genetic variations of traits in a population 
+increase some individuals’ probability of surviving and reproducing in a specific environment.  [Clarification Statement:  
+Emphasis is on using simple probability statements and proportional reasoning to construct explanations.]  
+MS-LS4-5. Gather and synthesize information about technologies that have changed the way humans influence the 
+inheritance of desired traits in organisms.  [Clarification Statement:  Emphasis is on synthesizing information from reliable sources about the 
+influence of humans on genetic outcomes in artificial selection (such as genetic modification, animal husbandry, gene therapy); and, on the impacts these 
+technologies have on society as well as the technologies leading to these scientific discoveries.]  
+MS-LS4-6. Use mathematical representations to support explanations of how natural selection may lead to increases and 
+decreases of specific traits in populations over time.  [Clarification Statement:  Emphasis is on using mathematical models, probability 
+statements, and proportional reasoning to support explanations of trends in changes to populations over time.] [Assessment Boundary:  Assessment does not 
+include Hardy Weinberg calculations.] 
+The performance expectations above were developed using the following elements from the NRC document A Framework for K-12 Science Education: 
+ 
+Science and Engineering Practices 
+Analyzing and Interpreting Data 
+Analyzing data in 6–8 builds on K–5 experiences and 
+progresses to extending quantitative analysis to investigations, 
+distinguishing between correlation and causation, and basic 
+statistical techniques of data and error analysis. 
+▪ Analyze displays of data to identify linear and nonlinear 
+relationships. (MS-LS4-3) 
+▪ Analyze and interpret data to determine similarities and 
+differences in findings. (MS-LS4-1) 
+Using Mathematics and Computational Thinking 
+Mathematical and computational thinking in 6–8 builds on K–5 
+experiences and progresses to identifying patterns in large data 
+sets and using mathematical concepts to support explanations 
+and arguments. 
+▪ Use mathematical representations to support scientific 
+conclusions and design solutions. (MS-LS4-6) 
+Constructing Explanations and Designing Solutions  
+Constructing explanations and designing solutions in 6–8 builds 
+on K–5 experiences and progresses to include constructing 
+explanations and designing solutions supported by multiple 
+sources of evidence consistent with scientific ideas, principles, 
+and theories. 
+▪ Apply scientific ideas to construct an explanation for real-
+world phenomena, examples, or events. (MS-LS4-2) 
+▪ Construct an explanation that includes qualitative or 
+quantitative relationships between variables that describe 
+phenomena. (MS-LS4-4) 
+Obtaining, Evaluating, and Communicating Information  
+Obtaining, evaluating, and communicating information in 6–8 
+builds on K–5 experiences and progresses to evaluating the 
+merit and validity of ideas and methods. 
+▪ Gather, read, and synthesize information from multiple 
+appropriate sources and assess the credibility, accuracy, 
+and possible bias of each publication and methods used, 
+and describe how they are supported or not supported by 
+evidence. (MS-LS4-5) 
+ 
+---------------------------------------------- 
+Connections to Nature of Science  
+ 
+Scientific Knowledge is Based on Empirical Evidence 
+▪ Science knowledge is based upon logical and conceptual 
+connections between evidence and explanations. (MS-LS4-
+1) 
+ 
+Disciplinary Core Ideas 
+LS4.A:  Evidence of Common Ancestry and Diversity  
+▪ The collection of fossils and their placement in 
+chronological order (e.g., through the location of the 
+sedimentary layers in which they are found or through 
+radioactive dating) is known as the fossil record. It 
+documents the existence, diversity, extinction, and 
+change of many life forms throughout the history of life 
+on Earth. (MS-LS4-1) 
+▪ Anatomical similarities and differences between various 
+organisms living today and between them and 
+organisms in the fossil record, enable the reconstruction 
+of evolutionary history and the inference of lines of 
+evolutionary descent. (MS-LS4-2) 
+▪ Comparison of the embryological development of 
+different species also reveals similarities that show 
+relationships not evident in the fully-formed anatomy. 
+(MS-LS4-3)  
+LS4.B:  Natural Selection 
+▪ Natural selection leads to the predominance of certain 
+traits in a population, and the suppression of others. 
+(MS-LS4-4) 
+▪ In artificial selection, humans have the capacity to 
+influence certain characteristics of organisms by 
+selective breeding. One can choose desired parental 
+traits determined by genes, which are then passed on 
+to offspring. (MS-LS4-5) 
+LS4.C:  Adaptation  
+▪ Adaptation by natural selection acting over generations 
+is one important process by which species change over 
+time in response to changes in environmental 
+conditions. Traits that support successful survival and 
+reproduction in the new environment become more 
+common; those that do not become less common. 
+Thus, the distribution of traits in a population changes. 
+(MS-LS4-6) 
+ 
+ 
+Crosscutting Concepts 
+Patterns  
+▪ Patterns can be used to identify cause and 
+effect relationships. (MS-LS4-2) 
+▪ Graphs, charts, and images can be used to 
+identify patterns in data. (MS-LS4-1),(MS-LS4-
+3) 
+Cause and Effect 
+▪ Phenomena may have more than one cause, 
+and some cause and effect relationships in 
+systems can only be described using 
+probability. (MS-LS4-4),(MS-LS4-5),(MS-LS4-6) 
+ 
+------------------------------------------------- 
+Connections to Engineering, Technology, 
+and Applications of Science 
+ 
+Interdependence of Science, Engineering, 
+and Technology  
+▪ Engineering advances have led to important 
+discoveries in virtually every field of science, 
+and scientific discoveries have led to the 
+development of entire industries and 
+engineered systems. (MS-LS4-5) 
+ 
+---------------------------------------------- 
+Connections to Nature of Science 
+ 
+Scientific Knowledge Assumes an Order and 
+Consistency in Natural Systems  
+▪ Science assumes that objects and events in 
+natural systems occur in consistent patterns 
+that are understandable through measurement 
+and observation. (MS-LS4-1),(MS-LS4-2) 
+Science Addresses Questions About the 
+Natural and Material World 
+▪ Scientific knowledge can describe the 
+consequences of actions but does not 
+necessarily prescribe the decisions that society 
+takes. (MS-LS4-5) 
+ 
+ 
+Connections to other DCIs in this grade-band: MS.LS2.A (MS-LS4-4),(MS-LS4-6); MS.LS2.C (MS-LS4-6); MS.LS3.A (MS-LS4-2),(MS-LS4-4); MS.LS3.B (MS-LS4-2),(MS-LS4-4),(MS-
+LS4-6); MS.ESS1.C (MS-LS4-1),(MS-LS4-2),(MS-LS4-6); MS.ESS2.B (MS-LS4-1) 
+September 2017
+©2013 Achieve, Inc. All rights reserved.
+63 of 103
+
+PDF PAGE 64
+MS-LS4  Biological Evolution: Unity and Diversity 
+*The performance expectations marked with an asterisk integrate traditional science content with engineering through a Practice or Disciplinary Core Idea. 
+The section entitled “Disciplinary Core Ideas” is reproduced verbatim from A Framework for K -12 Science Education: Practices, Cross-Cutting Concepts, and Core Ideas.  Integrated 
+and reprinted with permission from the National Academy of Sciences.  
+ 
+ 
+Articulation across grade-bands:  3.LS3.B (MS-LS4-4); 3.LS4.A (MS-LS4-1),(MS-LS4-2); 3. LS4.B (MS-LS4-4); 3.LS4.C (MS-LS4-6); HS.LS2.A (MS-LS4-4),(MS-LS4-6); HS.LS2.C 
+(MS-LS4-6); HS.LS3.B (MS-LS4-4),(MS-LS4-5),(MS-LS4-6); HS.LS4.A (MS-LS4-1),(MS-LS4-2),(MS-LS4-3); HS.LS4.B (MS-LS4-4),(MS-LS4-6); HS.LS4.C (MS-LS4-4),(MS-LS4-
+5),(MS-LS4-6); HS.ESS1.C (MS-LS4-1),(MS-LS4-2) 
+Common Core State Standards Connections:  
+ELA/Literacy –  
+RST.6-8.1  Cite specific textual evidence to support analysis of science and technical texts, attending to the precise details of explan ations or descriptions (MS-LS4-1),(MS-
+LS4-2),(MS-LS4-3),(MS-LS4-4),(MS-LS4-5) 
+RST.6-8.7  Integrate quantitative or technical information expressed in words in a text with a version of that information expressed vis ually (e.g., in a flowchart, diagram, 
+model, graph, or table). (MS-LS4-1),(MS-LS4-3) 
+RST.6-8.9 Compare and contrast the information gained from experiments, simulations, video, or multimedia sources with that gained from  reading a text on the same 
+topic. (MS-LS4-3),(MS-LS4-4) 
+WHST.6-8.2  Write informative/explanatory texts to examine a topic and convey ideas, concepts, and information through the selection, organizat ion, and analysis of 
+relevant content. (MS-LS4-2),(MS-LS4-4) 
+WHST.6-8.8   Gather relevant information from multiple print and digital sources, using search terms effectively; assess the credibility and accuracy of each source; and 
+quote or paraphrase the data and conclusions of others while avoiding plagiarism and following a standard format for citation . (MS-LS4-5) 
+WHST.6-8.9  Draw evidence from informational texts to support analysis, reflection, and research . (MS-LS4-2),(MS-LS4-4) 
+SL.8.1  Engage effectively in a range of collaborative discussions (one-on-one, in groups, teacher-led) with diverse partners on grade 6 topics, texts, and issues, 
+building on others’ ideas and expressing their own clearly. (MS-LS4-2),(MS-LS4-4) 
+SL.8.4   Present claims and findings, emphasizing salient points in a focused, coherent manner with relevant evidence, sound valid reasoning, and well -chosen details; 
+use appropriate eye contact, adequate volume, and clear pronunciation.  (MS-LS4-2),(MS-LS4-4) 
+Mathematics –  
+MP.4 Model with mathematics. (MS-LS4-6) 
+6.RP.A.1 Understand the concept of a ratio and use ratio language to describe a ratio relationship between two quantities.  (MS-LS4-4),(MS-LS4-6) 
+6.SP.B.5 Summarize numerical data sets in relation to their context. (MS-LS4-4),(MS-LS4-6) 
+6.EE.B.6 Use variables to represent numbers and write expressions when solving a real -world or mathematical problem; understand that a variable can represent an 
+unknown number, or, depending on the purpose at hand, any number in a spec ified set. (MS-LS4-1),(MS-LS4-2) 
+7.RP.A.2 Recognize and represent proportional relationships between quantities. (MS-LS4-4),(MS-LS4-6) 
+ 
+ 
+\\ 
+ 
+September 2017
+©2013 Achieve, Inc. All rights reserved.
+64 of 103
+
+PDF PAGE 65
+ 
+ 
+Middle School Earth and Space Sciences  
+ 
+Students in middle school continue to develop their understanding of the three disciplinary core 
+ideas in the Earth and Space Sciences.  The middle school performance expectations in Earth 
+Space Science build on the elementary school ideas and skills and allow middle school students 
+to explain more in-depth phenomena central not only to the earth and space sciences, but to 
+life and physical sciences as well.  These performance expectations blend the core ideas with 
+scientific and engineering practices and crosscutting concepts to support students in developing 
+useable knowledge to explain ideas across the science disciplines.  While the performance 
+expectations shown in middle school earth and space science couple particular practices with 
+specific disciplinary core ideas, instructional decisions should include use of many practices that 
+lead to the performance expectations. 
+ 
+The performance expectations in ESS1:  Earth’s Place in the Universe, help students 
+formulate an answer to questions such as:  “What is Earth’s place in the Universe, What makes 
+up our solar system and how can the motion of Earth explain seasons and eclipses, and How do 
+people figure out that the Earth and life on Earth have changed through time?”  The ESS1 
+Disciplinary Core Idea from the NRC Framework is broken down into three sub-ideas: the 
+universe and its stars, Earth and the solar system and the history of planet Earth.  Students 
+examine the Earth’s place in relation to the solar system, Milky Way galaxy, and universe. There 
+is a strong emphasis on a systems approach, using models of the solar system to explain 
+astronomical and other observations of the cyclic patterns of eclipses and seasons. There is also 
+a strong connection to engineering through the instruments and technologies that have allowed 
+us to explore the objects in our solar system and obtain the data that support the theories that 
+explain the formation and evolution of the universe.  Students examine geoscience data in 
+order to understand the processes and events in Earth’s history.  The crosscutting concepts of 
+patterns, scale, proportion, and quantity, and systems and systems modeling are called out as 
+organizing concepts for these disciplinary core ideas.  In the ESS1 performance expectations, 
+students are expected to demonstrate proficiency in developing and using models, analyzing 
+data, and constructing explanations and designing solutions; and to use these practices to 
+demonstrate understanding of the core ideas.   
+ 
+The performance expectations in ESS2:  Earth’s Systems, help students formulate an answer 
+to questions such as:  “How do the materials in and on Earth’s crust change over time, How 
+does the movement of tectonic plates impact the surface of Earth, How does water influence 
+weather, circulate in the oceans, and shape Earth’s surface, What factors interact and influence 
+weather, and How have living organisms changed the Earth and how have Earth’s changing 
+conditions impacted living organisms?”  The ESS2 Disciplinary Core Idea from the NRC 
+Framework is broken down into five sub-ideas: Earth materials and systems, plate tectonics and 
+large-scale system interactions, the roles of water in Earth’s surface processes, weather and 
+climate, and biogeology.  Students understand how Earth’s geosystems operate by modeling 
+the flow of energy and cycling of matter within and among different systems. Students 
+investigate the controlling properties of important materials and construct explanations based 
+on the analysis of real geoscience data. Of special importance in both topics are the ways that 
+geoscience processes provide resources needed by society but also cause natural hazards that 
+present risks to society; both involve technological challenges, for the identification and 
+development of resources. Students develop understanding of the factors that control weather. 
+A systems approach is also important here, examining the feedbacks between systems as 
+September 2017
+©2013 Achieve, Inc. All rights reserved.
+65 of 103
+
+PDF PAGE 66
+ 
+ 
+energy from the sun is transferred between systems and circulates though the ocean and 
+atmosphere. The crosscutting concepts of patterns, cause and effect, scale proportion and 
+quantity, systems and system models, energy and matter, and stability and change are called 
+out as organizing concepts for these disciplinary core ideas.  In the ESS2 performance 
+expectations, students are expected to demonstrate proficiency in developing and using models, 
+planning and carrying out investigations, analyzing and interpreting data, and constructing 
+explanations; and to use these practices to demonstrate understanding of the core ideas.   
+ 
+The performance expectations in ESS3:  Earth and Human Activity help students formulate 
+an answer to questions such as:  “How is the availability of needed natural resources related to 
+naturally occurring processes, How can natural hazards be predicted, How do human activities 
+affect Earth systems, How do we know our global climate is changing?”   The ESS3 Disciplinary 
+Core Idea from the NRC Framework is broken down into four sub-ideas: natural resources, 
+natural hazards, human impact on Earth systems, and global climate change.  Students 
+understand the ways that human activities impacts Earth’s other systems. Students use many 
+different practices to understand the significant and complex issues surrounding human uses of 
+land, energy, mineral, and water resources and the resulting impacts of their development. The 
+crosscutting concepts of patterns, cause and effect, and stability and change are called out as 
+organizing concepts for these disciplinary core ideas.  In the ESS3 performance expectations, 
+students are expected to demonstrate proficiency in asking questions, developing and using 
+models, analyzing and interpreting data, constructing explanations and designing solutions and 
+engaging in argument; and to use these practices to demonstrate understanding of the core 
+ideas.   
+ 
+September 2017
+©2013 Achieve, Inc. All rights reserved.
+66 of 103
+
+PDF PAGE 67
+MS-ESS1  Earth’s Place in the Universe 
+*The performance expectations marked with an asterisk integrate traditional science content with engineering through a Practice or Disciplinary  C ore Idea.  
+The section entitled “Disciplinary Core Ideas” is reproduced verbatim from A Framework for K-12 Science Education: Practices, Cross-Cutting C oncepts, and C ore Ideas.  Integrated 
+and reprinted with permission from the National A cademy  of Sciences.  
+MS-ESS1     Earth’s Place in the Universe  
+Students who demonstrate understanding can:  
+MS-ESS1-1.  Develop and use a model of the Earth -sun-moon system to describe the cyclic patterns of lunar phases, 
+eclipses of the sun and moon, and seasons.  [C larification Statement:  Examples of models can be phy sical, graphical, or conceptual.] 
+MS-ESS1-2.  Develop and use a model to describe the role of gravity in the motions within galaxies and the solar system.   
+[C larification Statement:  Emphasis for the model is on gravity as the force that holds together the solar sy stem and Milky Way galaxy and controls orbital motions 
+within them. Examples of models can be physical (such as the analogy of distance along a football field or computer visualizations of elliptical orbits) or 
+conceptual (such as mathematical proportions relative to the size of familiar objects such as students’ school or state).] [A ssessment Boundary:  A ssessment does 
+not include Kepler’s Laws of orbital motion or the apparent retrograde motion of the planets as viewed from Earth.] 
+MS-ESS1-3.  Analyze and interpret data to determine scale properties of  objects in the solar system .  [C larification Statement:  
+Emphasis is on the analy sis of data from Earth-based instruments, space-based telescopes, and spacecraft to determine similarities and differences among solar 
+sy stem objects. Examples of scale properties include the sizes of an object’s layers (such as crust and atmosphere), surface features (such as v olcanoes), and 
+orbital radius. Examples of data include statistical information, drawings and photographs, and models.] [A ssessment Boundary:  Assessment does not include 
+recalling facts about properties of the planets and other solar sy stem bodies.] 
+MS-ESS1-4.  Construct a scientific explanation based on evidence from  rock strata for how the geologic time scale is used 
+to organize Earth’s 4.6-billion-year -old history .  [C larification Statement:  Emphasis is on how analyses of rock formations and the fossils 
+they  contain are used to establish relative ages of major events in Earth’s history. Examples of Earth’s major events could range from being very recent (such as 
+the last Ice A ge or the earliest fossils of homo sapiens) to v ery old (such as the formation of Earth or the earliest evidence of life). Examples can include the 
+formation of mountain chains and ocean basins, the evolution or extinction of particular liv ing organisms, or significant volcanic eruptions.] [A ssessment 
+Boundary :  Assessment does not include recalling the names of specific periods or epochs and events within them.] 
+The performance expectations abov e were dev eloped using the following elements from the NRC  document A  Framework for K -12 Science Education: 
+ 
+Science and Engineering Practices  
+Developing and Using Models 
+Modeling in 6–8 builds on K–5 experiences and 
+progresses to dev eloping, using, and revising models to 
+describe, test, and predict more abstract phenomena 
+and design sy stems. 
+ Dev elop and use a model to describe phenomena. 
+(MS -ESS1-1),(MS-ESS1-2)  
+A nalyzing and Interpreting Data 
+A nalyzing data in 6–8 builds on K–5 experiences and 
+progresses to extending quantitative analysis to 
+inv estigations, distinguishing between correlation and 
+causation, and basic statistical techniques of data and 
+error analy sis. 
+ A nalyze and interpret data to determine similarities 
+and differences in findings. (MS -ESS1-3) 
+Constructing Explanations and Designing 
+Solutions  
+C onstructing explanations and designing solutions in 6–
+8 builds on K–5 experiences and progresses to include 
+constructing explanations and designing solutions 
+supported by  multiple sources of evidence consistent 
+with scientific ideas, principles, and theories. 
+ C onstruct a scientific explanation based on valid 
+and reliable ev idence obtained from sources 
+(including the students’ own experiments) and the 
+assumption that theories and laws that describe the 
+natural world operate today as they did in the past 
+and will continue to do so in the future. (MS -ESS1-
+4) 
+ 
+Disciplinary Core Ideas  
+ESS1 .A:  The Universe and Its Stars 
+ Patterns of the apparent motion of the sun, the moon, and stars in 
+the sky  can be observ ed, described, predicted, and explained with 
+models. (MS -ESS1-1) 
+ Earth and its solar sy stem are part of the Milky Way galaxy, which is 
+one of many  galaxies in the univ erse. (MS-ESS1-2) 
+ESS1 .B:  Earth and the Solar System 
+ The solar sy stem consists of the sun and a collection of objects, 
+including planets, their moons, and asteroids that are held in orbit 
+around the sun by  its grav itational pull on them. (MS-ESS1-2),(MS-
+ESS1 -3) 
+ This model of the solar sy stem can explain eclipses of the sun and 
+the moon. Earth’s spin axis is fixed in direction ov er the short-term 
+but tilted relativ e to its orbit around the sun. The seasons are a 
+result of that tilt and are caused by  the differential intensity of 
+sunlight on different areas of Earth across the y ear. (MS-ESS1-1) 
+ The solar sy stem appears to have formed from a disk of dust and 
+gas, drawn together by gravity. (MS-ESS1-2) 
+ESS1 .C:  The History of Planet Earth 
+ The geologic time scale interpreted from rock strata provides a way 
+to organize Earth’s history . Analyses of rock strata and the fossil 
+record prov ide only  relative dates, not an absolute scale. (MS-ESS1-
+4) 
+ 
+Crosscutting Concepts  
+Patterns  
+ Patterns can be used to identify  cause-
+and-effect relationships. (MS-ESS1-1) 
+Scale, Proportion, and Quantity 
+ Time, space, and energy phenomena can 
+be observ ed at v arious scales using models 
+to study  sy stems that are too large or too 
+small. (MS -ESS1-3),(MS-ESS1-4) 
+Systems and System Models 
+ Models can be used to represent sy stems 
+and their interactions. (MS -ESS1-2) 
+ 
+----------------------------------------------- 
+Connection s to Engineering, T echnology,  
+and A pplications of Science  
+ 
+Interdependence of Science, 
+Engineering, and Technology  
+ Engineering advances have led to 
+important discov eries in v irtually every 
+field of science and scientific discov eries 
+hav e led to the dev elopment of entire 
+industries and engineered sy stems. (MS-
+ESS1 -3) 
+ 
+----------------------------------------------- 
+Connection s to Nature of Science  
+ 
+Scientific Knowledge Assumes an Order 
+and Consistency in Natural Systems 
+ Science assumes that objects and events 
+in natural sy stems occur in consistent 
+patterns that are understandable through 
+measurement and observation. (MS-ESS1-
+1),(MS -ESS1-2) 
+C onnections to other DCIs in this grade-band:  MS.PS2.A (MS-ESS1-1),(MS-ESS1-2); MS.PS2.B (MS-ESS1-1),(MS-ESS1-2); MS.LS4.A (MS-ESS1-4); MS.LS4.C (MS-ESS1-4); 
+MS.ESS2.A  (MS-ESS1-3) 
+A rticulation of DCIs across grade-bands:  3 .PS2.A (MS-ESS1-1),(MS-ESS1-2); 3.LS4.A (MS-ESS1-4); 3 .LS4.C (MS-ESS1-4); 4 .ESS1.C (MS-ESS1-4); 5 .PS2.B (MS-ESS1-1),(MS-ESS1-
+2); 5 .ESS1.A (MS-ESS1-2); 5 .ESS1.B (MS-ESS1-1),(MS-ESS1-2),(5-ESS1-3); HS.PS1.C (MS-ESS1-4); HS.PS2.A (MS-ESS1-1),(MS-ESS1-2); HS.PS2.B (MS-ESS1-1),(MS-ESS1-2); 
+HS.LS4.A  (MS-ESS1-4); HS.LS4.C (MS-ESS1-4); HS.ESS1.A (MS-ESS1-2); HS.ESS1.B (MS-ESS1-1),(MS-ESS1-2),(MS-ESS1-3); HS.ESS1.C (MS-ESS1-4); HS.ESS2.A (MS-ESS1-
+3),(MS -ESS1-4) 
+C ommon Core State Standards Connections:  
+ELA /Literacy –  
+RST .6-8.1   C ite specific textual evidence to support analysis of science and technical texts.  (MS-ESS1-3),(MS-ESS1-4) 
+RST .6-8.7  Integrate quantitative or technical information expressed in words in a text with a v ersion of that information expressed visually (e.g., in a flowchart, diagram, 
+model, graph, or table). (MS -ESS1-3) 
+WHST .6-8.2  Write informativ e/explanatory texts to examine a topic and convey ideas, concepts, and information through the selection, organization, and analysis of relevant 
+content. (MS-ESS1-4) 
+SL.8 .5  Integrate multimedia and visual displays into presentations to clarify information, strengthen claims and evidence, and add interest. (MS-ESS1-1),(MS-ESS1-2) 
+Mathematics –  
+MP.2   Reason abstractly and quantitatively. (MS-ESS1-3) 
+MP.4   Model with mathematics. (MS-ESS1-1),(MS-ESS1-2) 
+6 .RP.A.1  Understand the concept of a ratio and use ratio language to describe a ratio relationship between two quantities. (MS-ESS1-1),(MS-ESS1-2),(MS-ESS1-3) 
+April 2014
+©2013 Achieve, Inc. All rights reserved.
+1 of 2
+September 2017
+©2013 Achieve, Inc. All rights reserved.
+67 of 103
+
+PDF PAGE 68
+MS-ESS1  Earth’s Place in the Universe 
+*The performance expectations marked with an asterisk integrate traditional science content with engineering through a Practice or Disciplinary  C ore Idea.  
+The section entitled “Disciplinary Core Ideas” is reproduced verbatim from A Framework for K-12 Science Education: Practices, Cross-Cutting C oncepts, and C ore Ideas.  Integrated 
+and reprinted with permission from the National A cademy  of Sciences.  
+7 .RP.A.2  Recognize and represent proportional relationships between quantities. (MS-ESS1-1),(MS-ESS1-2),(MS-ESS1-3) 
+6 .EE.B.6 Use v ariables to represent numbers and write expressions when solving a real-world or mathematical problem; understand that a v ariable can represent an 
+unknown number, or, depending on the purpose at hand, any number in a specified set. (MS-ESS1-2),(MS-ESS1-4) 
+7 .EE.B.4 Use v ariables to represent quantities in a real-world or mathematical problem, and construct simple equations and inequalities to solve problems by reasoning 
+about the quantities. (MS -ESS1-2),(MS-ESS1-4) 
+ 
+April 2014
+©2013 Achieve, Inc. All rights reserved.
+2 of 2
+September 2017
+©2013 Achieve, Inc. All rights reserved.
+68 of 103
+
+PDF PAGE 69
+MS-ESS2  Earth’s Systems 
+*The performance expectations marked with an asterisk integrate  traditional science content with engineering through a Practice or Disciplinary Core Idea. 
+The section entitled “Disciplinary Core Ideas” is reproduced verbatim from A Framework for K -12 Science Education: Practices, Cross-Cutting Concepts, and Core Ideas.  Integrated 
+and reprinted with permission from the National Academy of Sciences. 
+MS-ESS2     Earth’s Systems 
+Students who demonstrate understanding can:  
+MS-ESS2-1. Develop a model to describe the cycling of Earth’s materials and the flow of energy that drives this process.  
+[Clarification Statement:  Emphasis is on the processes of melting, crystallization, weathering, deformation, and sedimentati on, which act together to form minerals 
+and rocks through the cycling of Earth’s materials.] [Assessment Boundary:  Assessment does not include the identification and naming of minerals.]  
+MS-ESS2-2. Construct an explanation based on evidence for how geoscience processes have changed Earth’s surface at 
+varying time and spatial scales.  [Clarification Statement:  Emphasis is on how processes change Earth’s surface at time and spatial scales that can be 
+large (such as slow plate motions or the uplift of large mountain ranges) or small (such as rapid landslides or microscopic g eochemical reactions), and how many 
+geoscience processes (such as earthquakes, volcanoes, and meteor impacts) usually behave gradually but are punctuated by catastr ophic events. Examples of 
+geoscience processes include surface weathering and deposition by the movements of water, ice, and wind. Emphasis is on geoscience processes that shape local 
+geographic features, where appropriate.] 
+MS-ESS2-3. Analyze and interpret data on the distribution of fossils and rocks, continental shapes, and seafloor structures to 
+provide evidence of the past plate motions.  [Clarification Statement:  Examples of data include similarities of rock and fossil types on different 
+continents, the shapes of the continents (including continental shelves), and the locations of ocean structures (such as ridg es, fracture zones, and trenches).] 
+[Assessment Boundary:  Paleomagnetic anomalies in oceanic and continental crust are not assessed.]  
+MS-ESS2-4. Develop a model to describe the cycling of water through Earth’s systems driven by energy from the sun and the 
+force of gravity.  [Clarification Statement:  Emphasis is on the ways water changes its state as it moves through the multiple pathways of the h ydrologic 
+cycle. Examples of models can be conceptual or physical.] [Assessment Boundary:  A quantitative understanding of the latent heats of vaporization and fusion is not 
+assessed.]  
+MS-ESS2-5. Collect data to provide evidence for how the motions and complex interactions of air masses result in changes in 
+weather conditions.  [Clarification Statement:  Emphasis is on how air masses flow from regions of high pressure to low pressure, causing weather (defined 
+by temperature, pressure, humidity, precipitation, and wind) at a fixed location to change over time, and how sudden changes in weather can result when different 
+air masses collide. Emphasis is on how weather can be predicted within probabilistic ranges. Examples of data can be provided  to students (such as weather maps, 
+diagrams, and visualizations) or obtained through laboratory experime nts (such as with condensation).] [Assessment Boundary:  Assessment does not include 
+recalling the names of cloud types or weather symbols used on weather maps or the reported diagrams from weather stations.]   
+MS-ESS2-6. Develop and use a model to describe how unequal heating and rotation of the Earth cause patterns of 
+atmospheric and oceanic circulation that determine regional climates.  [Clarification Statement:  Emphasis is on how patterns vary 
+by latitude, altitude, and geographic land distribution. Emphasis of atmospheric circulation is on the sunlight -driven latitudinal banding, the Coriolis effect, and 
+resulting prevailing winds; emphasis of ocean circulation is on the transfer of heat by the global ocean convection cycle, which is constrained by the Coriolis effect 
+and the outlines of continents. Examples of models can be diagrams, maps and globes, or digital representations.]  [Assessment Boundary:  Assessment does not 
+include the dynamics of the Coriolis effect.] 
+The performance expectations above were developed using the following elements from the NRC document  A Framework for K-12 Science Education: 
+ 
+Science and Engineering Practices 
+Developing and Using Models 
+Modeling in 6–8 builds on K–5 experiences and progresses to 
+developing, using, and revising models to describe, test, and 
+predict more abstract phenomena and design systems. 
+▪ Develop and use a model to describe phenomena. (MS-
+ESS2-1),(MS-ESS2-6) 
+▪ Develop a model to describe unobservable mechanisms. 
+(MS-ESS2-4) 
+Planning and Carrying Out Investigations 
+Planning and carrying out investigations in 6-8 builds on K-5 
+experiences and progresses to include investigations that use 
+multiple variables and provide evidence to support 
+explanations or solutions. 
+▪ Collect data to produce data to serve as the basis for 
+evidence to answer scientific questions or test design 
+solutions under a range of conditions. (MS-ESS2-5) 
+Analyzing and Interpreting Data 
+Analyzing data in 6–8 builds on K–5 experiences and 
+progresses to extending quantitative analysis to 
+investigations, distinguishing between correlation and 
+causation, and basic statistical techniques of data and error 
+analysis.  
+▪ Analyze and interpret data to provide evidence for 
+phenomena. (MS-ESS2-3) 
+Constructing Explanations and Designing Solutions  
+Constructing explanations and designing solutions in 6–8 
+builds on K–5 experiences and progresses to include 
+constructing explanations and designing solutions supported 
+by multiple sources of evidence consistent with scientific 
+ideas, principles, and theories. 
+▪ Construct a scientific explanation based on valid and 
+reliable evidence obtained from sources (including the 
+students’ own experiments) and the assumption that 
+theories and laws that describe nature operate today as 
+they did in the past and will continue to do so in the 
+future. (MS-ESS2-2) 
+ 
+--------------------------------------------------  
+Connections to Nature of Science 
+ 
+Scientific Knowledge is Open to Revision in Light of 
+New Evidence 
+ 
+Disciplinary Core Ideas 
+ESS1.C:  The History of Planet Earth 
+▪ Tectonic processes continually generate new ocean sea floor at ridges 
+and destroy old sea floor at trenches. (HS.ESS1.C GBE) (secondary to 
+MS-ESS2-3) 
+ESS2.A:  Earth’s Materials and Systems 
+▪ All Earth processes are the result of energy flowing and matter cycling 
+within and among the planet’s systems. This energy is derived from the 
+sun and Earth’s hot interior. The energy that flows and matter that 
+cycles produce chemical and physical changes in Earth’s materials and 
+living organisms. (MS-ESS2-1) 
+▪ The planet’s systems interact over scales that range from microscopic to 
+global in size, and they operate over fractions of a second to billions of 
+years. These interactions have shaped Earth’s history and will determine 
+its future. (MS-ESS2-2) 
+ESS2.B:  Plate Tectonics and Large-Scale System Interactions 
+▪ Maps of ancient land and water patterns, based on investigations of 
+rocks and fossils, make clear how Earth’s plates have moved great 
+distances, collided, and spread apart. (MS-ESS2-3) 
+ESS2.C:  The Roles of Water in Earth’s Surface Processes  
+▪ Water continually cycles among land, ocean, and atmosphere via 
+transpiration, evaporation, condensation and crystallization, and 
+precipitation, as well as downhill flows on land. (MS-ESS2-4) 
+▪ The complex patterns of the changes and the movement of water in the 
+atmosphere, determined by winds, landforms, and ocean temperatures 
+and currents, are major determinants of local weather patterns. (MS-
+ESS2-5) 
+▪ Global movements of water and its changes in form are propelled by 
+sunlight and gravity. (MS-ESS2-4) 
+▪ Variations in density due to variations in temperature and salinity drive 
+a global pattern of interconnected ocean currents. (MS-ESS2-6) 
+▪ Water’s movements—both on the land and underground—cause 
+weathering and erosion, which change the land’s surface features and 
+create underground formations. (MS-ESS2-2) 
+ESS2.D:  Weather and Climate 
+▪ Weather and climate are influenced by interactions involving sunlight, 
+the ocean, the atmosphere, ice, landforms, and living things. These 
+interactions vary with latitude, altitude, and local and regional 
+geography, all of which can affect oceanic and atmospheric flow 
+patterns. (MS-ESS2-6) 
+▪ Because these patterns are so complex, weather can only be predicted 
+probabilistically. (MS-ESS2-5) 
+▪ The ocean exerts a major influence on weather and climate by 
+ 
+Crosscutting Concepts 
+Patterns 
+▪ Patterns in rates of change and other 
+numerical relationships can provide 
+information about natural systems. 
+(MS-ESS2-3)  
+Cause and Effect 
+▪ Cause and effect relationships may 
+be used to predict phenomena in 
+natural or designed systems. (MS-
+ESS2-5) 
+Scale Proportion and Quantity 
+▪ Time, space, and energy phenomena 
+can be observed at various scales 
+using models to study systems that 
+are too large or too small. (MS-ESS2-
+2) 
+Systems and System Models 
+▪ Models can be used to represent 
+systems and their interactions—such 
+as inputs, processes and outputs—
+and energy, matter, and information 
+flows within systems. (MS-ESS2-6) 
+Energy and Matter 
+▪ Within a natural or designed system, 
+the transfer of energy drives the 
+motion and/or cycling of matter. 
+(MS-ESS2-4) 
+Stability and Change 
+▪ Explanations of stability and change 
+in natural or designed systems can 
+be constructed by examining the 
+changes over time and processes at 
+different scales, including the atomic 
+scale. (MS-ESS2-1) 
+ 
+ 
+ 
+ 
+September 2017
+©2013 Achieve, Inc. All rights reserved.
+69 of 103
+
+PDF PAGE 70
+MS-ESS2  Earth’s Systems 
+*The performance expectations marked with an asterisk integrate  traditional science content with engineering through a Practice or Disciplinary Core Idea. 
+The section entitled “Disciplinary Core Ideas” is reproduced verbatim from A Framework for K -12 Science Education: Practices, Cross-Cutting Concepts, and Core Ideas.  Integrated 
+and reprinted with permission from the National Academy of Sciences. 
+▪ Science findings are frequently revised and/or 
+reinterpreted based on new evidence. (MS-ESS2-3) 
+absorbing energy from the sun, releasing it over time, and globally 
+redistributing it through ocean currents. (MS-ESS2-6) 
+Connections to other DCIs in this grade-band:  MS.PS1.A (MS-ESS2-1),(MS-ESS2-4),(MS-ESS2-5); MS.PS1.B (MS-ESS2-1),(MS-ESS2-2); MS.PS2.A (MS-ESS2-5),(MS-ESS2-6); 
+MS.PS2.B (MS-ESS2-4); MS.PS3.A (MS-ESS2-4),(MS-ESS2-5); MS.PS3.B (MS-ESS2-1),(MS-ESS2-5),(MS-ESS2-6); MS.PS3.D (MS-ESS2-4); MS.PS4.B (MS-ESS2-6); MS.LS2.B (MS-
+ESS2-1),(MS-ESS2-2); MS.LS2.C (MS-ESS2-1); MS.LS4.A (MS-ESS2-3); MS.ESS1.B (MS-ESS2-1); MS.ESS3.C (MS-ESS2-1) 
+Articulation of DCIs across grade-bands:  3.PS2.A (MS-ESS2-4),(MS-ESS2-6); 3.LS4.A (MS-ESS2-3); 3.ESS2.D (MS-ESS2-5),(MS-ESS2-6); 3.ESS3.B (MS-ESS2-3); 4.PS3.B (MS-ESS2-
+1),(MS-ESS2-4); 4.ESS1.C (MS-ESS2-2),(MS-ESS2-3); 4.ESS2.A (MS-ESS2-1),(MS-ESS2-2); 4.ESS2.B (MS-ESS2-3); 4.ESS2.E (MS-ESS2-2); 4.ESS3.B (MS-ESS2-3); 5.PS2.B (MS-
+ESS2-4); 5.ESS2.A (MS-ESS2-1),(MS-ESS2-2),(MS-ESS2-5),(MS-ESS2-6); 5.ESS2.C (MS-ESS2-4); HS.PS1.B (MS-ESS2-1); HS.PS2.B (MS-ESS2-4),(MS-ESS2-6); HS.PS3.B (MS-ESS2-
+1),(MS-ESS2-4); HS.PS3.D (MS-ESS2-2),(MS-ESS2-6); HS.PS4.B (MS-ESS2-4); HS.LS1.C (MS-ESS2-1); HS.LS2.B (MS-ESS2-1),(MS-ESS2-2); HS.LS4.A (MS-ESS2-3); HS.LS4.C (MS-
+ESS2-3); HS.ESS1.B (MS-ESS2-6); HS.ESS1.C (MS-ESS2-2),(MS-ESS2-3); HS.ESS2.A (MS-ESS2-1),(MS-ESS2-2),(MS-ESS2-3),(MS-ESS2-4),(MS-ESS2-6); HS.ESS2.B (MS-ESS2-2),(MS-
+ESS2-3); HS.ESS2.C (MS-ESS2-1),(MS-ESS2-2),(MS-ESS2-4),(MS-ESS2-5); HS.ESS2.D (MS-ESS2-2),(MS-ESS2-4),(MS-ESS2-5),(MS-ESS2-6); HS.ESS2.E (MS-ESS2-1),(MS-ESS2-2); 
+HS.ESS3.D (MS-ESS2-2) 
+Common Core State Standards Connections:  
+ELA/Literacy –  
+RST.6-8.1   Cite specific textual evidence to support analysis of science and technical texts.  (MS -ESS2-2),(MS-ESS2-3),(MS-ESS2-5) 
+RST.6-8.7  Integrate quantitative or technical information expressed in words in a text with a version of that information expressed visually (e.g., in a flowchart, diagram, 
+model, graph, or table). (MS-ESS2-3) 
+RST.6-8.9 Compare and contrast the information gained from experiments, simulations, video, or multimedia sources with that gained from  reading a text on the same topic. 
+(MS-ESS2-3),(MS-ESS2-5) 
+WHST.6-8.2  Write informative/explanatory texts to examine a topic and convey ideas, concepts, and information through the selection, org anization, and analysis of relevant 
+content. (MS-ESS2-2) 
+WHST.6-8.8   Gather relevant information from multiple print and digital sources, using search terms effectively; assess the credibility and accu racy of each source; and quote or 
+paraphrase the data and conclusions of others while avoiding plagiarism and following a standard format for citation. (MS-ESS2-5) 
+SL.8.5  Integrate multimedia and visual displays into presentations to clarify information, strengthen claims and evidence, and add i nterest. (MS-ESS2-1),(MS-ESS2-2),(MS-
+ESS2-6) 
+Mathematics –  
+MP.2  Reason abstractly and quantitatively. (MS-ESS2-2),(MS-ESS2-3),(MS-ESS2-5) 
+6.NS.C.5  Understand that positive and negative numbers are used together to describe quantities having opposite directions or values ( e.g., temperature above/below zero, 
+elevation above/below sea level, credits/debits, positive/negative electric charge); use positive and negative numbers to represent quantities in real -world contexts, 
+explaining the meaning of 0 in each situation. (MS-ESS2-5) 
+6.EE.B.6 Use variables to represent numbers and write expressions when solving a real-world or mathematical problem; understand that a variable can represent an 
+unknown number, or, depending on the purpose at hand, any number in a specified set.  (MS-ESS2-2),(MS-ESS2-3) 
+7.EE.B.4 Use variables to represent quantities in a real-world or mathematical problem, and construct simple equations and inequalities to solve problems by reasoning 
+about the quantities. (MS-ESS2-2),(MS-ESS2-3) 
+ 
+September 2017
+©2013 Achieve, Inc. All rights reserved.
+70 of 103
+
+PDF PAGE 71
+MS-ESS3  Earth and Human Activity 
+*The performance expectations marked with an asterisk integrate traditional science content with engineering throu gh a Practice or Disciplinary Core Idea. 
+The section entitled “Disciplinary Core Ideas” is reproduced verbatim from A Framework for K -12 Science Education: Practices, Cross-Cutting Concepts, and Core Ideas.  Integrated 
+and reprinted with permission from the National Academy of Sciences. 
+MS-ESS3     Earth and Human Activity 
+Students who demonstrate understanding can: 
+MS-ESS3-1. Construct a scientific explanation based on evidence for how the uneven distributions of Earth’s mineral, energy, 
+and groundwater resources are the result of past and current geoscience processes.  [Clarification Statement:  Emphasis is on 
+how these resources are limited and typically non-renewable, and how their distributions are significantly changing as a result of removal by humans. Examples of 
+uneven distributions of resources as a result of past processes include but are not limited to petroleum (locations of the burial of organic marine sediments and 
+subsequent geologic traps), metal ores (locations of past volcanic and hydrothermal activity associated with subduction zones), and soil (locations of active weathering 
+and/or deposition of rock).] 
+MS-ESS3-2. Analyze and interpret data on natural hazards to forecast future catastrophic events and inform the development 
+of technologies to mitigate their effects.  [Clarification Statement:  Emphasis is on how some natural hazards, such as volcanic eruptions and severe 
+weather, are preceded by phenomena that allow for reliable predictions,  but others, such as earthquakes, occur suddenly and with no notice, and thus are not yet 
+predictable. Examples of natural hazards can be taken from interior processes (such as earthquakes and volcanic eruptions), surface processes (such as mass wasting 
+and tsunamis), or severe weather events (such as hurricanes, tornadoes, and floods). Examples of data can include the locations, magnitudes, and frequencies of the 
+natural hazards. Examples of technologies can be global (such as satellite systems to monitor hurricanes or forest fires) or local (such as building basements in tornado-
+prone regions or reservoirs to mitigate droughts).] 
+MS-ESS3-3. Apply scientific principles to design a method for monitoring and minimizing a human impact on the environment.*  
+[Clarification Statement:  Examples of the design process include examining human environmental impacts, assessing the kinds of solutions that are feasible, and 
+designing and evaluating solutions that could reduce that impact. Examples of human impacts can include water usage (such as the withdrawal of water from streams 
+and aquifers or the construction of dams and levees), land usage (such as urban development, agriculture, or the removal of wetlands), and pollution (such as of the 
+air, water, or land).]  
+MS-ESS3-4. Construct an argument supported by evidence for how increases in human population and per-capita consumption 
+of natural resources impact Earth’s systems.  [Clarification Statement:  Examples of evidence include grade-appropriate databases on human 
+populations and the rates of consumption of food and natural resources (such as freshwater, mineral, and energy). Examples of impacts can include changes to the 
+appearance, composition, and structure of Earth’s systems as well as the rates at which they change . The consequences of increases in human populations and 
+consumption of natural resources are described by science, but science does not make the decisions for the actions society ta kes.] 
+MS-ESS3-5. Ask questions to clarify evidence of the factors that have caused the rise in global temperatures over the past 
+century.  [Clarification Statement:  Examples of factors include human activities (such as fossil fuel combustion, cement production, and agricultural activity) a nd 
+natural processes (such as changes in incoming solar radiation or volcanic activity). Examples of evidence can include tables, graphs, and maps of global and regional 
+temperatures, atmospheric levels of gases such as carbon dioxide and methane, and the rates of human activities. Emphasis is on the major role that human activities 
+play in causing the rise in global temperatures.] 
+The performance expectations above were developed using the following elements from the NRC document  A Framework for K-12 Science Education: 
+ 
+Science and Engineering Practices 
+Asking Questions and Defining Problems 
+Asking questions and defining problems in grades 6–8 
+builds on grades K–5 experiences and progresses to 
+specifying relationships between variables, and clarifying 
+arguments and models. 
+▪ Ask questions to identify and clarify evidence of an 
+argument. (MS-ESS3-5) 
+Analyzing and Interpreting Data 
+Analyzing data in 6–8 builds on K–5 and progresses to 
+extending quantitative analysis to investigations, 
+distinguishing between correlation and causation, and 
+basic statistical techniques of data and error analysis. 
+▪ Analyze and interpret data to determine similarities 
+and differences in findings. (MS-ESS3-2)  
+Constructing Explanations and Designing Solutions  
+Constructing explanations and designing solutions in 6–8 
+builds on K–5 experiences and progresses to include 
+constructing explanations and designing solutions 
+supported by multiple sources of evidence consistent with 
+scientific ideas, principles, and theories. 
+▪ Construct a scientific explanation based on valid and 
+reliable evidence obtained from sources (including the 
+students’ own experiments) and the assumption that 
+theories and laws that describe the natural world 
+operate today as they did in the past and will continue 
+to do so in the future. (MS-ESS3-1) 
+▪ Apply scientific principles to design an object, tool, 
+process or system. (MS-ESS3-3) 
+Engaging in Argument from Evidence 
+Engaging in argument from evidence in 6–8 builds on K–5 
+experiences and progresses to constructing a convincing 
+argument that supports or refutes claims for either 
+explanations or solutions about the natural and designed 
+world(s). 
+▪ Construct an oral and written argument supported by 
+empirical evidence and scientific reasoning to support 
+or refute an explanation or a model for a phenomenon 
+or a solution to a problem. (MS-ESS3-4) 
+ 
+ 
+Disciplinary Core Ideas 
+ESS3.A:  Natural Resources 
+▪ Humans depend on Earth’s land, ocean, atmosphere, 
+and biosphere for many different resources. Minerals, 
+fresh water, and biosphere resources are limited, and 
+many are not renewable or replaceable over human 
+lifetimes. These resources are distributed unevenly 
+around the planet as a result of past geologic 
+processes. (MS-ESS3-1) 
+ESS3.B:  Natural Hazards  
+▪ Mapping the history of natural hazards in a region, 
+combined with an understanding of related geologic 
+forces can help forecast the locations and likelihoods of 
+future events. (MS-ESS3-2) 
+ESS3.C:  Human Impacts on Earth Systems 
+▪ Human activities have significantly altered the 
+biosphere, sometimes damaging or destroying natural 
+habitats and causing the extinction of other species. But 
+changes to Earth’s environments can have different 
+impacts (negative and positive) for different living 
+things. (MS-ESS3-3) 
+▪ Typically as human populations and per-capita 
+consumption of natural resources increase, so do the 
+negative impacts on Earth unless the activities and 
+technologies involved are engineered otherwise. (MS-
+ESS3-3),(MS-ESS3-4) 
+ESS3.D:  Global Climate Change 
+▪ Human activities, such as the release of greenhouse 
+gases from burning fossil fuels, are major factors in the 
+current rise in Earth’s mean surface temperature (global 
+warming). Reducing the level of climate change and 
+reducing human vulnerability to whatever climate 
+changes do occur depend on the understanding of 
+climate science, engineering capabilities, and other 
+kinds of knowledge, such as understanding of human 
+behavior and on applying that knowledge wisely in 
+decisions and activities. (MS-ESS3-5) 
+  
+ 
+Crosscutting Concepts 
+Patterns 
+▪ Graphs, charts, and images can be used to identify 
+patterns in data. (MS-ESS3-2) 
+Cause and Effect 
+▪ Relationships can be classified as causal or correlational, 
+and correlation does not necessarily imply causation. 
+(MS-ESS3-3) 
+▪ Cause and effect relationships may be used to predict 
+phenomena in natural or designed systems. (MS-ESS3-
+1),(MS-ESS3-4) 
+Stability and Change 
+▪ Stability might be disturbed either by sudden events or 
+gradual changes that accumulate over time. (MS-ESS3-5) 
+ 
+------------------------------------------------ 
+Connections to Engineering, Technology, 
+and Applications of Science 
+ 
+Influence of Science, Engineering, and Technology on 
+Society and the Natural World  
+▪ All human activity draws on natural resources and has 
+both short and long-term consequences, positive as well 
+as negative, for the health of people and the natural 
+environment. (MS-ESS3-1),(MS-ESS3-4) 
+▪ The uses of technologies and any limitations on their use 
+are driven by individual or societal needs, desires, and 
+values; by the findings of scientific research; and by 
+differences in such factors as climate, natural resources, 
+and economic conditions. Thus technology use varies 
+from region to region and over time. (MS-ESS3-2),(MS-
+ESS3-3) 
+ 
+----------------------------------------------- 
+Connections to Nature of Science 
+  
+Science Addresses Questions About the Natural and 
+Material World 
+▪ Scientific knowledge can describe the consequences of 
+actions but does not necessarily prescribe the decisions 
+that society takes. (MS-ESS3-4) 
+Connections to other DCIs in this grade-band:  MS.PS1.A (MS-ESS3-1); MS.PS1.B (MS-ESS3-1); MS.PS3.A (MS-ESS3-5); MS.PS3.C (MS-ESS3-2); MS.LS2.A (MS-ESS3-3),(MS-ESS3-4); 
+MS.LS2.C (MS-ESS3-3),(MS-ESS3-4); MS.LS4.D (MS-ESS3-3),(MS-ESS3-4); MS.ESS2.D (MS-ESS3-1) 
+Articulation of DCIs across grade-bands: 3.LS2.C (MS-ESS3-3),(MS-ESS3-4); 3.LS4.D (MS-ESS3-3),(MS-ESS3-4); 3.ESS3.B (MS-ESS3-2); 4.PS3.D (MS-ESS3-1); 4.ESS3.A (MS-ESS3-1); 
+4.ESS3.B (MS-ESS3-2);  5.ESS3.C (MS-ESS3-3),(MS-ESS3-4); HS.PS3.B (MS-ESS3-1),(MS-ESS3-5); HS.PS4.B (MS-ESS3-5); HS.LS1.C (MS-ESS3-1); HS.LS2.A (MS-ESS3-4); HS.LS2.C 
+September 2017
+©2013 Achieve, Inc. All rights reserved.
+71 of 103
+
+PDF PAGE 72
+MS-ESS3  Earth and Human Activity 
+*The performance expectations marked with an asterisk integrate traditional science content with engineering throu gh a Practice or Disciplinary Core Idea. 
+The section entitled “Disciplinary Core Ideas” is reproduced verbatim from A Framework for K -12 Science Education: Practices, Cross-Cutting Concepts, and Core Ideas.  Integrated 
+and reprinted with permission from the National Academy of Sciences. 
+(MS-ESS3-3),(MS-ESS3-4); HS.LS4.C (MS-ESS3-3),(MS-ESS3-4); HS.LS4.D (MS-ESS3-3),(MS-ESS3-4); HS.ESS2.A (MS-ESS3-1),(MS-ESS3-5); HS.ESS2.B (MS-ESS3-1),(MS-ESS3-2); 
+HS.ESS2.C (MS-ESS3-1),(MS-ESS3-3); HS.ESS2.D (MS-ESS3-2),(MS-ESS3-3),(MS-ESS3-5); HS.ESS2.E (MS-ESS3-3),(MS-ESS3-4); HS.ESS3.A (MS-ESS3-1),(MS-ESS3-4); HS.ESS3.B 
+(MS-ESS3-2); HS.ESS3.C (MS-ESS3-3),(MS-ESS3-4),(MS-ESS3-5); HS.ESS3.D (MS-ESS3-2);(MS-ESS3-3),(MS-ESS3-5) 
+Common Core State Standards Connections:  
+ELA/Literacy –  
+RST.6-8.1   Cite specific textual evidence to support analysis of science and technical texts.  (MS-ESS3-1),(MS-ESS3-2),(MS-ESS3-4),(MS-ESS3-5) 
+RST.6-8.7  Integrate quantitative or technical information expressed in words in a text with a version of that information expressed vis ually (e.g., in a flowchart, diagram, 
+model, graph, or table). (MS-ESS3-2) 
+WHST.6-8.1   Write arguments focused on discipline content. (MS-ESS3-4) 
+WHST.6-8.2   Write informative/explanatory texts to examine a topic and convey ideas, concepts, and information through the selection, organization, and analysis of relevant 
+content. (MS-ESS3-1) 
+WHST.6-8.7  Conduct short research projects to answer a question (including a self -generated question), drawing on several sources and generating additional related, focused 
+questions that allow for multiple avenues of exploration. (MS-ESS3-3) 
+WHST.6-8.8  Gather relevant information from multiple print and digital sources, using search terms effectively; assess the credibility a nd accuracy of each source; and quote or 
+paraphrase the data and conclusions of others while avoiding plagiarism and following a standard format for citation.  (MS-ESS3-3) 
+WHST.6-8.9  Draw evidence from informational texts to support analysis, reflection, and research. (MS -ESS3-1),(MS-ESS3-4) 
+Mathematics –  
+MP.2  Reason abstractly and quantitatively. (MS-ESS3-2),(MS-ESS3-5) 
+6.RP.A.1  Understand the concept of a ratio and use ratio language to describe a ratio relationship between two quantities.  (MS-ESS3-3),(MS-ESS3-4) 
+7.RP.A.2  Recognize and represent proportional relationships between quantities. (MS-ESS3-3),(MS-ESS3-4) 
+6.EE.B.6 Use variables to represent numbers and write expressions when solving a real -world or mathematical problem; understand that a variable can represent an unknown 
+number, or, depending on the purpose at hand, any number in a specified set. (MS-ESS3-1),(MS-ESS3-2),(MS-ESS3-3),(MS-ESS3-4),(MS-ESS3-5) 
+7.EE.B.4 Use variables to represent quantities in a real-world or mathematical problem, and construct simple equations and inequalities to solve problems by reasoning about 
+the quantities. (MS-ESS3-1),(MS-ESS3-2),(MS-ESS3-3),(MS-ESS3-4),(MS-ESS3-5) 
+ 
+September 2017
+©2013 Achieve, Inc. All rights reserved.
+72 of 103
+
+PDF PAGE 73
+ 
+ 
+ 
+Middle School Engineering Design 
+ 
+By the time students reach middle school they should have had numerous experiences in 
+engineering design.  The goal for middle school students is to define problems more 
+precisely, to conduct a more thorough process of choosing the best solution, and to 
+optimize the final design.   
+Defining the problem with “precision” involves thinking more deeply than is expected in 
+elementary school about the needs a problem is intended to address, or the goals a 
+design is intended to reach. How will the end user decide whether or not the design is 
+successful? Also at this level students are expected to consider not only the end user, but 
+also the broader society and the environment.  Every technological change is likely to 
+have both intended and unintended effects.  It is up to the designer to try to anticipate 
+the effects it may have, and to behave responsibly in developing a new or improved 
+technology.  These considerations may take the form of either criteria or constraints on 
+possible solutions. 
+Developing possible solutions does not explicitly address generating design ideas 
+since students were expected to develop the capability in elementary school.  The focus in 
+middle school is on a two stage process of evaluating the different ideas that have been 
+proposed: by using a systematic method, such as a tradeoff matrix, to determine which 
+solutions are most promising, and by testing different solutions, and then combining the 
+best ideas into new solution that may be better than any of the preliminary ideas.  
+Improving designs at the middle school level involves an iterative process in which 
+students test the best design, analyze the results, modify the design accordingly, and then 
+re-test and modify the design again.  Students may go through this cycle two, three, or 
+more times in order to reach the optimal (best possible) result.  
+Connections with other science disciplines help students develop these capabilities in 
+various contexts.  For example, in the life sciences students apply their engineering design 
+capabilities to evaluate plans for maintaining biodiversity and ecosystem services (MS-LS2-
+5). In the physical sciences students define and solve problems involving a number of core 
+ideas in physical science, including: chemical processes that release or absorb energy 
+(MS-PS1-6), Newton’s third law of motion (MS-PS2-1), and energy transfer (MS-PS3-3). In 
+the Earth and space sciences students apply their engineering design capabilities to 
+problems related the impacts of humans on Earth systems (MS-ESS3-3).  
+By the end of 8th grade students are expected to achieve all four performance 
+expectations (MS-ETS1-1, MS-ETS1-2, MS-ETS1-3, and MS-ETS1-4) related to a single 
+problem in order to understand the interrelated processes of engineering design.  These 
+include defining a problem by precisely specifying criteria and constraints for solutions as 
+well as potential impacts on society and the natural environment, systematically 
+evaluating alternative solutions, analyzing data from tests of different solutions and 
+combining the best ideas into an improved solution, and developing a model and 
+iteratively testing and improving it to reach an optimal solution. While the performance 
+expectations shown in Middle School Engineering Design couple particular practices with 
+specific disciplinary core ideas, instructional decisions should include use of many practices 
+that lead to the performance expectations. 
+September 2017
+©2013 Achieve, Inc. All rights reserved.
+73 of 103
+
+PDF PAGE 74
+MS-ETS1  Engineering Design 
+MS-ETS1  Engineering Design 
+Students who demonstrate understanding can: 
+MS-ETS1-1. Define the criteria and constraints of a design problem with sufficient precision to ensure a successful solution, 
+taking into account relevant scientific principles and potential impacts on people and the natural environment 
+that may limit possible solutions.  
+ 
+MS-ETS1-2. Evaluate competing design solutions using a systematic process to determine how well they meet the criteria 
+and constraints of the problem.  
+ 
+MS-ETS1-3. Analyze data from tests to determine similarities and differences among several design solutions to identify 
+the best characteristics of each that can be combined into a new solution to better meet the criteria for 
+success.  
+ 
+MS-ETS1-4. Develop a model to generate data for iterative testing and modification of a proposed object, tool, or process 
+such that an optimal design can be achieved. 
+The performance expectations above were developed using the following elements from the NRC document  A Framework for K-12 Science Education: 
+ 
+Science and Engineering Practices 
+Asking Questions and Defining Problems  
+Asking questions and defining problems in grades 6–8 builds on 
+grades K–5 experiences and progresses to specifying 
+relationships between variables, and clarifying arguments and 
+models. 
+ Define a design problem that can be solved through the 
+development of an object, tool, process or system and 
+includes multiple criteria and constraints, including scientific 
+knowledge that may limit possible solutions. (MS-ETS1-1) 
+Developing and Using Models 
+Modeling in 6–8 builds on K–5 experiences and progresses to 
+developing, using, and revising models to describe, test, and 
+predict more abstract phenomena and design systems. 
+ Develop a model to generate data to test ideas about 
+designed systems, including those representing inputs and 
+outputs. (MS-ETS1-4) 
+Analyzing and Interpreting Data 
+Analyzing data in 6–8 builds on K–5 experiences and progresses 
+to extending quantitative analysis to investigations, 
+distinguishing between correlation and causation, and basic 
+statistical techniques of data and error analysis.  
+ Analyze and interpret data to determine similarities and 
+differences in findings. (MS-ETS1-3) 
+Engaging in Argument from Evidence 
+Engaging in argument from evidence in 6–8 builds on K–5 
+experiences and progresses to constructing a convincing 
+argument that supports or refutes claims for either explanations 
+or solutions about the natural and designed world. 
+ Evaluate competing design solutions based on jointly 
+developed and agreed-upon design criteria. (MS-ETS1-2)  
+ 
+Disciplinary Core Ideas 
+ETS1.A:  Defining and Delimiting Engineering Problems 
+ The more precisely a design task’s criteria and constraints can be 
+defined, the more likely it is that the designed solution will be 
+successful. Specification of constraints includes consideration of 
+scientific principles and other relevant knowledge that are likely to 
+limit possible solutions. (MS-ETS1-1) 
+ETS1.B:  Developing Possible Solutions 
+ A solution needs to be tested, and then modified on the basis of 
+the test results, in order to improve it. (MS-ETS1-4)  
+ There are systematic processes for evaluating solutions with 
+respect to how well they meet the criteria and constraints of a 
+problem. (MS-ETS1-2), (MS-ETS1-3)  
+ Sometimes parts of different solutions can be combined to create a 
+solution that is better than any of its predecessors. (MS-ETS1-3)  
+ Models of all kinds are important for testing solutions. (MS-ETS1-4) 
+ETS1.C:  Optimizing the Design Solution 
+ Although one design may not perform the best across all tests, 
+identifying the characteristics of the design that performed the best 
+in each test can provide useful information for the redesign 
+process—that is, some of those characteristics may be incorporated 
+into the new design. (MS-ETS1-3) 
+ The iterative process of testing the most promising solutions and 
+modifying what is proposed on the basis of the test results leads to 
+greater refinement and ultimately to an optimal solution. (MS-
+ETS1-4) 
+ 
+Crosscutting Concepts 
+Influence of Science, Engineering, 
+and Technology on Society and the 
+Natural World 
+ All human activity draws on natural 
+resources and has both short and 
+long-term consequences, positive as 
+well as negative, for the health of 
+people and the natural 
+environment. (MS-ETS1-1) 
+ The uses of technologies and 
+limitations on their use are driven 
+by individual or societal needs, 
+desires, and values; by the findings 
+of scientific research; and by 
+differences in such factors as 
+climate, natural resources, and 
+economic conditions. (MS-ETS1-1) 
+Connections to MS-ETS1.A: Defining and Delimiting Engineering Problems include:  
+     Physical Science: MS-PS3-3 
+Connections to MS-ETS1.B: Developing Possible Solutions Problems include:  
+     Physical Science: MS-PS1-6, MS-PS3-3, Life Science: MS-LS2-5 
+Connections to MS-ETS1.C: Optimizing the Design Solution include:  
+     Physical Science: MS-PS1-6 
+Articulation of DCIs across grade-bands: 3-5.ETS1.A (MS-ETS1-1),(MS-ETS1-2),(MS-ETS1-3); 3-5.ETS1.B (MS-ETS1-2),(MS-ETS1-3),(MS-ETS1-4); 3-5.ETS1.C (MS-ETS1-1),(MS-
+ETS1-2),(MS-ETS1-3),(MS-ETS1-4); HS.ETS1.A (MS-ETS1-1),(MS-ETS1-2); HS.ETS1.B (MS-ETS1-1),(MS-ETS1-2),(MS-ETS1-3),(MS-ETS1-4); HS.ETS1.C (MS-ETS1-3),(MS-ETS1-4) 
+Common Core State Standards Connections:  
+ELA/Literacy –  
+RST.6-8.1   Cite specific textual evidence to support analysis of science and technical texts. (MS-ETS1-1),(MS-ETS1-2),(MS-ETS1-3) 
+RST.6-8.7  Integrate quantitative or technical information expressed in words in a text with a version of that information expressed visually (e.g., in a flowchart, diagram, 
+model, graph, or table). (MS-ETS1-3) 
+RST.6-8.9 Compare and contrast the information gained from experiments, simulations, video, or multimedi a sources with that gained from reading a text on the same 
+topic. (MS-ETS1-2),(MS-ETS1-3) 
+WHST.6-8.7  Conduct short research projects to answer a question (including a self -generated question), drawing on several sources and generating additional related, 
+focused questions that allow for multiple avenues of exploration. (MS-ETS1-2) 
+WHST.6-8.8  Gather relevant information from multiple print and digital sources, using search terms effectively; assess the credibility a nd accuracy of each source; and quote 
+or paraphrase the data and conclusions of others while avoiding plagiarism and following a st andard format for citation. (MS-ETS1-1) 
+WHST.6-8.9  Draw evidence from informational texts to support analysis, reflection, and research. (MS-ETS1-2) 
+SL.8.5  Integrate multimedia and visual displays into presentations to clarify information, strengthen claims and evidence, and add interest.  (MS-ETS1-4) 
+Mathematics –  
+MP.2 Reason abstractly and quantitatively. (MS-ETS1-1),(MS-ETS1-2),(MS-ETS1-3),(MS-ETS1-4) 
+7.EE.3 Solve multi-step real-life and mathematical problems posed with positive and negative rational numbers in any form (whole numbers, fractions, and decimals),  
+using tools strategically. Apply properties of operations to calculate with numbers in any form; convert between forms as app ropriate; and assess the 
+reasonableness of answers using mental computation and estimation strategies.  (MS-ETS1-1),(MS-ETS1-2),(MS-ETS1-3) 
+7.SP Develop a probability model and use it to find probabilities of events. Compare probabilities from a model to observe d frequencies; if the agreement is not good, 
+explain possible sources of the discrepancy. (MS-ETS1-4) 
+ 
+April 2014
+©2013 Achieve, Inc. All rights reserved.
+1 of 1
+September 2017
+©2013 Achieve, Inc. All rights reserved.
+74 of 103

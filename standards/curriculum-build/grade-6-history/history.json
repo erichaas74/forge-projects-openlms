@@ -1,0 +1,2881 @@
+{
+  "date": "2026-10-03",
+  "status": "Steps 1–4 scope and sequence drafted and reviewed. Detailed lesson plans (Step 5), student materials (Step 6) and classroom pacing remain to develop. One Tennessee chronology item remains unverified.",
+  "scope": "16 weeks; four projects; eight 90-minute blocks per project; 32 blocks / 48 hours; individual then group each week; no required homework.",
+  "projects": [
+    {
+      "n": 1,
+      "id": "H1",
+      "title": "First Cities Evidence Dig",
+      "slug": "H1_FIRST_CITIES_EVIDENCE_DIG",
+      "question": "How can evidence explain the move from mobile communities to early cities?",
+      "glance": "Reconstruct early settlement and a Mesopotamian city using artifacts, maps and competing explanations.",
+      "product": "One evidence reconstruction board with a map/timeline, labeled artifacts, causal links and a revised explanation; each student supplies a private source-based argument.",
+      "home": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "recur": [],
+      "resources": [
+        "HISTORY",
+        "NEAR"
+      ],
+      "understandings": [
+        "Historical explanations depend on evidence and its limits.",
+        "Agriculture changed work, settlement and exchange unevenly.",
+        "Geography, institutions and technology interact in city development."
+      ],
+      "lessons": [
+        {
+          "id": "H1-W1-I",
+          "week": 1,
+          "mode": "Individual",
+          "title": "Read time and question the evidence",
+          "content": "BCE/CE, BC/AD, circa, decades/centuries; primary/secondary sources and archaeological inference.",
+          "tn": [
+            1
+          ],
+          "themes": [
+            2
+          ],
+          "primary": [
+            "D2.His.1.6-8",
+            "D2.His.9.6-8",
+            "D1.5.6-8"
+          ],
+          "supporting": [
+            "D3.1.6-8"
+          ],
+          "resources": [
+            "HISTORY",
+            "NEAR"
+          ],
+          "model": "Contrast an artifact with a modern caption; place three dated examples on a timeline and distinguish observation from inference.",
+          "activity": "Annotate a timeline; classify sources; pose the settlement inquiry and choose two sources that could answer a supporting question.",
+          "evidence": "Individual dated sequence, source classification and justified source choice.",
+          "criteria": "Correct chronology and labels; source choice matches question; inference exceeds neither object nor caption.",
+          "support": "If oldest BCE is reversed, model an ordered number line and recheck new dates; offer a labeled chronology strip.",
+          "handoff": "Prepare timeline cards and provenance labels; save the inquiry/source log for all projects.",
+          "prereq": "Grade 5 maps, sequence and evidence language.",
+          "minutes": 90,
+          "reading": "Planning limit: 150–250 words of new adapted prose plus up to two images/maps/source cards. Exact excerpts, provenance and access pending; essential reading stays in class.",
+          "verification": "Confirmed in the Step 4 outline for the specified contribution; source-dependent interpretations conditional until exact selections are verified. Detailed procedures and fresh assessment prompts remain Step 5.",
+          "link": "../scope-and-sequence/history-projects/H1_FIRST_CITIES_EVIDENCE_DIG.md#h1-w1-i",
+          "skills": "Teach / revisit: BCE/CE, BC/AD, circa, decades/centuries; primary/secondary sources and archaeological inference.\nPractice: Annotate a timeline; classify sources; pose the settlement inquiry and choose two sources that could answer a supporting question.\nCheck: Individual dated sequence, source classification and justified source choice.\nBuilds on: Grade 5 maps, sequence and evidence language."
+        },
+        {
+          "id": "H1-W1-G",
+          "week": 1,
+          "mode": "Group",
+          "title": "Compare mobile and settled lives",
+          "content": "Paleolithic tools, fire, hunting, shelter and mobility; Neolithic agriculture, domestication, surplus, barter, clothing/shelter and specialized work.",
+          "tn": [
+            2,
+            3
+          ],
+          "themes": [
+            2,
+            7,
+            8
+          ],
+          "primary": [
+            "D2.His.2.6-8",
+            "D2.His.14.6-8"
+          ],
+          "supporting": [
+            "D3.1.6-8"
+          ],
+          "resources": [
+            "HISTORY"
+          ],
+          "model": "Model a multi-cause chain on a different settlement; explain that mobile lifeways did not simply disappear everywhere.",
+          "activity": "Compare two evidence sets; construct a settlement-change chain; teams propose and challenge two explanations.",
+          "evidence": "Private continuity/change comparison and one evidence-supported cause/effect chain.",
+          "criteria": "Distinguishes material evidence from assumptions; includes both continuity and change without ranking people.",
+          "support": "If surplus is automatic, add a failed-harvest case and revise; use pictured process cards with a fresh explanation.",
+          "handoff": "Create bounded site cases and preserve individual chains on the reconstruction board.",
+          "prereq": "H1-W1-I source and chronology routines.",
+          "minutes": 90,
+          "reading": "Planning limit: 150–250 words of new adapted prose plus up to two images/maps/source cards. Exact excerpts, provenance and access pending; essential reading stays in class.",
+          "verification": "Confirmed in the Step 4 outline for the specified contribution; source-dependent interpretations conditional until exact selections are verified. Detailed procedures and fresh assessment prompts remain Step 5.",
+          "link": "../scope-and-sequence/history-projects/H1_FIRST_CITIES_EVIDENCE_DIG.md#h1-w1-g",
+          "skills": "Teach / revisit: Paleolithic tools, fire, hunting, shelter and mobility; Neolithic agriculture, domestication, surplus, barter, clothing/shelter and specialized work.\nPractice: Compare two evidence sets; construct a settlement-change chain; teams propose and challenge two explanations.\nCheck: Private continuity/change comparison and one evidence-supported cause/effect chain.\nBuilds on: H1-W1-I source and chronology routines."
+        },
+        {
+          "id": "H1-W2-I",
+          "week": 2,
+          "mode": "Individual",
+          "title": "Locate the Fertile Crescent",
+          "content": "Tigris, Euphrates, Zagros, Mediterranean and Persian Gulf; rainfall/floods, water access, irrigation and agricultural risk.",
+          "tn": [
+            5,
+            6
+          ],
+          "themes": [
+            3
+          ],
+          "primary": [
+            "D2.Geo.1.6-8",
+            "D2.Geo.4.6-8"
+          ],
+          "supporting": [
+            "D3.1.6-8"
+          ],
+          "resources": [
+            "HISTORY",
+            "NEAR"
+          ],
+          "model": "Model map selection by purpose/date; explain how irrigation modifies the environment rather than saying rivers guarantee prosperity.",
+          "activity": "Label a bounded regional map; compare two possible settlement locations; annotate benefits, risks and human adaptations.",
+          "evidence": "Individual map and location explanation using two features and an adaptation.",
+          "criteria": "Features are positioned meaningfully; cultural/economic decisions and environmental effects are connected.",
+          "support": "If modern borders become ancient boundaries, compare dated maps then recheck; provide readable relief and text equivalents.",
+          "handoff": "Prepare relief/water maps and carry location decisions into the city model.",
+          "prereq": "Timeline and cause/effect reasoning.",
+          "minutes": 90,
+          "reading": "Planning limit: 150–250 words of new adapted prose plus up to two images/maps/source cards. Exact excerpts, provenance and access pending; essential reading stays in class.",
+          "verification": "Confirmed in the Step 4 outline for the specified contribution; source-dependent interpretations conditional until exact selections are verified. Detailed procedures and fresh assessment prompts remain Step 5.",
+          "link": "../scope-and-sequence/history-projects/H1_FIRST_CITIES_EVIDENCE_DIG.md#h1-w2-i",
+          "skills": "Teach / revisit: Tigris, Euphrates, Zagros, Mediterranean and Persian Gulf; rainfall/floods, water access, irrigation and agricultural risk.\nPractice: Label a bounded regional map; compare two possible settlement locations; annotate benefits, risks and human adaptations.\nCheck: Individual map and location explanation using two features and an adaptation.\nBuilds on: Timeline and cause/effect reasoning."
+        },
+        {
+          "id": "H1-W2-G",
+          "week": 2,
+          "mode": "Group",
+          "title": "Explain how an early city worked",
+          "content": "Food supply, technology, culture, writing, religion, government and social structure; irrigation/metallurgy/animals/wheel/sail/plow; surplus, trade, transport and city-states.",
+          "tn": [
+            4,
+            7,
+            8
+          ],
+          "themes": [
+            5,
+            7,
+            8
+          ],
+          "primary": [
+            "D2.His.14.6-8",
+            "D2.Civ.6.6-8"
+          ],
+          "supporting": [
+            "D3.1.6-8"
+          ],
+          "resources": [
+            "HISTORY",
+            "NEAR"
+          ],
+          "model": "Model surplus-to-specialization with alternatives; show institutions allocating water/work without a modern market assumption.",
+          "activity": "Build a city systems diagram; match each civilization characteristic to evidence; analyze agricultural tools and a trade route.",
+          "evidence": "Each student explains an institution and two links among agriculture, labor and exchange.",
+          "criteria": "All seven characteristics appear with evidence; mechanisms explain tool and trade effects; no single-cause story.",
+          "support": "If diagram is only pictures, add labeled causal verbs and recheck a new link; offer a systems organizer.",
+          "handoff": "Prepare verified agriculture/technology cards; keep the same city board for law and belief sources.",
+          "prereq": "Map, adaptation and settlement chains.",
+          "minutes": 90,
+          "reading": "Planning limit: 150–250 words of new adapted prose plus up to two images/maps/source cards. Exact excerpts, provenance and access pending; essential reading stays in class.",
+          "verification": "Confirmed in the Step 4 outline for the specified contribution; source-dependent interpretations conditional until exact selections are verified. Detailed procedures and fresh assessment prompts remain Step 5.",
+          "link": "../scope-and-sequence/history-projects/H1_FIRST_CITIES_EVIDENCE_DIG.md#h1-w2-g",
+          "skills": "Teach / revisit: Food supply, technology, culture, writing, religion, government and social structure; irrigation/metallurgy/animals/wheel/sail/plow; surplus, trade, transport and city-states.\nPractice: Build a city systems diagram; match each civilization characteristic to evidence; analyze agricultural tools and a trade route.\nCheck: Each student explains an institution and two links among agriculture, labor and exchange.\nBuilds on: Map, adaptation and settlement chains."
+        },
+        {
+          "id": "H1-W3-I",
+          "week": 3,
+          "mode": "Individual",
+          "title": "Read authority, hierarchy and beliefs",
+          "content": "City-state versus monarchy/empire; Mesopotamian social hierarchy; polytheism and nature; writing, tablets, ziggurats and Gilgamesh.",
+          "tn": [
+            9,
+            10,
+            11,
+            12
+          ],
+          "themes": [
+            1,
+            4,
+            5,
+            6
+          ],
+          "primary": [
+            "D2.Civ.6.6-8",
+            "D2.His.4.6-8",
+            "D2.His.6.6-8"
+          ],
+          "supporting": [
+            "D3.1.6-8"
+          ],
+          "resources": [
+            "HISTORY",
+            "NEAR"
+          ],
+          "model": "Compare a ruler inscription with an archaeological account; teach how elite sources preserve some voices and omit others.",
+          "activity": "Annotate a social-role/source chart; distinguish belief from historical claim; connect cuneiform and architecture to institutions.",
+          "evidence": "Individual explanation of power/social position and one source-perspective limitation.",
+          "criteria": "Defines government forms; explains daily-life effects and belief context; treats an epic as literature/evidence rather than a literal event log.",
+          "support": "If a ruler speaks for everyone, identify absent groups and recheck a different source; use role/source labels.",
+          "handoff": "Select translations and exact object records; distinguish first-known empire claims and Gilgamesh traditions from universal absolutes.",
+          "prereq": "Institutions and artifact inference.",
+          "minutes": 90,
+          "reading": "Planning limit: 150–250 words of new adapted prose plus up to two images/maps/source cards. Exact excerpts, provenance and access pending; essential reading stays in class.",
+          "verification": "Confirmed in the Step 4 outline for the specified contribution; source-dependent interpretations conditional until exact selections are verified. Detailed procedures and fresh assessment prompts remain Step 5.",
+          "link": "../scope-and-sequence/history-projects/H1_FIRST_CITIES_EVIDENCE_DIG.md#h1-w3-i",
+          "skills": "Teach / revisit: City-state versus monarchy/empire; Mesopotamian social hierarchy; polytheism and nature; writing, tablets, ziggurats and Gilgamesh.\nPractice: Annotate a social-role/source chart; distinguish belief from historical claim; connect cuneiform and architecture to institutions.\nCheck: Individual explanation of power/social position and one source-perspective limitation.\nBuilds on: Institutions and artifact inference."
+        },
+        {
+          "id": "H1-W3-G",
+          "week": 3,
+          "mode": "Group",
+          "title": "Compare law and lived experience",
+          "content": "Hammurabi, written law, status-dependent justice; corroboration and source purpose.",
+          "tn": [
+            13,
+            10
+          ],
+          "themes": [
+            6,
+            10
+          ],
+          "primary": [
+            "D2.His.11.6-8",
+            "D3.2.6-8",
+            "D3.3.6-8"
+          ],
+          "supporting": [
+            "D3.1.6-8"
+          ],
+          "resources": [
+            "HISTORY",
+            "NEAR"
+          ],
+          "model": "Model inferring audience/purpose by comparing a law excerpt with a second account; written law does not prove equal enforcement.",
+          "activity": "Compare two adapted laws and contextual evidence; explain affected groups; revise an unsupported equality claim.",
+          "evidence": "Private corroborated source-purpose inference and a claim with one limitation.",
+          "criteria": "Cites both sources; explains relevance and status differences; avoids reading modern equality into the text.",
+          "support": "If paraphrase becomes endorsement, separate description from evaluation and recheck; offer side-by-side source chunks.",
+          "handoff": "Prepare verified translator/date/section labels and carry law evidence into reconstruction.",
+          "prereq": "Hierarchy and source perspective.",
+          "minutes": 90,
+          "reading": "Planning limit: 150–250 words of new adapted prose plus up to two images/maps/source cards. Exact excerpts, provenance and access pending; essential reading stays in class.",
+          "verification": "Confirmed in the Step 4 outline for the specified contribution; source-dependent interpretations conditional until exact selections are verified. Detailed procedures and fresh assessment prompts remain Step 5.",
+          "link": "../scope-and-sequence/history-projects/H1_FIRST_CITIES_EVIDENCE_DIG.md#h1-w3-g",
+          "skills": "Teach / revisit: Hammurabi, written law, status-dependent justice; corroboration and source purpose.\nPractice: Compare two adapted laws and contextual evidence; explain affected groups; revise an unsupported equality claim.\nCheck: Private corroborated source-purpose inference and a claim with one limitation.\nBuilds on: Hierarchy and source perspective."
+        },
+        {
+          "id": "H1-W4-I",
+          "week": 4,
+          "mode": "Individual",
+          "title": "Defend the city reconstruction",
+          "content": "Synthesize chronology, geography, technology, institutions and competing settlement explanations.",
+          "tn": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "themes": [
+            2,
+            3,
+            5
+          ],
+          "primary": [
+            "D2.His.16.6-8",
+            "D4.1.6-8",
+            "D4.4.6-8"
+          ],
+          "supporting": [
+            "D3.1.6-8"
+          ],
+          "resources": [
+            "HISTORY",
+            "NEAR"
+          ],
+          "model": "Model a supported claim with an alternative explanation and an evidence limit on a different site.",
+          "activity": "Finish existing board annotations; independently argue which explanation fits; use peer credibility feedback to revise.",
+          "evidence": "Individual argument from at least two source types plus one substantive revision.",
+          "criteria": "Evidence supports mechanisms and chronology; alternative is fairly considered; uncertainty remains visible.",
+          "support": "If claim repeats a caption, ask how evidence supports it; recheck an unfamiliar artifact; allow oral reasoning with citations.",
+          "handoff": "Prepare short fresh artifact check and archive each student’s source choices.",
+          "prereq": "All H1 source and city-system work.",
+          "minutes": 90,
+          "reading": "Planning limit: 150–250 words of new adapted prose plus up to two images/maps/source cards. Exact excerpts, provenance and access pending; essential reading stays in class.",
+          "verification": "Confirmed in the Step 4 outline for the specified contribution; source-dependent interpretations conditional until exact selections are verified. Detailed procedures and fresh assessment prompts remain Step 5.",
+          "link": "../scope-and-sequence/history-projects/H1_FIRST_CITIES_EVIDENCE_DIG.md#h1-w4-i",
+          "skills": "Teach / revisit: Synthesize chronology, geography, technology, institutions and competing settlement explanations.\nPractice: Finish existing board annotations; independently argue which explanation fits; use peer credibility feedback to revise.\nCheck: Individual argument from at least two source types plus one substantive revision.\nBuilds on: All H1 source and city-system work."
+        },
+        {
+          "id": "H1-W4-G",
+          "week": 4,
+          "mode": "Group",
+          "title": "Review competing reconstructions",
+          "content": "Evidence conference, new artifact interpretation and unresolved inquiry.",
+          "tn": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "themes": [
+            2,
+            10
+          ],
+          "primary": [
+            "D4.2.6-8",
+            "D4.5.6-8",
+            "D2.His.10.6-8"
+          ],
+          "supporting": [
+            "D3.1.6-8"
+          ],
+          "resources": [
+            "HISTORY",
+            "NEAR"
+          ],
+          "model": "Demonstrate critiquing sequence and causal links without judging decorative design.",
+          "activity": "Teams give concise reconstruction walkthroughs; each learner responds to a new artifact/caption; revise one causal link.",
+          "evidence": "Private new-source inference, limitation and teacher-recorded explanation; team board reviewed separately.",
+          "criteria": "New evidence is contextualized; explanation order is coherent; revision changes reasoning.",
+          "support": "If new object is dated incorrectly, use timeline/source clinic and a second card; carry missing evidence forward.",
+          "handoff": "Save map/source log and individual unresolved needs for H2; prepare source packets before detailed lessons.",
+          "prereq": "Source credibility, causal argument and timeline.",
+          "minutes": 90,
+          "reading": "Planning limit: 150–250 words of new adapted prose plus up to two images/maps/source cards. Exact excerpts, provenance and access pending; essential reading stays in class.",
+          "verification": "Confirmed in the Step 4 outline for the specified contribution; source-dependent interpretations conditional until exact selections are verified. Detailed procedures and fresh assessment prompts remain Step 5.",
+          "link": "../scope-and-sequence/history-projects/H1_FIRST_CITIES_EVIDENCE_DIG.md#h1-w4-g",
+          "skills": "Teach / revisit: Evidence conference, new artifact interpretation and unresolved inquiry.\nPractice: Teams give concise reconstruction walkthroughs; each learner responds to a new artifact/caption; revise one causal link.\nCheck: Private new-source inference, limitation and teacher-recorded explanation; team board reviewed separately.\nBuilds on: Source credibility, causal argument and timeline."
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "id": "H2",
+      "title": "River Kingdoms Atlas",
+      "slug": "H2_RIVER_KINGDOMS_ATLAS",
+      "question": "How did geography, institutions and beliefs shape different societies?",
+      "glance": "Build a small linked exhibit for Egypt/Nubia, ancient Israel and India, using common comparison questions and distinct contexts.",
+      "product": "One shared atlas exhibit with three concise society panels and a common timeline/map. Every student completes evidence for all three; no specialist-only coverage.",
+      "home": [
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "recur": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "resources": [
+        "HISTORY",
+        "EGYPT"
+      ],
+      "understandings": [
+        "Similar geographic challenges can lead to different institutions.",
+        "Beliefs and social position shape perspectives and daily life.",
+        "Comparison requires distinct dates, places and evidence for each society."
+      ],
+      "lessons": [
+        {
+          "id": "H2-W1-I",
+          "week": 1,
+          "mode": "Individual",
+          "title": "Explain Egypt along the Nile",
+          "content": "Egypt map: Nile/delta, Upper/Lower Egypt, Nubia, Sahara, Red/Mediterranean seas; irrigation/calendar; occupations, enslaved people, pharaoh; polytheism, afterlife/mummification.",
+          "tn": [
+            14,
+            15,
+            16,
+            17
+          ],
+          "themes": [
+            1,
+            3,
+            5
+          ],
+          "primary": [
+            "D2.Geo.1.6-8",
+            "D2.Geo.4.6-8",
+            "D2.Civ.6.6-8"
+          ],
+          "supporting": [
+            "D3.1.6-8"
+          ],
+          "resources": [
+            "HISTORY",
+            "EGYPT"
+          ],
+          "model": "Model Nile direction versus Upper/Lower labels; connect calendar/irrigation decisions and social work to environmental conditions.",
+          "activity": "Annotate map and seasonal sequence; compare occupation roles; add a respectful beliefs/context caption.",
+          "evidence": "Individual map plus one agriculture/institution explanation and belief-context annotation.",
+          "criteria": "Correct relative locations; causal links use evidence; afterlife belief is attributed to historical practitioners.",
+          "support": "If Upper means north, follow upstream and recheck a blank map; chunk text and read captions together.",
+          "handoff": "Prepare two brief context cards and exact map/monument records; carry Egypt annotations to W1-G.",
+          "prereq": "H1 rivers, institutions and source labels.",
+          "minutes": 90,
+          "reading": "Planning limit: 150–250 words of new adapted prose plus up to two images/maps/source cards. Exact excerpts, provenance and access pending; essential reading stays in class.",
+          "verification": "Confirmed in the Step 4 outline for the specified contribution; source-dependent interpretations conditional until exact selections are verified. Detailed procedures and fresh assessment prompts remain Step 5.",
+          "link": "../scope-and-sequence/history-projects/H2_RIVER_KINGDOMS_ATLAS.md#h2-w1-i",
+          "skills": "Teach / revisit: Egypt map: Nile/delta, Upper/Lower Egypt, Nubia, Sahara, Red/Mediterranean seas; irrigation/calendar; occupations, enslaved people, pharaoh; polytheism, afterlife/mummification.\nPractice: Annotate map and seasonal sequence; compare occupation roles; add a respectful beliefs/context caption.\nCheck: Individual map plus one agriculture/institution explanation and belief-context annotation.\nBuilds on: H1 rivers, institutions and source labels."
+        },
+        {
+          "id": "H2-W1-G",
+          "week": 1,
+          "mode": "Group",
+          "title": "Connect Egypt and Nubia",
+          "content": "Hatshepsut policies/trade, Ramses military growth, Tutankhamun tomb discovery and revised knowledge; hieroglyphics/papyrus/Giza; Nubian trade/conflict and agency.",
+          "tn": [
+            18,
+            19,
+            20
+          ],
+          "themes": [
+            2,
+            8,
+            9
+          ],
+          "primary": [
+            "D2.His.3.6-8",
+            "D2.His.6.6-8",
+            "D2.His.10.6-8"
+          ],
+          "supporting": [
+            "D3.1.6-8"
+          ],
+          "resources": [
+            "HISTORY",
+            "EGYPT"
+          ],
+          "model": "Model how a later discovery changes an interpretation; give Nubian actors their own context rather than defining them only through Egypt.",
+          "activity": "Build a compact evidence panel; place rulers/discovery on separate timeline lanes; compare trade/conflict accounts and artifact limits. Compare a brief, sourced modern excavator oral recollection with a dated discovery record; distinguish recollection from ancient eyewitness evidence.",
+          "evidence": "Each student explains one figure’s significance, an achievement and how a discovery or perspective changes knowledge. Include one comparison of the oral recollection and discovery record.",
+          "criteria": "Distinguishes ancient events from modern excavation; includes Nubian agency and sourced achievement effects.",
+          "support": "If tomb wealth proves all lives were alike, compare nonelite evidence and recheck; use a discovery/event timeline key.",
+          "handoff": "Keep panel to existing notes and two captions; select a Nubian-perspective source before Step 5. Select and caption a 60–90-second recorded excavator recollection, or attributed oral-history transcript, with creator/date/context; keep total new reading/listening within the block budget.",
+          "prereq": "Egypt map/social structure and H1 evidence limits.",
+          "minutes": 90,
+          "reading": "Planning limit: 150–250 words of new adapted prose plus up to two images/maps/source cards. Exact excerpts, provenance and access pending; essential reading stays in class.",
+          "verification": "Confirmed in the Step 4 outline for the specified contribution; source-dependent interpretations conditional until exact selections are verified. Detailed procedures and fresh assessment prompts remain Step 5.",
+          "link": "../scope-and-sequence/history-projects/H2_RIVER_KINGDOMS_ATLAS.md#h2-w1-g",
+          "skills": "Teach / revisit: Hatshepsut policies/trade, Ramses military growth, Tutankhamun tomb discovery and revised knowledge; hieroglyphics/papyrus/Giza; Nubian trade/conflict and agency.\nPractice: Build a compact evidence panel; place rulers/discovery on separate timeline lanes; compare trade/conflict accounts and artifact limits. Compare a brief, sourced modern excavator oral recollection with a dated discovery record; distinguish recollection from ancient eyewitness evidence.\nCheck: Each student explains one figure’s significance, an achievement and how a discovery or perspective changes knowledge. Include one comparison of the oral recollection and discovery record.\nBuilds on: Egypt map/social structure and H1 evidence limits."
+        },
+        {
+          "id": "H2-W2-I",
+          "week": 2,
+          "mode": "Individual",
+          "title": "Trace ancient Israel and its traditions",
+          "content": "Dead/Red/Mediterranean seas, Jordan, Jerusalem, Sinai; Ur/Canaan/Egypt movements; Judaism, Abraham/Moses, Tanakh/Torah, monotheism, Ten Commandments, responsibility.",
+          "tn": [
+            21,
+            22,
+            23
+          ],
+          "themes": [
+            1,
+            2,
+            3
+          ],
+          "primary": [
+            "D2.Geo.1.6-8",
+            "D2.His.4.6-8",
+            "D3.2.6-8"
+          ],
+          "supporting": [
+            "D3.1.6-8"
+          ],
+          "resources": [
+            "HISTORY"
+          ],
+          "model": "Distinguish traditions recorded in sacred texts, archaeological evidence and modern historical interpretation; teach religions academically with a common template.",
+          "activity": "Map attributed movement accounts; annotate people/texts/beliefs/context; compare what different source types can establish.",
+          "evidence": "Individual route/source explanation and a respectful Judaism profile.",
+          "criteria": "Uses attribution where historical evidence is contested; accurate text/belief terms; no devotional activity required.",
+          "support": "If every account is called verified eyewitness history, classify source type and recheck; provide pronunciation and neutral profiles.",
+          "handoff": "Select an accessible religious-studies/history source and exact attributed excerpts.",
+          "prereq": "Chronology, geography and source-purpose reasoning.",
+          "minutes": 90,
+          "reading": "Planning limit: 150–250 words of new adapted prose plus up to two images/maps/source cards. Exact excerpts, provenance and access pending; essential reading stays in class.",
+          "verification": "Confirmed in the Step 4 outline for the specified contribution; source-dependent interpretations conditional until exact selections are verified. Detailed procedures and fresh assessment prompts remain Step 5.",
+          "link": "../scope-and-sequence/history-projects/H2_RIVER_KINGDOMS_ATLAS.md#h2-w2-i",
+          "skills": "Teach / revisit: Dead/Red/Mediterranean seas, Jordan, Jerusalem, Sinai; Ur/Canaan/Egypt movements; Judaism, Abraham/Moses, Tanakh/Torah, monotheism, Ten Commandments, responsibility.\nPractice: Map attributed movement accounts; annotate people/texts/beliefs/context; compare what different source types can establish.\nCheck: Individual route/source explanation and a respectful Judaism profile.\nBuilds on: Chronology, geography and source-purpose reasoning."
+        },
+        {
+          "id": "H2-W2-G",
+          "week": 2,
+          "mode": "Group",
+          "title": "Explain kingdoms, exile and return",
+          "content": "Saul, David/Jerusalem, Solomon/temple; kingdom division, Assyrian/Babylonian conquest/exiles, Persian return; cross-society comparison.",
+          "tn": [
+            24,
+            25,
+            14,
+            20
+          ],
+          "themes": [
+            2,
+            5,
+            9
+          ],
+          "primary": [
+            "D2.His.1.6-8",
+            "D2.His.14.6-8",
+            "D4.2.6-8"
+          ],
+          "supporting": [
+            "D3.1.6-8"
+          ],
+          "resources": [
+            "HISTORY",
+            "EGYPT"
+          ],
+          "model": "Model a dated movement explanation separating political cause from a tradition’s meaning; avoid modern-border substitution.",
+          "activity": "Construct kingdom/conquest sequence; compare one Egypt/Nubia and Israel movement; add two evidence-based exhibit captions.",
+          "evidence": "Private cause/effect sequence and comparison with dated evidence from both contexts.",
+          "criteria": "Actors/sequence are coherent; multiple political/geographic factors appear; similarity does not erase difference.",
+          "support": "If all exile periods merge, separate timeline bands and recheck events; use a movement legend.",
+          "handoff": "Limit captions to 60–80 words each; retain Israel panel and shared chronology.",
+          "prereq": "Israel routes/traditions and Egypt/Nubia evidence.",
+          "minutes": 90,
+          "reading": "Planning limit: 150–250 words of new adapted prose plus up to two images/maps/source cards. Exact excerpts, provenance and access pending; essential reading stays in class.",
+          "verification": "Confirmed in the Step 4 outline for the specified contribution; source-dependent interpretations conditional until exact selections are verified. Detailed procedures and fresh assessment prompts remain Step 5.",
+          "link": "../scope-and-sequence/history-projects/H2_RIVER_KINGDOMS_ATLAS.md#h2-w2-g",
+          "skills": "Teach / revisit: Saul, David/Jerusalem, Solomon/temple; kingdom division, Assyrian/Babylonian conquest/exiles, Persian return; cross-society comparison.\nPractice: Construct kingdom/conquest sequence; compare one Egypt/Nubia and Israel movement; add two evidence-based exhibit captions.\nCheck: Private cause/effect sequence and comparison with dated evidence from both contexts.\nBuilds on: Israel routes/traditions and Egypt/Nubia evidence."
+        },
+        {
+          "id": "H2-W3-I",
+          "week": 3,
+          "mode": "Individual",
+          "title": "Investigate Indus cities",
+          "content": "India subcontinent, Himalayas, Indus/Ganges, Indian Ocean, monsoons; Harappa/Mohenjo-Daro, bricks, grid roads and sanitation.",
+          "tn": [
+            26,
+            27
+          ],
+          "themes": [
+            3,
+            7,
+            8
+          ],
+          "primary": [
+            "D2.Geo.1.6-8",
+            "D2.Geo.4.6-8",
+            "D2.His.9.6-8"
+          ],
+          "supporting": [
+            "D3.1.6-8"
+          ],
+          "resources": [
+            "HISTORY"
+          ],
+          "model": "Model a city-plan inference and its limits; compare economic/environmental decisions without claiming undeciphered writing supplies a known government.",
+          "activity": "Annotate map/city plan; identify water/sanitation evidence; compare a useful Mesopotamian pattern with a distinct Indus case.",
+          "evidence": "Individual plan-based inference and explanation of two documented achievements.",
+          "criteria": "Separates observation from unknown institutions; explains infrastructure rather than praising advanced design alone.",
+          "support": "If a regular grid proves democracy, show inference limits and recheck a different plan; use magnified plans.",
+          "handoff": "Prepare dated archaeological plan/source card and retain inference notes for India panel.",
+          "prereq": "H1 city systems and H2 maps.",
+          "minutes": 90,
+          "reading": "Planning limit: 150–250 words of new adapted prose plus up to two images/maps/source cards. Exact excerpts, provenance and access pending; essential reading stays in class.",
+          "verification": "Confirmed in the Step 4 outline for the specified contribution; source-dependent interpretations conditional until exact selections are verified. Detailed procedures and fresh assessment prompts remain Step 5.",
+          "link": "../scope-and-sequence/history-projects/H2_RIVER_KINGDOMS_ATLAS.md#h2-w3-i",
+          "skills": "Teach / revisit: India subcontinent, Himalayas, Indus/Ganges, Indian Ocean, monsoons; Harappa/Mohenjo-Daro, bricks, grid roads and sanitation.\nPractice: Annotate map/city plan; identify water/sanitation evidence; compare a useful Mesopotamian pattern with a distinct Indus case.\nCheck: Individual plan-based inference and explanation of two documented achievements.\nBuilds on: H1 city systems and H2 maps."
+        },
+        {
+          "id": "H2-W3-G",
+          "week": 3,
+          "mode": "Group",
+          "title": "Explain traditions and social change in India",
+          "content": "Indo-Aryan migrations/language/religious change; caste/social hierarchy; Hinduism: Vedas, dharma/karma/reincarnation/moksha; Buddhism: Siddhartha, Tripitaka, Four Noble Truths/Eightfold Path/Nirvana; medicine, yoga and numerals with correct dates.",
+          "tn": [
+            28,
+            29,
+            30,
+            31,
+            32
+          ],
+          "themes": [
+            1,
+            4,
+            5,
+            8
+          ],
+          "primary": [
+            "D2.His.4.6-8",
+            "D2.Civ.6.6-8",
+            "D3.3.6-8"
+          ],
+          "supporting": [
+            "D3.1.6-8"
+          ],
+          "resources": [
+            "HISTORY"
+          ],
+          "model": "Use matched neutral religion profiles; distinguish beliefs, social practices and later developments. Explain changing scholarship on migration rather than a single unqualified invasion story.",
+          "activity": "Compare the two profiles and dated evidence cards; explain hierarchy’s daily-life effects; attach a short achievement timeline.",
+          "evidence": "Private comparison including people/texts/beliefs, a social-position explanation and correctly dated achievement.",
+          "criteria": "Keeps traditions distinct and attributed; does not portray caste or either religion as uniform across all people/time.",
+          "support": "If unfamiliar terms replace explanation, model one in context and recheck another; provide a glossary and reduced-copy organizer.",
+          "handoff": "Busiest H2 block: two profiles totaling about 250 words plus a diagram. Verify comprehension/time; move caption polish to W4-I, never required reading to homework.",
+          "prereq": "Institution/perspective reasoning and Indus chronology.",
+          "minutes": 90,
+          "reading": "Planning limit: 150–250 words of new adapted prose plus up to two images/maps/source cards. Exact excerpts, provenance and access pending; essential reading stays in class.",
+          "verification": "Confirmed in the Step 4 outline for the specified contribution; source-dependent interpretations conditional until exact selections are verified. Detailed procedures and fresh assessment prompts remain Step 5.",
+          "link": "../scope-and-sequence/history-projects/H2_RIVER_KINGDOMS_ATLAS.md#h2-w3-g",
+          "skills": "Teach / revisit: Indo-Aryan migrations/language/religious change; caste/social hierarchy; Hinduism: Vedas, dharma/karma/reincarnation/moksha; Buddhism: Siddhartha, Tripitaka, Four Noble Truths/Eightfold Path/Nirvana; medicine, yoga and numerals with correct dates.\nPractice: Compare the two profiles and dated evidence cards; explain hierarchy’s daily-life effects; attach a short achievement timeline.\nCheck: Private comparison including people/texts/beliefs, a social-position explanation and correctly dated achievement.\nBuilds on: Institution/perspective reasoning and Indus chronology."
+        },
+        {
+          "id": "H2-W4-I",
+          "week": 4,
+          "mode": "Individual",
+          "title": "Compare all three society panels",
+          "content": "Common geographic, institutional and belief questions; Egypt/Nubia, Israel and India each required.",
+          "tn": [
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32
+          ],
+          "themes": [
+            1,
+            3,
+            5,
+            9
+          ],
+          "primary": [
+            "D2.His.16.6-8",
+            "D4.1.6-8",
+            "D4.4.6-8"
+          ],
+          "supporting": [
+            "D3.1.6-8"
+          ],
+          "resources": [
+            "HISTORY",
+            "EGYPT"
+          ],
+          "model": "Model comparison from two explicit pieces of evidence, with a counterexample and source limitation.",
+          "activity": "Use a targeted retrieval clinic; finish three short panels from saved notes; individually compare two societies and respond to a third-society question.",
+          "evidence": "Independent comparison plus all-three-society retrieval record and one revised claim.",
+          "criteria": "No society omitted; claims use common dimensions and context-specific evidence; revision improves reasoning.",
+          "support": "If team specialization hides missing learning, administer short private checks and targeted source review; extend by challenging a comparison.",
+          "handoff": "Keep one atlas, no separate long essays; prepare fresh map/source mini-checks for W4-G.",
+          "prereq": "All H2 notes, profiles, maps and chronology.",
+          "minutes": 90,
+          "reading": "Planning limit: 150–250 words of new adapted prose plus up to two images/maps/source cards. Exact excerpts, provenance and access pending; essential reading stays in class.",
+          "verification": "Confirmed in the Step 4 outline for the specified contribution; source-dependent interpretations conditional until exact selections are verified. Detailed procedures and fresh assessment prompts remain Step 5.",
+          "link": "../scope-and-sequence/history-projects/H2_RIVER_KINGDOMS_ATLAS.md#h2-w4-i",
+          "skills": "Teach / revisit: Common geographic, institutional and belief questions; Egypt/Nubia, Israel and India each required.\nPractice: Use a targeted retrieval clinic; finish three short panels from saved notes; individually compare two societies and respond to a third-society question.\nCheck: Independent comparison plus all-three-society retrieval record and one revised claim.\nBuilds on: All H2 notes, profiles, maps and chronology."
+        },
+        {
+          "id": "H2-W4-G",
+          "week": 4,
+          "mode": "Group",
+          "title": "Defend the linked atlas exhibit",
+          "content": "Walkthrough, individual fresh map/source application and feedback.",
+          "tn": [
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32
+          ],
+          "themes": [
+            2,
+            10
+          ],
+          "primary": [
+            "D4.2.6-8",
+            "D4.5.6-8",
+            "D3.2.6-8"
+          ],
+          "supporting": [
+            "D3.1.6-8"
+          ],
+          "resources": [
+            "HISTORY",
+            "EGYPT"
+          ],
+          "model": "Model audience questions about evidence and coherent explanation, not costume or visual polish.",
+          "activity": "Six short team walkthroughs; every learner explains a source; collect a fresh map/context response and revise one caption.",
+          "evidence": "Teacher-observed explanation and private fresh source/map interpretation; shared atlas assessed separately.",
+          "criteria": "Accurate context/source use; all required societies remain represented; feedback changes a claim or connection.",
+          "support": "If a comparison overgeneralizes belief, require attribution and a new example; record unresolved society/component for H3 opening.",
+          "handoff": "Archive individual checks separately; carry comparison and scholarly uncertainty routines into H3.",
+          "prereq": "Evidence-based comparison and source limitations.",
+          "minutes": 90,
+          "reading": "Planning limit: 150–250 words of new adapted prose plus up to two images/maps/source cards. Exact excerpts, provenance and access pending; essential reading stays in class.",
+          "verification": "Confirmed in the Step 4 outline for the specified contribution; source-dependent interpretations conditional until exact selections are verified. Detailed procedures and fresh assessment prompts remain Step 5.",
+          "link": "../scope-and-sequence/history-projects/H2_RIVER_KINGDOMS_ATLAS.md#h2-w4-g",
+          "skills": "Teach / revisit: Walkthrough, individual fresh map/source application and feedback.\nPractice: Six short team walkthroughs; every learner explains a source; collect a fresh map/context response and revise one caption.\nCheck: Teacher-observed explanation and private fresh source/map interpretation; shared atlas assessed separately.\nBuilds on: Evidence-based comparison and source limitations."
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "id": "H3",
+      "title": "Ancient Science: Inventions, Sky and Navigation",
+      "slug": "H3_ANCIENT_SCIENCE",
+      "question": "How did China and Greece use observations and inventions, and how can we compare their methods?",
+      "glance": "Study China and Greece in context, compare historical timekeeping evidence, and conduct one small investigation of a measurement principle.",
+      "product": "One paired China–Greece display with map/timeline, historical source panels, comparison table and investigation data; a short demonstration and individual explanation. Shadow data are supplied; the one practical investigation tests a water timer.",
+      "home": [
+        16,
+        17,
+        18,
+        19
+      ],
+      "recur": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        8,
+        10,
+        12,
+        13,
+        14,
+        15
+      ],
+      "resources": [
+        "HISTORY",
+        "HAN",
+        "CLOCK",
+        "SKY",
+        "PRINT"
+      ],
+      "understandings": [
+        "Scientific methods develop within institutions, needs and traditions.",
+        "A modern model tests a principle without reproducing every ancient instrument.",
+        "Chronology and corroboration distinguish exchange from coincidental similarity."
+      ],
+      "lessons": [
+        {
+          "id": "H3-W1-I",
+          "week": 1,
+          "mode": "Individual",
+          "title": "Locate China and explain early authority",
+          "content": "Gobi, Himalayas, Pacific, Tibet plateau, Yangtze/Yellow rivers; Xia tradition and Shang evidence; geographic governing constraints; Zhou/Mandate of Heaven and Legalism.",
+          "tn": [
+            33,
+            34,
+            35,
+            36
+          ],
+          "themes": [
+            2,
+            3,
+            6
+          ],
+          "primary": [
+            "D2.Geo.1.6-8",
+            "D2.His.1.6-8",
+            "D2.Civ.6.6-8"
+          ],
+          "supporting": [
+            "D3.1.6-8"
+          ],
+          "resources": [
+            "HISTORY"
+          ],
+          "model": "Model a geographic governance explanation; distinguish traditional accounts of Xia from excavated Shang evidence.",
+          "activity": "Annotate map and dynasty sequence; explain authority claims and Legalist responses to governing challenges; start China panel.",
+          "evidence": "Individual map/context explanation and one claim distinguishing tradition/evidence.",
+          "criteria": "Maps all required features; connects geography to institutions without assuming total isolation; dates/claim types are explicit.",
+          "support": "If dynasty names become a list, connect a challenge and response then recheck; use a labeled timeline strip.",
+          "handoff": "Prepare two context cards and retain authority questions for Qin/Han.",
+          "prereq": "H1/H2 geography, evidence and hierarchy.",
+          "minutes": 90,
+          "reading": "Planning limit: 150–250 words of new adapted prose plus up to two images/maps/source cards. Exact excerpts, provenance and access pending; essential reading stays in class.",
+          "verification": "Confirmed in the Step 4 outline for the specified contribution; source-dependent interpretations conditional until exact selections are verified. Detailed procedures and fresh assessment prompts remain Step 5.",
+          "link": "../scope-and-sequence/history-projects/H3_ANCIENT_SCIENCE.md#h3-w1-i",
+          "skills": "Teach / revisit: Gobi, Himalayas, Pacific, Tibet plateau, Yangtze/Yellow rivers; Xia tradition and Shang evidence; geographic governing constraints; Zhou/Mandate of Heaven and Legalism.\nPractice: Annotate map and dynasty sequence; explain authority claims and Legalist responses to governing challenges; start China panel.\nCheck: Individual map/context explanation and one claim distinguishing tradition/evidence.\nBuilds on: H1/H2 geography, evidence and hierarchy."
+        },
+        {
+          "id": "H3-W1-G",
+          "week": 1,
+          "mode": "Group",
+          "title": "Connect Qin, Confucius and Han institutions",
+          "content": "Qin Shi Huangdi/unification, walls/roads/canals/writing; Confucius, Analects, kinship/order/hierarchy; Han government and technological achievement chronology.",
+          "tn": [
+            37,
+            38,
+            39
+          ],
+          "themes": [
+            4,
+            5,
+            6,
+            8
+          ],
+          "primary": [
+            "D2.Civ.6.6-8",
+            "D2.His.4.6-8",
+            "D2.His.10.6-8"
+          ],
+          "supporting": [
+            "D3.1.6-8"
+          ],
+          "resources": [
+            "HISTORY",
+            "HAN",
+            "PRINT"
+          ],
+          "model": "Compare a philosophy excerpt and institutional account; show a dated invention strip rather than putting every Chinese invention in Han.",
+          "activity": "Trace policy/institution links; annotate Han timekeeping/astronomy, paper/silk/seismograph evidence; place compass, porcelain and printing records in evidenced periods.",
+          "evidence": "Each student explains institutional influence and corrects one unsupported invention/date attribution.",
+          "criteria": "Connects Confucian ideas to institutions; distinguishes invention, surviving evidence and later use. TN 6.39 chronology remains flagged.",
+          "support": "If latest evidence becomes earliest invention, model the distinction and recheck; provide a date/evidence grid.",
+          "handoff": "Verify all technology dates and exact source excerpts. Do not teach woodblock printing as securely Han; resolve the TN wording concern with the school.",
+          "prereq": "China authority sequence and source limitation routines.",
+          "minutes": 90,
+          "reading": "Planning limit: 150–250 words of new adapted prose plus up to two images/maps/source cards. Exact excerpts, provenance and access pending; essential reading stays in class.",
+          "verification": "Confirmed in the Step 4 outline for the specified contribution; source-dependent interpretations conditional until exact selections are verified. Detailed procedures and fresh assessment prompts remain Step 5.",
+          "link": "../scope-and-sequence/history-projects/H3_ANCIENT_SCIENCE.md#h3-w1-g",
+          "skills": "Teach / revisit: Qin Shi Huangdi/unification, walls/roads/canals/writing; Confucius, Analects, kinship/order/hierarchy; Han government and technological achievement chronology.\nPractice: Trace policy/institution links; annotate Han timekeeping/astronomy, paper/silk/seismograph evidence; place compass, porcelain and printing records in evidenced periods.\nCheck: Each student explains institutional influence and corrects one unsupported invention/date attribution.\nBuilds on: China authority sequence and source limitation routines."
+        },
+        {
+          "id": "H3-W2-I",
+          "week": 2,
+          "mode": "Individual",
+          "title": "Compare Greek places and citizenship",
+          "content": "Aegean, Asia Minor, Athens, Macedonia, Mediterranean, Peloponnese, Sparta; mountains/sea, city-states/trade/colonies; polis, law, civic participation; Athens/Sparta government, education, women and enslaved people.",
+          "tn": [
+            41,
+            42,
+            43,
+            44
+          ],
+          "themes": [
+            3,
+            4,
+            5,
+            6,
+            10
+          ],
+          "primary": [
+            "D2.Geo.1.6-8",
+            "D2.Civ.6.6-8",
+            "D2.His.4.6-8"
+          ],
+          "supporting": [
+            "D3.1.6-8"
+          ],
+          "resources": [
+            "HISTORY",
+            "CLOCK"
+          ],
+          "model": "Model democratic participation with its historical exclusions; compare the same institutional dimensions for Athens and Sparta.",
+          "activity": "Annotate map; build a rights/roles matrix and explain a geographic/economic influence; connect court timing to participation.",
+          "evidence": "Private map and citizenship comparison with two institutional differences and an exclusion.",
+          "criteria": "No ancient/modern democracy equivalence; group status and place/date shape experiences; map explains spatial pattern.",
+          "support": "If all residents become citizens, use eligibility/source clinic and recheck; provide matching comparison headings.",
+          "handoff": "Prepare short context profiles and accessible court-clock source. CLOCK full-text access is conditional; replace with verified equivalent if unavailable.",
+          "prereq": "China institutions and H2 common comparison questions.",
+          "minutes": 90,
+          "reading": "Planning limit: 150–250 words of new adapted prose plus up to two images/maps/source cards. Exact excerpts, provenance and access pending; essential reading stays in class.",
+          "verification": "Confirmed in the Step 4 outline for the specified contribution; source-dependent interpretations conditional until exact selections are verified. Detailed procedures and fresh assessment prompts remain Step 5.",
+          "link": "../scope-and-sequence/history-projects/H3_ANCIENT_SCIENCE.md#h3-w2-i",
+          "skills": "Teach / revisit: Aegean, Asia Minor, Athens, Macedonia, Mediterranean, Peloponnese, Sparta; mountains/sea, city-states/trade/colonies; polis, law, civic participation; Athens/Sparta government, education, women and enslaved people.\nPractice: Annotate map; build a rights/roles matrix and explain a geographic/economic influence; connect court timing to participation.\nCheck: Private map and citizenship comparison with two institutional differences and an exclusion.\nBuilds on: China institutions and H2 common comparison questions."
+        },
+        {
+          "id": "H3-W2-G",
+          "week": 2,
+          "mode": "Group",
+          "title": "Explain Greek conflict, ideas and achievements",
+          "content": "Persian/Peloponnesian wars causes/effects; polytheism/Olympics; Socrates/Plato/Aristotle and education; Parthenon/Acropolis/columns; Greek/Hellenistic sky observation.",
+          "tn": [
+            45,
+            46,
+            47,
+            48,
+            49
+          ],
+          "themes": [
+            1,
+            2,
+            5,
+            8
+          ],
+          "primary": [
+            "D2.His.14.6-8",
+            "D2.His.3.6-8",
+            "D2.His.6.6-8"
+          ],
+          "supporting": [
+            "D3.1.6-8"
+          ],
+          "resources": [
+            "HISTORY",
+            "SKY"
+          ],
+          "model": "Separate the two wars on a timeline; use a short philosophy/source example to show context and method, not a claim that all Greeks thought alike.",
+          "activity": "Complete conflict cause/effect strips; compare three philosopher question cards; add belief/architecture/context notes and inspect astronomical-prediction evidence.",
+          "evidence": "Individual war comparison and an achievement/significance explanation citing a source limit.",
+          "criteria": "Distinct war causes/consequences; philosophers and institutions contextualized; sky models described as historical interpretations.",
+          "support": "If science lens displaces government/conflict, use private retrieval before adding instrument detail; glossary and comparison cards support reading.",
+          "handoff": "Busiest H3 pair: cap new prose, reuse timeline, prioritize history evidence; complex gear reconstruction is not planned. Exact Antikythera dates/source boundaries pending.",
+          "prereq": "Greek map/citizenship and China science context.",
+          "minutes": 90,
+          "reading": "Planning limit: 150–250 words of new adapted prose plus up to two images/maps/source cards. Exact excerpts, provenance and access pending; essential reading stays in class.",
+          "verification": "Confirmed in the Step 4 outline for the specified contribution; source-dependent interpretations conditional until exact selections are verified. Detailed procedures and fresh assessment prompts remain Step 5.",
+          "link": "../scope-and-sequence/history-projects/H3_ANCIENT_SCIENCE.md#h3-w2-g",
+          "skills": "Teach / revisit: Persian/Peloponnesian wars causes/effects; polytheism/Olympics; Socrates/Plato/Aristotle and education; Parthenon/Acropolis/columns; Greek/Hellenistic sky observation.\nPractice: Complete conflict cause/effect strips; compare three philosopher question cards; add belief/architecture/context notes and inspect astronomical-prediction evidence.\nCheck: Individual war comparison and an achievement/significance explanation citing a source limit.\nBuilds on: Greek map/citizenship and China science context."
+        },
+        {
+          "id": "H3-W3-I",
+          "week": 3,
+          "mode": "Individual",
+          "title": "Plan a fair timekeeping comparison",
+          "content": "Han water clocks/sundials, Athenian court timer, astronomical patterns; elapsed-time versus time-of-day; historical evidence versus modern measurement.",
+          "tn": [
+            39,
+            48
+          ],
+          "themes": [
+            2,
+            8
+          ],
+          "primary": [
+            "D1.5.6-8",
+            "D3.2.6-8",
+            "D2.His.10.6-8"
+          ],
+          "supporting": [
+            "D3.1.6-8"
+          ],
+          "resources": [
+            "HAN",
+            "CLOCK",
+            "SKY"
+          ],
+          "model": "Model a source-purpose comparison and one controlled water-timer plan; supplied dated shadow observations illustrate a different method.",
+          "activity": "Select historical evidence from both societies; define elapsed-time question, fixed vessel/hole/start volume and repeated observations; predict limitations; read supplied shadow table.",
+          "evidence": "Individual comparison plan naming sources, measurements/units, controls and evidence limits.",
+          "criteria": "Same comparison questions for both cases; no direct China–Greece transmission claim; modern model is labeled.",
+          "support": "If timer is mistaken for navigation proof, identify its documented use and recheck; offer a protocol diagram without filling in reasoning.",
+          "handoff": "Prepare adult-prepunched plastic vessels, trays, water, graduated measures/timers; no sharp student construction. Verify full CLOCK access and a Han source record before claiming source comparison ready.",
+          "prereq": "H3 context, source evaluation and measurement/graph entry check.",
+          "minutes": 90,
+          "reading": "Planning limit: 150–250 words of new adapted prose plus up to two images/maps/source cards. Exact excerpts, provenance and access pending; essential reading stays in class.",
+          "verification": "Confirmed in the Step 4 outline for the specified contribution; source-dependent interpretations conditional until exact selections are verified. Detailed procedures and fresh assessment prompts remain Step 5.",
+          "link": "../scope-and-sequence/history-projects/H3_ANCIENT_SCIENCE.md#h3-w3-i",
+          "skills": "Teach / revisit: Han water clocks/sundials, Athenian court timer, astronomical patterns; elapsed-time versus time-of-day; historical evidence versus modern measurement.\nPractice: Select historical evidence from both societies; define elapsed-time question, fixed vessel/hole/start volume and repeated observations; predict limitations; read supplied shadow table.\nCheck: Individual comparison plan naming sources, measurements/units, controls and evidence limits.\nBuilds on: H3 context, source evaluation and measurement/graph entry check."
+        },
+        {
+          "id": "H3-W3-G",
+          "week": 3,
+          "mode": "Group",
+          "title": "Test a modern timer and interpret its limits",
+          "content": "Repeated elapsed-time observations; water-level/flow variability; comparison with supplied source-labeled shadow data.",
+          "tn": [
+            39,
+            48
+          ],
+          "themes": [
+            8
+          ],
+          "primary": [
+            "D3.3.6-8",
+            "D2.His.10.6-8",
+            "D4.2.6-8"
+          ],
+          "supporting": [
+            "D3.1.6-8"
+          ],
+          "resources": [
+            "HAN",
+            "CLOCK"
+          ],
+          "model": "Demonstrate timing a fixed drained volume and honest anomaly recording; changing water level can affect rate. Results describe this model.",
+          "activity": "Assemble teacher-prepared timer; record three short trials under consistent start conditions; compare variation and shadow-table constraints; draft one bounded historical/scientific comparison.",
+          "evidence": "Each student records/reads a trial, explains a data pattern and states one limit on historical inference.",
+          "criteria": "Units and repeat conditions explicit; scientific observations separated from historical claims; no civilization accuracy ranking from a classroom model.",
+          "support": "If invented perfect repeats replace measurements, keep anomalies and recheck inference; accessible direct timing/recording participation or labeled supplied data.",
+          "handoff": "Budget setup/model 20, project trials/analysis 40, individual comparison 20, cleanup 10 minutes. Confirm kit access and trial durations before detailed production.",
+          "prereq": "W3-I plan; no assumed completion of science course.",
+          "minutes": 90,
+          "reading": "Planning limit: 150–250 words of new adapted prose plus up to two images/maps/source cards. Exact excerpts, provenance and access pending; essential reading stays in class.",
+          "verification": "Confirmed in the Step 4 outline for the specified contribution; source-dependent interpretations conditional until exact selections are verified. Detailed procedures and fresh assessment prompts remain Step 5.",
+          "link": "../scope-and-sequence/history-projects/H3_ANCIENT_SCIENCE.md#h3-w3-g",
+          "skills": "Teach / revisit: Repeated elapsed-time observations; water-level/flow variability; comparison with supplied source-labeled shadow data.\nPractice: Assemble teacher-prepared timer; record three short trials under consistent start conditions; compare variation and shadow-table constraints; draft one bounded historical/scientific comparison.\nCheck: Each student records/reads a trial, explains a data pattern and states one limit on historical inference.\nBuilds on: W3-I plan; no assumed completion of science course."
+        },
+        {
+          "id": "H3-W4-I",
+          "week": 4,
+          "mode": "Individual",
+          "title": "Trace exchange and finish the paired display",
+          "content": "Silk Road goods/Buddhist diffusion; Macedonia/Alexander/Hellenistic diffusion; dated networks and distinct chronology.",
+          "tn": [
+            40,
+            50,
+            33,
+            41
+          ],
+          "themes": [
+            2,
+            3,
+            8,
+            9
+          ],
+          "primary": [
+            "D2.His.1.6-8",
+            "D3.3.6-8",
+            "D4.4.6-8"
+          ],
+          "supporting": [
+            "D3.1.6-8"
+          ],
+          "resources": [
+            "HISTORY",
+            "HAN",
+            "SKY"
+          ],
+          "model": "Model evidence for a documented route versus unsupported transmission from similar objects; separate Han and Hellenistic timelines.",
+          "activity": "Annotate two exchange maps; add routes, society-context panels and timer data to the same display; critique one transmission claim.",
+          "evidence": "Private route explanation and evidence-based comparison of exchange, with one similarity that does not prove borrowing.",
+          "criteria": "Networks include intermediaries and dates; historical contexts remain distinct; display carries both society evidence and experiment limit.",
+          "support": "If one direct route joins every inventor, examine route chronology and recheck; provide source/date keys.",
+          "handoff": "Prepare a fresh invention/source card; keep final display compact—two panels, shared map/timeline and one data/comparison table.",
+          "prereq": "Dynasties, Greek wars/ideas, timer evidence.",
+          "minutes": 90,
+          "reading": "Planning limit: 150–250 words of new adapted prose plus up to two images/maps/source cards. Exact excerpts, provenance and access pending; essential reading stays in class.",
+          "verification": "Confirmed in the Step 4 outline for the specified contribution; source-dependent interpretations conditional until exact selections are verified. Detailed procedures and fresh assessment prompts remain Step 5.",
+          "link": "../scope-and-sequence/history-projects/H3_ANCIENT_SCIENCE.md#h3-w4-i",
+          "skills": "Teach / revisit: Silk Road goods/Buddhist diffusion; Macedonia/Alexander/Hellenistic diffusion; dated networks and distinct chronology.\nPractice: Annotate two exchange maps; add routes, society-context panels and timer data to the same display; critique one transmission claim.\nCheck: Private route explanation and evidence-based comparison of exchange, with one similarity that does not prove borrowing.\nBuilds on: Dynasties, Greek wars/ideas, timer evidence."
+        },
+        {
+          "id": "H3-W4-G",
+          "week": 4,
+          "mode": "Group",
+          "title": "Demonstrate and defend ancient science comparisons",
+          "content": "Paired display review; institutions, history, experiment limits and fresh source reasoning.",
+          "tn": [
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50
+          ],
+          "themes": [
+            2,
+            5,
+            8,
+            9
+          ],
+          "primary": [
+            "D4.1.6-8",
+            "D4.5.6-8",
+            "D2.His.16.6-8"
+          ],
+          "supporting": [
+            "D3.1.6-8"
+          ],
+          "resources": [
+            "HISTORY",
+            "HAN",
+            "CLOCK",
+            "SKY"
+          ],
+          "model": "Model explaining how a source and measured observation answer different questions; critique explanation order.",
+          "activity": "Teams give short demonstration/walkthroughs; each student explains China and Greece achievement/context; respond to a fresh dated source and revise comparison.",
+          "evidence": "Private both-society explanation, data interpretation, institutional influence and evidence limit; team display separate.",
+          "criteria": "Neither society omitted; scientific comparison and historical corroboration both visible; science standards not automatically credited.",
+          "support": "If polished display masks history gaps, use separate map/institution/conflict mini-checks and source clinic; record unresolved component.",
+          "handoff": "Archive individual history and measurement evidence; retain chronology concern for TN appendix.",
+          "prereq": "All H3 context, source and investigation work.",
+          "minutes": 90,
+          "reading": "Planning limit: 150–250 words of new adapted prose plus up to two images/maps/source cards. Exact excerpts, provenance and access pending; essential reading stays in class.",
+          "verification": "Confirmed in the Step 4 outline for the specified contribution; source-dependent interpretations conditional until exact selections are verified. Detailed procedures and fresh assessment prompts remain Step 5.",
+          "link": "../scope-and-sequence/history-projects/H3_ANCIENT_SCIENCE.md#h3-w4-g",
+          "skills": "Teach / revisit: Paired display review; institutions, history, experiment limits and fresh source reasoning.\nPractice: Teams give short demonstration/walkthroughs; each student explains China and Greece achievement/context; respond to a fresh dated source and revise comparison.\nCheck: Private both-society explanation, data interpretation, institutional influence and evidence limit; team display separate.\nBuilds on: All H3 context, source and investigation work."
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "id": "H4",
+      "title": "Rome: Republic to Division",
+      "slug": "H4_ROME_REPUBLIC_TO_DIVISION",
+      "question": "How did Rome’s institutions change, and what explains division and western collapse?",
+      "glance": "Build a Roman change-and-cause dossier, compare accounts and hold a historical evidence council using actual outcomes.",
+      "product": "One team council dossier with map/timeline, institutional comparison and causal evidence chart. Each student submits a short independent multi-cause account and fresh-source revision.",
+      "home": [
+        20,
+        21,
+        22
+      ],
+      "recur": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        8,
+        10,
+        13,
+        16,
+        17,
+        18,
+        19
+      ],
+      "resources": [
+        "HISTORY",
+        "ROME"
+      ],
+      "understandings": [
+        "Institutions change through interacting political, social and economic forces.",
+        "Different groups experience expansion and policy differently.",
+        "Western collapse and eastern continuation require a multi-cause explanation."
+      ],
+      "lessons": [
+        {
+          "id": "H4-W1-I",
+          "week": 1,
+          "mode": "Individual",
+          "title": "Locate Rome and explain the republic",
+          "content": "Tiber, Rome, Italy/Alps, Mediterranean, Constantinople later timeline; geography/growth; patricians, plebeians and enslaved people; republican offices, Senate/assemblies, checks, participation and Twelve Tables.",
+          "tn": [
+            51,
+            52,
+            53,
+            54
+          ],
+          "themes": [
+            3,
+            4,
+            5,
+            6,
+            10
+          ],
+          "primary": [
+            "D2.Geo.1.6-8",
+            "D2.Civ.6.6-8",
+            "D2.His.4.6-8"
+          ],
+          "supporting": [
+            "D3.1.6-8"
+          ],
+          "resources": [
+            "HISTORY",
+            "ROME"
+          ],
+          "model": "Model offices/participation without calling Rome a modern inclusive democracy; place later Constantinople on a dated map layer.",
+          "activity": "Annotate geographic growth map; diagram institutions and eligible participation; compare a rule to affected social groups.",
+          "evidence": "Individual map plus institution/participation explanation including excluded groups.",
+          "criteria": "Dates/layers explicit; government functions and social limits clear; geography connected to growth.",
+          "support": "If checks imply equality for everyone, use participation matrix and recheck; accessible map/source chunks.",
+          "handoff": "Prepare verified Twelve Tables translation and dated maps; reuse H3 citizenship comparison.",
+          "prereq": "Greek polis and source-based comparison.",
+          "minutes": 90,
+          "reading": "Planning limit: 150–250 words of new adapted prose plus up to two images/maps/source cards. Exact excerpts, provenance and access pending; essential reading stays in class.",
+          "verification": "Confirmed in the Step 4 outline for the specified contribution; source-dependent interpretations conditional until exact selections are verified. Detailed procedures and fresh assessment prompts remain Step 5.",
+          "link": "../scope-and-sequence/history-projects/H4_ROME_REPUBLIC_TO_DIVISION.md#h4-w1-i",
+          "skills": "Teach / revisit: Tiber, Rome, Italy/Alps, Mediterranean, Constantinople later timeline; geography/growth; patricians, plebeians and enslaved people; republican offices, Senate/assemblies, checks, participation and Twelve Tables.\nPractice: Annotate geographic growth map; diagram institutions and eligible participation; compare a rule to affected social groups.\nCheck: Individual map plus institution/participation explanation including excluded groups.\nBuilds on: Greek polis and source-based comparison."
+        },
+        {
+          "id": "H4-W1-G",
+          "week": 1,
+          "mode": "Group",
+          "title": "Explain republic-to-empire change",
+          "content": "Julius Caesar military leadership, popular support, dictatorship/assassination; Augustus and Pax Romana expansion and institutions.",
+          "tn": [
+            55,
+            56,
+            54
+          ],
+          "themes": [
+            2,
+            5,
+            6
+          ],
+          "primary": [
+            "D2.His.1.6-8",
+            "D2.His.14.6-8",
+            "D2.His.6.6-8"
+          ],
+          "supporting": [
+            "D3.1.6-8"
+          ],
+          "resources": [
+            "HISTORY",
+            "ROME"
+          ],
+          "model": "Compare a ruler image/claim to another account; trace structural tensions alongside leaders and trigger events.",
+          "activity": "Build transition timeline; compare institutional change and source perspectives; add cause/effect evidence to council dossier.",
+          "evidence": "Private multi-factor transition explanation and ruler-source purpose inference.",
+          "criteria": "Distinguishes Caesar from Augustus and continuity from change; propaganda not treated as complete social evidence.",
+          "support": "If one leader explains everything, add a structural evidence card and recheck; use dated actors/events.",
+          "handoff": "Select contrasting accounts and dated coin/inscription; preserve institutional chart for W4 synthesis.",
+          "prereq": "Republic roles and evidence limitation.",
+          "minutes": 90,
+          "reading": "Planning limit: 150–250 words of new adapted prose plus up to two images/maps/source cards. Exact excerpts, provenance and access pending; essential reading stays in class.",
+          "verification": "Confirmed in the Step 4 outline for the specified contribution; source-dependent interpretations conditional until exact selections are verified. Detailed procedures and fresh assessment prompts remain Step 5.",
+          "link": "../scope-and-sequence/history-projects/H4_ROME_REPUBLIC_TO_DIVISION.md#h4-w1-g",
+          "skills": "Teach / revisit: Julius Caesar military leadership, popular support, dictatorship/assassination; Augustus and Pax Romana expansion and institutions.\nPractice: Build transition timeline; compare institutional change and source perspectives; add cause/effect evidence to council dossier.\nCheck: Private multi-factor transition explanation and ruler-source purpose inference.\nBuilds on: Republic roles and evidence limitation."
+        },
+        {
+          "id": "H4-W2-I",
+          "week": 2,
+          "mode": "Individual",
+          "title": "Explain engineering and everyday life",
+          "content": "Arches, aqueducts, bridges, domes, roads, sanitation and Colosseum; work, distribution, trade and polytheistic practice.",
+          "tn": [
+            57,
+            58
+          ],
+          "themes": [
+            1,
+            3,
+            7,
+            8
+          ],
+          "primary": [
+            "D2.Geo.4.6-8",
+            "D2.Civ.6.6-8",
+            "D4.2.6-8"
+          ],
+          "supporting": [
+            "D3.1.6-8"
+          ],
+          "resources": [
+            "HISTORY",
+            "ROME"
+          ],
+          "model": "Model infrastructure benefits and unequal access/costs; monument evidence cannot describe everyone’s daily life.",
+          "activity": "Trace two infrastructure systems on a city diagram; explain remaining examples through a short annotated gallery; connect civic/religious use to daily experience.",
+          "evidence": "Individual system explanation and attributed polytheism/context note.",
+          "criteria": "Explains function and human/environment effects; all named infrastructure appears; social differences recognized.",
+          "support": "If drawings replace reasoning, add flow/use labels and recheck another structure; offer large diagrams.",
+          "handoff": "No extra engineering build; select verified diagram/object sources and maintain the same dossier.",
+          "prereq": "H1 technology and H3 model/historical evidence distinction.",
+          "minutes": 90,
+          "reading": "Planning limit: 150–250 words of new adapted prose plus up to two images/maps/source cards. Exact excerpts, provenance and access pending; essential reading stays in class.",
+          "verification": "Confirmed in the Step 4 outline for the specified contribution; source-dependent interpretations conditional until exact selections are verified. Detailed procedures and fresh assessment prompts remain Step 5.",
+          "link": "../scope-and-sequence/history-projects/H4_ROME_REPUBLIC_TO_DIVISION.md#h4-w2-i",
+          "skills": "Teach / revisit: Arches, aqueducts, bridges, domes, roads, sanitation and Colosseum; work, distribution, trade and polytheistic practice.\nPractice: Trace two infrastructure systems on a city diagram; explain remaining examples through a short annotated gallery; connect civic/religious use to daily experience.\nCheck: Individual system explanation and attributed polytheism/context note.\nBuilds on: H1 technology and H3 model/historical evidence distinction."
+        },
+        {
+          "id": "H4-W2-G",
+          "week": 2,
+          "mode": "Group",
+          "title": "Contextualize Christianity and Jewish diaspora",
+          "content": "Christianity: Jesus/Paul, Bible, monotheism, sin/forgiveness, eternal life, Messiah; historical spread/persecution and imperial change; Roman/Jewish conflicts and dispersal.",
+          "tn": [
+            59,
+            60,
+            58
+          ],
+          "themes": [
+            1,
+            4,
+            5,
+            9
+          ],
+          "primary": [
+            "D2.His.4.6-8",
+            "D2.His.6.6-8",
+            "D3.2.6-8"
+          ],
+          "supporting": [
+            "D3.1.6-8"
+          ],
+          "resources": [
+            "HISTORY"
+          ],
+          "model": "Use the common religion template from H2; distinguish faith claims from historical analysis and explain multiple diaspora phases.",
+          "activity": "Annotate religion/context cards; map dated displacement/spread; compare two attributed accounts without devotional performance.",
+          "evidence": "Private Christianity profile and source-based diaspora cause/movement explanation.",
+          "criteria": "Beliefs are accurately attributed; political conflict and movement dates are not collapsed into one expulsion or all-Jewish departure.",
+          "support": "If sacred account becomes automatic modern historical proof, classify source purpose and corroborate; glossary and neutral response options.",
+          "handoff": "Prepare sensitive, scholarly source selection and timeline; no present-day group blame.",
+          "prereq": "H2 Judaism and respectful religious-source inquiry.",
+          "minutes": 90,
+          "reading": "Planning limit: 150–250 words of new adapted prose plus up to two images/maps/source cards. Exact excerpts, provenance and access pending; essential reading stays in class.",
+          "verification": "Confirmed in the Step 4 outline for the specified contribution; source-dependent interpretations conditional until exact selections are verified. Detailed procedures and fresh assessment prompts remain Step 5.",
+          "link": "../scope-and-sequence/history-projects/H4_ROME_REPUBLIC_TO_DIVISION.md#h4-w2-g",
+          "skills": "Teach / revisit: Christianity: Jesus/Paul, Bible, monotheism, sin/forgiveness, eternal life, Messiah; historical spread/persecution and imperial change; Roman/Jewish conflicts and dispersal.\nPractice: Annotate religion/context cards; map dated displacement/spread; compare two attributed accounts without devotional performance.\nCheck: Private Christianity profile and source-based diaspora cause/movement explanation.\nBuilds on: H2 Judaism and respectful religious-source inquiry."
+        },
+        {
+          "id": "H4-W3-I",
+          "week": 3,
+          "mode": "Individual",
+          "title": "Map division and eastern continuation",
+          "content": "Constantine/Constantinople; administrative division versus relocation; East/West and Byzantine continuation; territory/governing pressures.",
+          "tn": [
+            61,
+            62,
+            51
+          ],
+          "themes": [
+            2,
+            3,
+            5,
+            6
+          ],
+          "primary": [
+            "D2.Geo.1.6-8",
+            "D2.His.2.6-8",
+            "D2.His.14.6-8"
+          ],
+          "supporting": [
+            "D3.1.6-8"
+          ],
+          "resources": [
+            "HISTORY",
+            "ROME"
+          ],
+          "model": "Model changing dated boundaries and multiple stages of division; 476 in the West does not end every Roman institution.",
+          "activity": "Layer empire maps; identify capital-location factors; sort continuity/change evidence for eastern/western regions.",
+          "evidence": "Individual division map and explanation of one continuity and two capital/governance factors.",
+          "criteria": "Distinguishes division from western collapse; East continues; time/place shapes cause.",
+          "support": "If a single map becomes timeless, add dates and recheck layers; use paired maps with consistent scale.",
+          "handoff": "Prepare map dates and source captions; save pressures for cause-ranking session.",
+          "prereq": "Rome institutions, geography and regional comparison.",
+          "minutes": 90,
+          "reading": "Planning limit: 150–250 words of new adapted prose plus up to two images/maps/source cards. Exact excerpts, provenance and access pending; essential reading stays in class.",
+          "verification": "Confirmed in the Step 4 outline for the specified contribution; source-dependent interpretations conditional until exact selections are verified. Detailed procedures and fresh assessment prompts remain Step 5.",
+          "link": "../scope-and-sequence/history-projects/H4_ROME_REPUBLIC_TO_DIVISION.md#h4-w3-i",
+          "skills": "Teach / revisit: Constantine/Constantinople; administrative division versus relocation; East/West and Byzantine continuation; territory/governing pressures.\nPractice: Layer empire maps; identify capital-location factors; sort continuity/change evidence for eastern/western regions.\nCheck: Individual division map and explanation of one continuity and two capital/governance factors.\nBuilds on: Rome institutions, geography and regional comparison."
+        },
+        {
+          "id": "H4-W3-G",
+          "week": 3,
+          "mode": "Group",
+          "title": "Weigh explanations for western collapse",
+          "content": "Large territory, political instability/corruption, economic pressures, Germanic groups and military conflict; relative cause influence and evidence limits.",
+          "tn": [
+            62,
+            52,
+            56,
+            61
+          ],
+          "themes": [
+            2,
+            6,
+            7,
+            9
+          ],
+          "primary": [
+            "D2.His.15.6-8",
+            "D3.3.6-8",
+            "D4.4.6-8"
+          ],
+          "supporting": [
+            "D3.1.6-8"
+          ],
+          "resources": [
+            "HISTORY",
+            "ROME"
+          ],
+          "model": "Model comparing the explanatory reach of causes; avoid a single invasion-only or moral-decline explanation.",
+          "activity": "Compare three bounded interpretations with evidence; make a causal web; weigh two causes and challenge unsupported claims.",
+          "evidence": "Private cause-ranking argument with evidence, a competing view and limitation.",
+          "criteria": "Multiple interacting causes; relative influence justified; distinguishes evidence from a rhetorical moral claim.",
+          "support": "If ranking is personal preference, require a sourced mechanism then recheck a new cause; provide an evidence/cause chart.",
+          "handoff": "Select contrasting historian arguments and provenance; reserve revision for W4-I.",
+          "prereq": "Division/continuation and source credibility.",
+          "minutes": 90,
+          "reading": "Planning limit: 150–250 words of new adapted prose plus up to two images/maps/source cards. Exact excerpts, provenance and access pending; essential reading stays in class.",
+          "verification": "Confirmed in the Step 4 outline for the specified contribution; source-dependent interpretations conditional until exact selections are verified. Detailed procedures and fresh assessment prompts remain Step 5.",
+          "link": "../scope-and-sequence/history-projects/H4_ROME_REPUBLIC_TO_DIVISION.md#h4-w3-g",
+          "skills": "Teach / revisit: Large territory, political instability/corruption, economic pressures, Germanic groups and military conflict; relative cause influence and evidence limits.\nPractice: Compare three bounded interpretations with evidence; make a causal web; weigh two causes and challenge unsupported claims.\nCheck: Private cause-ranking argument with evidence, a competing view and limitation.\nBuilds on: Division/continuation and source credibility."
+        },
+        {
+          "id": "H4-W4-I",
+          "week": 4,
+          "mode": "Individual",
+          "title": "Prepare the evidence council",
+          "content": "Synthesize republic, empire, infrastructure, religion, diaspora, division and fall; evaluate arguments and coherent explanations.",
+          "tn": [
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62
+          ],
+          "themes": [
+            2,
+            5,
+            6,
+            10
+          ],
+          "primary": [
+            "D2.His.16.6-8",
+            "D4.1.6-8",
+            "D4.5.6-8"
+          ],
+          "supporting": [
+            "D3.1.6-8"
+          ],
+          "resources": [
+            "HISTORY",
+            "ROME"
+          ],
+          "model": "Model an evidence council discussing actual historical causes; conjectured policy outcomes, if mentioned, are labeled counterfactual.",
+          "activity": "Finish existing dossier; individually write a bounded multi-cause account; critique source credibility and sequence; revise one argument.",
+          "evidence": "Independent 200–300-word or equivalent causal account with multiple sources, limitation and revision.",
+          "criteria": "Historical outcomes accurate; East/West distinction preserved; evidence addresses causes and institutional change.",
+          "support": "If team consensus replaces private learning, collect independent account first; scaffold organization without supplying the claim.",
+          "handoff": "Prepare a fresh map/account check and a contribution roster; no game or alternative-history victory scoring.",
+          "prereq": "All H4 institutional, geographic and causal work.",
+          "minutes": 90,
+          "reading": "Planning limit: 150–250 words of new adapted prose plus up to two images/maps/source cards. Exact excerpts, provenance and access pending; essential reading stays in class.",
+          "verification": "Confirmed in the Step 4 outline for the specified contribution; source-dependent interpretations conditional until exact selections are verified. Detailed procedures and fresh assessment prompts remain Step 5.",
+          "link": "../scope-and-sequence/history-projects/H4_ROME_REPUBLIC_TO_DIVISION.md#h4-w4-i",
+          "skills": "Teach / revisit: Synthesize republic, empire, infrastructure, religion, diaspora, division and fall; evaluate arguments and coherent explanations.\nPractice: Finish existing dossier; individually write a bounded multi-cause account; critique source credibility and sequence; revise one argument.\nCheck: Independent 200–300-word or equivalent causal account with multiple sources, limitation and revision.\nBuilds on: All H4 institutional, geographic and causal work."
+        },
+        {
+          "id": "H4-W4-G",
+          "week": 4,
+          "mode": "Group",
+          "title": "Hold the council and apply new evidence",
+          "content": "Evidence council, fresh historical source interpretation and course-wide inquiry reflection.",
+          "tn": [
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62
+          ],
+          "themes": [
+            2,
+            9,
+            10
+          ],
+          "primary": [
+            "D4.1.6-8",
+            "D4.4.6-8",
+            "D2.His.10.6-8"
+          ],
+          "supporting": [
+            "D3.1.6-8"
+          ],
+          "resources": [
+            "HISTORY",
+            "ROME"
+          ],
+          "model": "Model civil critique: identify claim, relevant source, limitation and evidence that would change the conclusion.",
+          "activity": "Teams present actual-history explanations; every student responds to a question; independently analyze a fresh source and revise the causal account.",
+          "evidence": "Teacher-recorded response, fresh source inference and independent revision; team council quality assessed separately.",
+          "criteria": "Civil discussion and supported reasoning; new evidence changes or sustains a conclusion for a stated reason.",
+          "support": "If performance masks missing history, use targeted map/chronology/source recheck; record remaining learning for the next course.",
+          "handoff": "Archive inquiry growth and unresolved content; use a class-approved exhibit correction as a bounded civic practice, without a full informed-action indicator claim.",
+          "prereq": "All-course source selection, comparison and causation.",
+          "minutes": 90,
+          "reading": "Planning limit: 150–250 words of new adapted prose plus up to two images/maps/source cards. Exact excerpts, provenance and access pending; essential reading stays in class.",
+          "verification": "Confirmed in the Step 4 outline for the specified contribution; source-dependent interpretations conditional until exact selections are verified. Detailed procedures and fresh assessment prompts remain Step 5.",
+          "link": "../scope-and-sequence/history-projects/H4_ROME_REPUBLIC_TO_DIVISION.md#h4-w4-g",
+          "skills": "Teach / revisit: Evidence council, fresh historical source interpretation and course-wide inquiry reflection.\nPractice: Teams present actual-history explanations; every student responds to a question; independently analyze a fresh source and revise the causal account.\nCheck: Teacher-recorded response, fresh source inference and independent revision; team council quality assessed separately.\nBuilds on: All-course source selection, comparison and causation."
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "id": "NCSS",
+      "title": "NCSS National Curriculum Standards for Social Studies (2010): public executive summary and themes",
+      "url": "https://www.socialstudies.org/standards/national-curriculum-standards-social-studies-executive-summary",
+      "selection": "Ten-theme organizing framework; public middle-grades discussion. Full proprietary middle-grades performance expectations are not reproduced or individually certified.",
+      "status": "Official public framework reviewed 2026-10-03."
+    },
+    {
+      "id": "C3",
+      "title": "NCSS C3 Framework (2013), Grades 6–8 inquiry indicators",
+      "url": "https://www.socialstudies.org/sites/default/files/c3/C3-Framework-for-Social-Studies.pdf",
+      "selection": "Questions, maps, institutions, historical context/perspective/evidence/causation, source evaluation and communication. Selected indicators only.",
+      "status": "Official PDF reviewed online 2026-10-03; selected grade-band contributions, not a complete C3 band claim."
+    },
+    {
+      "id": "TN",
+      "title": "Tennessee Social Studies Standards: implementation 2027–28",
+      "url": "https://www.tn.gov/education/districts/academic-standards/social-studies-standards.html",
+      "selection": "Local official PDF pages 81–98: SSP.01–06 and content 6.01–6.62.",
+      "status": "2024 adoption, 2027–28 implementation. Separate content check; 6.39 chronology unresolved."
+    },
+    {
+      "id": "HISTORY",
+      "title": "OpenStax — World History Volume 1, to 1500",
+      "url": "https://openstax.org/books/world-history-volume-1/pages/1-introduction",
+      "selection": "Teacher background: early humans, river-valley societies, ancient Israel/India/China/Greece/Rome. Select topic sections and primary-source boxes; prepare short attributed student adaptations.",
+      "status": "Teacher reference located; exact excerpts, dates, image rights, reading fit and source packets remain Step 5/6 work. Do not assign whole college chapters."
+    },
+    {
+      "id": "NEAR",
+      "title": "The Met — Art of the Ancient Near East: educator resource",
+      "url": "https://www.metmuseum.org/-/media/files/learn/for-educators/publications-for-educators/art-of-the-ancient-near-east.pdf",
+      "selection": "Select one Mesopotamian artifact with museum provenance and one writing/architecture example. Supplement with a verified Hammurabi translation.",
+      "status": "Resource located; object selection, lawful accessible images and translation excerpt pending."
+    },
+    {
+      "id": "EGYPT",
+      "title": "The Met — Egyptian Art",
+      "url": "https://www.metmuseum.org/departments/egyptian-art",
+      "selection": "Select an Egyptian artifact/monument and a Nubian-perspective source, with dates and provenance.",
+      "status": "Department collection entry point; exact paired objects and text selections pending."
+    },
+    {
+      "id": "HAN",
+      "title": "The Met — Han Dynasty (206 BCE–220 CE)",
+      "url": "https://www.metmuseum.org/essays/han-dynasty-206-b-c-220-a-d",
+      "selection": "Statecraft, Confucian institutions, exchange and paragraph on timekeeping/astronomical instruments. Source is a modern museum interpretation.",
+      "status": "Department of Asian Art, October 2000. Teacher source inspected; adapted selection and an exact primary artifact record pending."
+    },
+    {
+      "id": "CLOCK",
+      "title": "American School of Classical Studies at Athens — An Athenian Clepsydra",
+      "url": "https://www.ascsa.edu.gr/uploads/media/hesperia/146678.pdf",
+      "selection": "Archaeological scholarly account of Athenian court timing; isolate one object image/description and its reconstruction limits.",
+      "status": "Search-indexed research source; full PDF retrieval failed. Access and precise page selection conditional before Step 5."
+    },
+    {
+      "id": "SKY",
+      "title": "Science Museum — Ancient Greek Computing",
+      "url": "https://blog.sciencemuseum.org.uk/ancient-greek-computing/",
+      "selection": "Antikythera mechanism as a dated Hellenistic astronomical-prediction case. Distinguish modern reconstruction from surviving evidence; not a navigation-device claim.",
+      "status": "Teacher source reviewed; short caption/diagram selection pending. No complex reconstruction required."
+    },
+    {
+      "id": "PRINT",
+      "title": "British Library / International Dunhuang Programme — Diamond Sutra display guide",
+      "url": "https://idp.bl.uk/wp-content/uploads/2025/01/BL.SR_.Large_.Print_.Guide_.V3.pdf",
+      "selection": "Dated printed Diamond Sutra as a later timeline comparison, outside Han. A later surviving print is not by itself proof of the first invention date.",
+      "status": "Official source located; use for chronology scrutiny, not a claim that every Chinese innovation belongs to Han."
+    },
+    {
+      "id": "ROME",
+      "title": "British Museum — Greece and Rome",
+      "url": "https://www.britishmuseum.org/our-work/departments/greece-and-rome",
+      "selection": "Select Roman infrastructure/inscription/coin evidence with creator/date/place; pair with a translated legal or historical excerpt.",
+      "status": "Teacher collection entry point; exact objects, translations and contrasting account selections pending."
+    }
+  ],
+  "national": [
+    {
+      "id": "D1.5.6-8",
+      "learning": "Select sources suited to the inquiry.",
+      "primary_routes": [
+        "H1-W1-I",
+        "H3-W3-I"
+      ],
+      "support_routes": []
+    },
+    {
+      "id": "D2.His.1.6-8",
+      "learning": "Connect events to historical context.",
+      "primary_routes": [
+        "H1-W1-I",
+        "H2-W2-G",
+        "H3-W1-I",
+        "H3-W4-I",
+        "H4-W1-G"
+      ],
+      "support_routes": []
+    },
+    {
+      "id": "D2.His.2.6-8",
+      "learning": "Distinguish continuity and change.",
+      "primary_routes": [
+        "H1-W1-G",
+        "H4-W3-I"
+      ],
+      "support_routes": []
+    },
+    {
+      "id": "D2.His.3.6-8",
+      "learning": "Investigate historical significance.",
+      "primary_routes": [
+        "H2-W1-G",
+        "H3-W2-G"
+      ],
+      "support_routes": []
+    },
+    {
+      "id": "D2.His.4.6-8",
+      "learning": "Explain influences on past perspectives.",
+      "primary_routes": [
+        "H1-W3-I",
+        "H2-W2-I",
+        "H2-W3-G",
+        "H3-W1-G",
+        "H3-W2-I",
+        "H4-W1-I",
+        "H4-W2-G"
+      ],
+      "support_routes": []
+    },
+    {
+      "id": "D2.His.6.6-8",
+      "learning": "Explain perspective effects on source information.",
+      "primary_routes": [
+        "H1-W3-I",
+        "H2-W1-G",
+        "H3-W2-G",
+        "H4-W1-G",
+        "H4-W2-G"
+      ],
+      "support_routes": []
+    },
+    {
+      "id": "D2.His.9.6-8",
+      "learning": "Classify evidence behind a historical interpretation.",
+      "primary_routes": [
+        "H1-W1-I",
+        "H2-W3-I"
+      ],
+      "support_routes": []
+    },
+    {
+      "id": "D2.His.10.6-8",
+      "learning": "Detect limits in the historical record.",
+      "primary_routes": [
+        "H1-W4-G",
+        "H2-W1-G",
+        "H3-W1-G",
+        "H3-W3-I",
+        "H3-W3-G",
+        "H4-W4-G"
+      ],
+      "support_routes": []
+    },
+    {
+      "id": "D2.His.11.6-8",
+      "learning": "Use corroboration to infer source purpose and audience.",
+      "primary_routes": [
+        "H1-W3-G"
+      ],
+      "support_routes": []
+    },
+    {
+      "id": "D2.His.14.6-8",
+      "learning": "Explain multiple causes and effects.",
+      "primary_routes": [
+        "H1-W1-G",
+        "H1-W2-G",
+        "H2-W2-G",
+        "H3-W2-G",
+        "H4-W1-G",
+        "H4-W3-I"
+      ],
+      "support_routes": []
+    },
+    {
+      "id": "D2.His.15.6-8",
+      "learning": "Weigh the influence of different causes.",
+      "primary_routes": [
+        "H4-W3-G"
+      ],
+      "support_routes": []
+    },
+    {
+      "id": "D2.His.16.6-8",
+      "learning": "Organize evidence into historical argument.",
+      "primary_routes": [
+        "H1-W4-I",
+        "H2-W4-I",
+        "H3-W4-G",
+        "H4-W4-I"
+      ],
+      "support_routes": []
+    },
+    {
+      "id": "D2.Geo.1.6-8",
+      "learning": "Map cultural and environmental patterns.",
+      "primary_routes": [
+        "H1-W2-I",
+        "H2-W1-I",
+        "H2-W2-I",
+        "H2-W3-I",
+        "H3-W1-I",
+        "H3-W2-I",
+        "H4-W1-I",
+        "H4-W3-I"
+      ],
+      "support_routes": []
+    },
+    {
+      "id": "D2.Geo.4.6-8",
+      "learning": "Explain cultural and economic effects on environments and daily life.",
+      "primary_routes": [
+        "H1-W2-I",
+        "H2-W1-I",
+        "H2-W3-I",
+        "H4-W2-I"
+      ],
+      "support_routes": []
+    },
+    {
+      "id": "D2.Civ.6.6-8",
+      "learning": "Explain how organizations shape lives.",
+      "primary_routes": [
+        "H1-W2-G",
+        "H1-W3-I",
+        "H2-W1-I",
+        "H2-W3-G",
+        "H3-W1-I",
+        "H3-W1-G",
+        "H3-W2-I",
+        "H4-W1-I",
+        "H4-W2-I"
+      ],
+      "support_routes": []
+    },
+    {
+      "id": "D3.1.6-8",
+      "learning": "Gather and corroborate relevant sources.",
+      "primary_routes": [],
+      "support_routes": [
+        "H1-W1-I",
+        "H1-W1-G",
+        "H1-W2-I",
+        "H1-W2-G",
+        "H1-W3-I",
+        "H1-W3-G",
+        "H1-W4-I",
+        "H1-W4-G",
+        "H2-W1-I",
+        "H2-W1-G",
+        "H2-W2-I",
+        "H2-W2-G",
+        "H2-W3-I",
+        "H2-W3-G",
+        "H2-W4-I",
+        "H2-W4-G",
+        "H3-W1-I",
+        "H3-W1-G",
+        "H3-W2-I",
+        "H3-W2-G",
+        "H3-W3-I",
+        "H3-W3-G",
+        "H3-W4-I",
+        "H3-W4-G",
+        "H4-W1-I",
+        "H4-W1-G",
+        "H4-W2-I",
+        "H4-W2-G",
+        "H4-W3-I",
+        "H4-W3-G",
+        "H4-W4-I",
+        "H4-W4-G"
+      ]
+    },
+    {
+      "id": "D3.2.6-8",
+      "learning": "Judge credibility for the intended use.",
+      "primary_routes": [
+        "H1-W3-G",
+        "H2-W2-I",
+        "H2-W4-G",
+        "H3-W3-I",
+        "H4-W2-G"
+      ],
+      "support_routes": []
+    },
+    {
+      "id": "D3.3.6-8",
+      "learning": "Support claims while identifying evidence limits.",
+      "primary_routes": [
+        "H1-W3-G",
+        "H2-W3-G",
+        "H3-W3-G",
+        "H3-W4-I",
+        "H4-W3-G"
+      ],
+      "support_routes": []
+    },
+    {
+      "id": "D4.1.6-8",
+      "learning": "Argue from multiple sources with limitations.",
+      "primary_routes": [
+        "H1-W4-I",
+        "H2-W4-I",
+        "H3-W4-G",
+        "H4-W4-I",
+        "H4-W4-G"
+      ],
+      "support_routes": []
+    },
+    {
+      "id": "D4.2.6-8",
+      "learning": "Explain using reasoning, sequence and relevant detail.",
+      "primary_routes": [
+        "H1-W4-G",
+        "H2-W2-G",
+        "H2-W4-G",
+        "H3-W3-G",
+        "H4-W2-I"
+      ],
+      "support_routes": []
+    },
+    {
+      "id": "D4.4.6-8",
+      "learning": "Critique argument credibility.",
+      "primary_routes": [
+        "H1-W4-I",
+        "H2-W4-I",
+        "H3-W4-I",
+        "H4-W3-G",
+        "H4-W4-G"
+      ],
+      "support_routes": []
+    },
+    {
+      "id": "D4.5.6-8",
+      "learning": "Critique explanation structure.",
+      "primary_routes": [
+        "H1-W4-G",
+        "H2-W4-G",
+        "H3-W4-G",
+        "H4-W4-I"
+      ],
+      "support_routes": []
+    }
+  ],
+  "themes": [
+    {
+      "id": "NCSS-T1",
+      "title": "Culture",
+      "routes": [
+        "H1-W3-I",
+        "H2-W1-I",
+        "H2-W2-I",
+        "H2-W3-G",
+        "H2-W4-I",
+        "H3-W2-G",
+        "H4-W2-I",
+        "H4-W2-G"
+      ]
+    },
+    {
+      "id": "NCSS-T2",
+      "title": "Time, Continuity, and Change",
+      "routes": [
+        "H1-W1-I",
+        "H1-W1-G",
+        "H1-W4-I",
+        "H1-W4-G",
+        "H2-W1-G",
+        "H2-W2-I",
+        "H2-W2-G",
+        "H2-W4-G",
+        "H3-W1-I",
+        "H3-W2-G",
+        "H3-W3-I",
+        "H3-W4-I",
+        "H3-W4-G",
+        "H4-W1-G",
+        "H4-W3-I",
+        "H4-W3-G",
+        "H4-W4-I",
+        "H4-W4-G"
+      ]
+    },
+    {
+      "id": "NCSS-T3",
+      "title": "People, Places, and Environments",
+      "routes": [
+        "H1-W2-I",
+        "H1-W4-I",
+        "H2-W1-I",
+        "H2-W2-I",
+        "H2-W3-I",
+        "H2-W4-I",
+        "H3-W1-I",
+        "H3-W2-I",
+        "H3-W4-I",
+        "H4-W1-I",
+        "H4-W2-I",
+        "H4-W3-I"
+      ]
+    },
+    {
+      "id": "NCSS-T4",
+      "title": "Individual Development and Identity",
+      "routes": [
+        "H1-W3-I",
+        "H2-W3-G",
+        "H3-W1-G",
+        "H3-W2-I",
+        "H4-W1-I",
+        "H4-W2-G"
+      ]
+    },
+    {
+      "id": "NCSS-T5",
+      "title": "Individuals, Groups, and Institutions",
+      "routes": [
+        "H1-W2-G",
+        "H1-W3-I",
+        "H1-W4-I",
+        "H2-W1-I",
+        "H2-W2-G",
+        "H2-W3-G",
+        "H2-W4-I",
+        "H3-W1-G",
+        "H3-W2-I",
+        "H3-W2-G",
+        "H3-W4-G",
+        "H4-W1-I",
+        "H4-W1-G",
+        "H4-W2-G",
+        "H4-W3-I",
+        "H4-W4-I"
+      ]
+    },
+    {
+      "id": "NCSS-T6",
+      "title": "Power, Authority, and Governance",
+      "routes": [
+        "H1-W3-I",
+        "H1-W3-G",
+        "H3-W1-I",
+        "H3-W1-G",
+        "H3-W2-I",
+        "H4-W1-I",
+        "H4-W1-G",
+        "H4-W3-I",
+        "H4-W3-G",
+        "H4-W4-I"
+      ]
+    },
+    {
+      "id": "NCSS-T7",
+      "title": "Production, Distribution, and Consumption",
+      "routes": [
+        "H1-W1-G",
+        "H1-W2-G",
+        "H2-W3-I",
+        "H4-W2-I",
+        "H4-W3-G"
+      ]
+    },
+    {
+      "id": "NCSS-T8",
+      "title": "Science, Technology, and Society",
+      "routes": [
+        "H1-W1-G",
+        "H1-W2-G",
+        "H2-W1-G",
+        "H2-W3-I",
+        "H2-W3-G",
+        "H3-W1-G",
+        "H3-W2-G",
+        "H3-W3-I",
+        "H3-W3-G",
+        "H3-W4-I",
+        "H3-W4-G",
+        "H4-W2-I"
+      ]
+    },
+    {
+      "id": "NCSS-T9",
+      "title": "Global Connections",
+      "routes": [
+        "H2-W1-G",
+        "H2-W2-G",
+        "H2-W4-I",
+        "H3-W4-I",
+        "H3-W4-G",
+        "H4-W2-G",
+        "H4-W3-G",
+        "H4-W4-G"
+      ]
+    },
+    {
+      "id": "NCSS-T10",
+      "title": "Civic Ideals and Practices",
+      "routes": [
+        "H1-W3-G",
+        "H1-W4-G",
+        "H2-W4-G",
+        "H3-W2-I",
+        "H4-W1-I",
+        "H4-W4-I",
+        "H4-W4-G"
+      ]
+    }
+  ],
+  "tn": [
+    {
+      "id": "6.01",
+      "source_text": "Interpret a timeline using time designations and abbreviations, including: • BC/BCE • AD/CE • Circa (i.e., c. or ca), decades, centuries",
+      "routes": [
+        "H1-W1-I",
+        "H1-W4-I",
+        "H1-W4-G"
+      ],
+      "status": "Covered in plan",
+      "action": "Verify the exact source packet and individual component checks in Step 5; produce and trial materials in Step 6."
+    },
+    {
+      "id": "6.02",
+      "source_text": "Describe the characteristics of Paleolithic societies, including: • Basic hunting weapons • Fire • Nomadic hunter-gatherer lifestyles • Shelter • Tools",
+      "routes": [
+        "H1-W1-G",
+        "H1-W4-I",
+        "H1-W4-G"
+      ],
+      "status": "Covered in plan",
+      "action": "Verify the exact source packet and individual component checks in Step 5; produce and trial materials in Step 6."
+    },
+    {
+      "id": "6.03",
+      "source_text": "Explain the impact of the Neolithic Revolution, including: • Agriculture • Domestication of plants and animals • Emergence of permanent settlements • Food surpluses • Increased Barter economy • Labor specialization • New sources of clothing and shelter",
+      "routes": [
+        "H1-W1-G",
+        "H1-W4-I",
+        "H1-W4-G"
+      ],
+      "status": "Covered in plan",
+      "action": "Verify the exact source packet and individual component checks in Step 5; produce and trial materials in Step 6."
+    },
+    {
+      "id": "6.04",
+      "source_text": "Identify and explain the importance of the following key characteristics of civilizations: • Culture • Government • Religion • Social structure • Stable food supply • Technology • Writing",
+      "routes": [
+        "H1-W2-G",
+        "H1-W4-I",
+        "H1-W4-G"
+      ],
+      "status": "Covered in plan",
+      "action": "Verify the exact source packet and individual component checks in Step 5; produce and trial materials in Step 6."
+    },
+    {
+      "id": "6.05",
+      "source_text": "Identify and locate on a map geographical features of ancient Mesopotamia, including: • Euphrates River • Mediterranean Sea • Persian Gulf • Tigris River • Zagros Mountains",
+      "routes": [
+        "H1-W2-I",
+        "H1-W4-I",
+        "H1-W4-G"
+      ],
+      "status": "Covered in plan",
+      "action": "Verify the exact source packet and individual component checks in Step 5; produce and trial materials in Step 6."
+    },
+    {
+      "id": "6.06",
+      "source_text": "Analyze how geographic (e.g., rivers, mountains) and climatic features (e.g., heavy rains, flooding) led to the region being known as the Fertile Crescent.",
+      "routes": [
+        "H1-W2-I",
+        "H1-W4-I",
+        "H1-W4-G"
+      ],
+      "status": "Covered in plan",
+      "action": "Verify the exact source packet and individual component checks in Step 5; produce and trial materials in Step 6."
+    },
+    {
+      "id": "6.07",
+      "source_text": "Explain how irrigation, metallurgy, use of animals, and inventions such as the wheel, sail, and plow led to advancements in agriculture.",
+      "routes": [
+        "H1-W2-G",
+        "H1-W4-I",
+        "H1-W4-G"
+      ],
+      "status": "Covered in plan",
+      "action": "Verify the exact source packet and individual component checks in Step 5; produce and trial materials in Step 6."
+    },
+    {
+      "id": "6.08",
+      "source_text": "Analyze how advancements in agriculture led to economic growth, expansion of trade and transportation, and the emergence of independent city-states (e.g., Ur of the Chaldees).",
+      "routes": [
+        "H1-W2-G",
+        "H1-W4-I",
+        "H1-W4-G"
+      ],
+      "status": "Covered in plan",
+      "action": "Verify the exact source packet and individual component checks in Step 5; produce and trial materials in Step 6."
+    },
+    {
+      "id": "6.09",
+      "source_text": "Explain the basic concepts of monarchy and empire, and identify Mesopotamia as the world’s first empire.",
+      "routes": [
+        "H1-W3-I",
+        "H1-W4-I",
+        "H1-W4-G"
+      ],
+      "status": "Covered in plan",
+      "action": "Verify the exact source packet and individual component checks in Step 5; produce and trial materials in Step 6."
+    },
+    {
+      "id": "6.10",
+      "source_text": "Describe the social hierarchy of ancient Mesopotamian society.",
+      "routes": [
+        "H1-W3-I",
+        "H1-W3-G",
+        "H1-W4-I",
+        "H1-W4-G"
+      ],
+      "status": "Covered in plan",
+      "action": "Verify the exact source packet and individual component checks in Step 5; produce and trial materials in Step 6."
+    },
+    {
+      "id": "6.11",
+      "source_text": "Explain the concept of polytheism in Mesopotamia, with respect to beliefs about the relationship of deities to the natural world and their importance in everyday life.",
+      "routes": [
+        "H1-W3-I",
+        "H1-W4-I",
+        "H1-W4-G"
+      ],
+      "status": "Covered in plan",
+      "action": "Verify the exact source packet and individual component checks in Step 5; produce and trial materials in Step 6."
+    },
+    {
+      "id": "6.12",
+      "source_text": "Identify important achievements of the Mesopotamian civilization, including cuneiform, clay tablets, and ziggurats, and identify the Epic of Gilgamesh as the oldest written epic.",
+      "routes": [
+        "H1-W3-I",
+        "H1-W4-I",
+        "H1-W4-G"
+      ],
+      "status": "Covered in plan",
+      "action": "Verify the exact source packet and individual component checks in Step 5; produce and trial materials in Step 6."
+    },
+    {
+      "id": "6.13",
+      "source_text": "Analyze the impact of the Code of Hammurabi, including the introduction of written law and basic principles of justice.",
+      "routes": [
+        "H1-W3-G",
+        "H1-W4-I",
+        "H1-W4-G"
+      ],
+      "status": "Covered in plan",
+      "action": "Verify the exact source packet and individual component checks in Step 5; produce and trial materials in Step 6."
+    },
+    {
+      "id": "6.14",
+      "source_text": "Identify and locate on a map geographical and political features of ancient Egypt, including: • Mediterranean Sea • Nile Delta • Nile River • Nubia • Red Sea • The regions of Upper and Lower Egypt • The Sahara G, H, P",
+      "routes": [
+        "H2-W1-I",
+        "H2-W2-G",
+        "H2-W4-I",
+        "H2-W4-G"
+      ],
+      "status": "Covered in plan",
+      "action": "Verify the exact source packet and individual component checks in Step 5; produce and trial materials in Step 6."
+    },
+    {
+      "id": "6.15",
+      "source_text": "Explain how agricultural practices impacted life in ancient Egypt, including the use of irrigation and development of a calendar.",
+      "routes": [
+        "H2-W1-I",
+        "H2-W4-I",
+        "H2-W4-G"
+      ],
+      "status": "Covered in plan",
+      "action": "Verify the exact source packet and individual component checks in Step 5; produce and trial materials in Step 6."
+    },
+    {
+      "id": "6.16",
+      "source_text": "Describe the social structure of ancient Egyptian society, including: • How social classes were organized by occupation • Role of enslaved people • Position of pharaoh as a god-king",
+      "routes": [
+        "H2-W1-I",
+        "H2-W4-I",
+        "H2-W4-G"
+      ],
+      "status": "Covered in plan",
+      "action": "Verify the exact source packet and individual component checks in Step 5; produce and trial materials in Step 6."
+    },
+    {
+      "id": "6.17",
+      "source_text": "Explain the concept of polytheistic religion in ancient Egypt, with respect to the beliefs about the afterlife and reasons for mummification.",
+      "routes": [
+        "H2-W1-I",
+        "H2-W4-I",
+        "H2-W4-G"
+      ],
+      "status": "Covered in plan",
+      "action": "Verify the exact source packet and individual component checks in Step 5; produce and trial materials in Step 6."
+    },
+    {
+      "id": "6.18",
+      "source_text": "Analyze the impact of key figures from ancient Egypt, including: • Growth under the leadership of Queen Hatshepsut and her economic policies • Significance of the discovery of Tutankhamun’s tomb on the understanding of ancient Egypt • Ramses the Great’s military conquests leading to growth of the kingdom",
+      "routes": [
+        "H2-W1-G",
+        "H2-W4-I",
+        "H2-W4-G"
+      ],
+      "status": "Covered in plan",
+      "action": "Verify the exact source packet and individual component checks in Step 5; produce and trial materials in Step 6."
+    },
+    {
+      "id": "6.19",
+      "source_text": "Analyze the achievements of ancient Egypt, including hieroglyphics, papyrus, and structures at Giza (i.e., the pyramids and Sphinx).",
+      "routes": [
+        "H2-W1-G",
+        "H2-W4-I",
+        "H2-W4-G"
+      ],
+      "status": "Covered in plan",
+      "action": "Verify the exact source packet and individual component checks in Step 5; produce and trial materials in Step 6."
+    },
+    {
+      "id": "6.20",
+      "source_text": "Examine the relationship between ancient Egypt and Nubia, including cultural diffusion through trade and conflict.",
+      "routes": [
+        "H2-W1-G",
+        "H2-W2-G",
+        "H2-W4-I",
+        "H2-W4-G"
+      ],
+      "status": "Covered in plan",
+      "action": "Verify the exact source packet and individual component checks in Step 5; produce and trial materials in Step 6."
+    },
+    {
+      "id": "6.21",
+      "source_text": "Identify and locate on a map geographical and political features of ancient Israel, including: • Dead Sea • Jerusalem • Jordan River • Mediterranean Sea • Red Sea • Sinai Peninsula G, H, P",
+      "routes": [
+        "H2-W2-I",
+        "H2-W4-I",
+        "H2-W4-G"
+      ],
+      "status": "Covered in plan",
+      "action": "Verify the exact source packet and individual component checks in Step 5; produce and trial materials in Step 6."
+    },
+    {
+      "id": "6.22",
+      "source_text": "Analyze the development of the ancient Israelites, and explain the reasons for their movements from Mesopotamia (i.e., Ur of the Chaldees) to Canaan (later called Israel), from Canaan to Egypt, and from Egypt back to Canaan.",
+      "routes": [
+        "H2-W2-I",
+        "H2-W4-I",
+        "H2-W4-G"
+      ],
+      "status": "Covered in plan",
+      "action": "Verify the exact source packet and individual component checks in Step 5; produce and trial materials in Step 6."
+    },
+    {
+      "id": "6.23",
+      "source_text": "Describe the origins and central features of Judaism: • Key Person(s): Abraham, Moses • Sacred Texts: The Tanakh (i.e., Hebrew Bible, including the Torah) • Basic Beliefs: monotheism, Ten Commandments, emphasis on individual worth and personal responsibility",
+      "routes": [
+        "H2-W2-I",
+        "H2-W4-I",
+        "H2-W4-G"
+      ],
+      "status": "Covered in plan",
+      "action": "Verify the exact source packet and individual component checks in Step 5; produce and trial materials in Step 6."
+    },
+    {
+      "id": "6.24",
+      "source_text": "Identify the importance of Saul as the first king of Israel, David as the second king who founded Jerusalem as the capital, and Solomon as the third king who built the first temple.",
+      "routes": [
+        "H2-W2-G",
+        "H2-W4-I",
+        "H2-W4-G"
+      ],
+      "status": "Covered in plan",
+      "action": "Verify the exact source packet and individual component checks in Step 5; produce and trial materials in Step 6."
+    },
+    {
+      "id": "6.25",
+      "source_text": "Explain the Assyrian and Babylonian captivities and exiles after the breakup of the Kingdom of Israel, and the return of the Jews to their homeland under the Persian Empire.",
+      "routes": [
+        "H2-W2-G",
+        "H2-W4-I",
+        "H2-W4-G"
+      ],
+      "status": "Covered in plan",
+      "action": "Verify the exact source packet and individual component checks in Step 5; produce and trial materials in Step 6."
+    },
+    {
+      "id": "6.26",
+      "source_text": "Identify and locate on a map geographical and climatic features of ancient India, including: • Ganges River • Himalayan Mountains • Indian Ocean • Indus River • Monsoon winds • Subcontinent of India",
+      "routes": [
+        "H2-W3-I",
+        "H2-W4-I",
+        "H2-W4-G"
+      ],
+      "status": "Covered in plan",
+      "action": "Verify the exact source packet and individual component checks in Step 5; produce and trial materials in Step 6."
+    },
+    {
+      "id": "6.27",
+      "source_text": "Analyze the Indus River Valley civilizations of Harappa and Mohenjo-Daro as early agricultural civilizations, and describe their achievements, including: • Architecture built with bricks • Well planned grid system of roads • Sanitation and sewer systems E, G, H, P",
+      "routes": [
+        "H2-W3-I",
+        "H2-W4-I",
+        "H2-W4-G"
+      ],
+      "status": "Covered in plan",
+      "action": "Verify the exact source packet and individual component checks in Step 5; produce and trial materials in Step 6."
+    },
+    {
+      "id": "6.28",
+      "source_text": "Describe the effects of the Aryan migration into India, including changes to religion, social structure, and language.",
+      "routes": [
+        "H2-W3-G",
+        "H2-W4-I",
+        "H2-W4-G"
+      ],
+      "status": "Covered in plan",
+      "action": "Verify the exact source packet and individual component checks in Step 5; produce and trial materials in Step 6."
+    },
+    {
+      "id": "6.29",
+      "source_text": "Describe the social structure of the caste system, and explain its effect on everyday life in ancient India.",
+      "routes": [
+        "H2-W3-G",
+        "H2-W4-I",
+        "H2-W4-G"
+      ],
+      "status": "Covered in plan",
+      "action": "Verify the exact source packet and individual component checks in Step 5; produce and trial materials in Step 6."
+    },
+    {
+      "id": "6.30",
+      "source_text": "Describe the origins and central features of Hinduism: • Key Person(s): origins in Aryan traditions • Sacred Texts: The Vedas • Basic Beliefs: dharma, karma, reincarnation, and moksha",
+      "routes": [
+        "H2-W3-G",
+        "H2-W4-I",
+        "H2-W4-G"
+      ],
+      "status": "Covered in plan",
+      "action": "Verify the exact source packet and individual component checks in Step 5; produce and trial materials in Step 6."
+    },
+    {
+      "id": "6.31",
+      "source_text": "Describe the origins and central features of Buddhism: • Key Person(s): Siddhartha Gautama (Buddha) • Sacred Texts: Tripitaka • Basic Beliefs: Four Noble Truths, Eightfold Path, Nirvana",
+      "routes": [
+        "H2-W3-G",
+        "H2-W4-I",
+        "H2-W4-G"
+      ],
+      "status": "Covered in plan",
+      "action": "Verify the exact source packet and individual component checks in Step 5; produce and trial materials in Step 6."
+    },
+    {
+      "id": "6.32",
+      "source_text": "Analyze the achievements of ancient India, including medical education, medical techniques, yoga as a Hindu practice, and mathematics (e.g., Hindu-Arabic numerals).",
+      "routes": [
+        "H2-W3-G",
+        "H2-W4-I",
+        "H2-W4-G"
+      ],
+      "status": "Covered in plan",
+      "action": "Verify the exact source packet and individual component checks in Step 5; produce and trial materials in Step 6."
+    },
+    {
+      "id": "6.33",
+      "source_text": "Identify and locate on a map geographical features of ancient China, including: • Gobi Desert • Himalayan Mountains • Pacific Ocean • Plateau of Tibet • Yangtze River • Yellow River",
+      "routes": [
+        "H3-W1-I",
+        "H3-W4-I",
+        "H3-W4-G"
+      ],
+      "status": "Covered in plan",
+      "action": "Verify the exact source packet and individual component checks in Step 5; produce and trial materials in Step 6."
+    },
+    {
+      "id": "6.34",
+      "source_text": "Explain the origin of ancient China's civilizations in the Yellow River Valley (e.g., Xia and Shang Dynasty).",
+      "routes": [
+        "H3-W1-I",
+        "H3-W4-G"
+      ],
+      "status": "Covered in plan",
+      "action": "Verify the exact source packet and individual component checks in Step 5; produce and trial materials in Step 6."
+    },
+    {
+      "id": "6.35",
+      "source_text": "Analyze how China's geography made governing difficult and influenced isolation from the rest of the world. G, P",
+      "routes": [
+        "H3-W1-I",
+        "H3-W4-G"
+      ],
+      "status": "Covered in plan",
+      "action": "Verify the exact source packet and individual component checks in Step 5; produce and trial materials in Step 6."
+    },
+    {
+      "id": "6.36",
+      "source_text": "Describe the concepts of the Mandate of Heaven, it's origin in the Zhou Dynasty, and how Legalism emerged as a solution to cultural, geographic, and political challenges.",
+      "routes": [
+        "H3-W1-I",
+        "H3-W4-G"
+      ],
+      "status": "Covered in plan",
+      "action": "Verify the exact source packet and individual component checks in Step 5; produce and trial materials in Step 6."
+    },
+    {
+      "id": "6.37",
+      "source_text": "Explain the significance of the unification of ancient China into the first Chinese empire by Qin Shi Huangdi, beginning the Qin Dynasty, including building projects (e.g., the Great Wall, roads and canals), and a standardized writing system.",
+      "routes": [
+        "H3-W1-G",
+        "H3-W4-G"
+      ],
+      "status": "Covered in plan",
+      "action": "Verify the exact source packet and individual component checks in Step 5; produce and trial materials in Step 6."
+    },
+    {
+      "id": "6.38",
+      "source_text": "Identify the political and cultural problems prevalent in the time of Confucius, and how the philosophy of Confucianism and The Analects emphasized the concepts of kinship, order, and hierarchy to address these problems.",
+      "routes": [
+        "H3-W1-G",
+        "H3-W4-G"
+      ],
+      "status": "Covered in plan",
+      "action": "Verify the exact source packet and individual component checks in Step 5; produce and trial materials in Step 6."
+    },
+    {
+      "id": "6.39",
+      "source_text": "Explain how the Han Dynasty's political success was influenced by Confucianism, and describe major accomplishments such as the magnetic compass, paper making, porcelain, silk, seismograph and woodblock printing.",
+      "routes": [
+        "H3-W1-G",
+        "H3-W3-I",
+        "H3-W3-G",
+        "H3-W4-G"
+      ],
+      "status": "Unverified",
+      "action": "Teach documented Han accomplishments and date later printing separately. Resolve apparent chronology conflict in official 6.39 before certifying that component; exact porcelain/compass attribution also needs source review."
+    },
+    {
+      "id": "6.40",
+      "source_text": "Explain how the development of the Silk Road led to cultural diffusion between China and Eurasia, including traded goods and the spread of Buddhism into ancient China. C, E, G, H, P",
+      "routes": [
+        "H3-W4-I",
+        "H3-W4-G"
+      ],
+      "status": "Covered in plan",
+      "action": "Verify the exact source packet and individual component checks in Step 5; produce and trial materials in Step 6."
+    },
+    {
+      "id": "6.41",
+      "source_text": "Identify and locate on a map geographical and political features of ancient Greece, including: • Aegean Sea • Asia Minor • Athens • Macedonia • Mediterranean Sea • Peloponnesian peninsula • Sparta G, P",
+      "routes": [
+        "H3-W2-I",
+        "H3-W4-I",
+        "H3-W4-G"
+      ],
+      "status": "Covered in plan",
+      "action": "Verify the exact source packet and individual component checks in Step 5; produce and trial materials in Step 6."
+    },
+    {
+      "id": "6.42",
+      "source_text": "Analyze how the geographic features of ancient Greece, including its mountainous terrain and access to the Mediterranean Sea, contributed to its organization into city-states, role in maritime trade, and colonies in the Mediterranean.",
+      "routes": [
+        "H3-W2-I",
+        "H3-W4-G"
+      ],
+      "status": "Covered in plan",
+      "action": "Verify the exact source packet and individual component checks in Step 5; produce and trial materials in Step 6."
+    },
+    {
+      "id": "6.43",
+      "source_text": "Examine the concept of the polis in Greek city-states, including the ideas of citizenship, civic participation, and the rule of law.",
+      "routes": [
+        "H3-W2-I",
+        "H3-W4-G"
+      ],
+      "status": "Covered in plan",
+      "action": "Verify the exact source packet and individual component checks in Step 5; produce and trial materials in Step 6."
+    },
+    {
+      "id": "6.44",
+      "source_text": "Contrast the characteristics of the major Greek city-states of Athens and Sparta, including: • Approaches to education • Geographic locations • Role of enslaved persons • Status of women • Styles of government (i.e., direct democracy and oligarchy)",
+      "routes": [
+        "H3-W2-I",
+        "H3-W4-G"
+      ],
+      "status": "Covered in plan",
+      "action": "Verify the exact source packet and individual component checks in Step 5; produce and trial materials in Step 6."
+    },
+    {
+      "id": "6.45",
+      "source_text": "Analyze the causes and consequences of the Persian Wars, including the role of Athens and its cooperation with Sparta to defend the Greek city-states.",
+      "routes": [
+        "H3-W2-G",
+        "H3-W4-G"
+      ],
+      "status": "Covered in plan",
+      "action": "Verify the exact source packet and individual component checks in Step 5; produce and trial materials in Step 6."
+    },
+    {
+      "id": "6.46",
+      "source_text": "Analyze the causes and consequences of the Peloponnesian Wars, including how the growing political conflict between Athens and Sparta led to war and weakened the city-states.",
+      "routes": [
+        "H3-W2-G",
+        "H3-W4-G"
+      ],
+      "status": "Covered in plan",
+      "action": "Verify the exact source packet and individual component checks in Step 5; produce and trial materials in Step 6."
+    },
+    {
+      "id": "6.47",
+      "source_text": "Explain the polytheistic religion of ancient Greece, with respect to beliefs about the humanlike qualities of the deities, their importance in everyday life, and the emergence of the Olympic Games to honor Zeus.",
+      "routes": [
+        "H3-W2-G",
+        "H3-W4-G"
+      ],
+      "status": "Covered in plan",
+      "action": "Verify the exact source packet and individual component checks in Step 5; produce and trial materials in Step 6."
+    },
+    {
+      "id": "6.48",
+      "source_text": "Examine the influence of major ancient Greek philosophers (i.e., Socrates, Plato, and Aristotle) and their impact on education and society in ancient Greece.",
+      "routes": [
+        "H3-W2-G",
+        "H3-W3-I",
+        "H3-W3-G",
+        "H3-W4-G"
+      ],
+      "status": "Covered in plan",
+      "action": "Verify the exact source packet and individual component checks in Step 5; produce and trial materials in Step 6."
+    },
+    {
+      "id": "6.49",
+      "source_text": "Describe the purposes of major Greek architecture (e.g., columns), including the Parthenon and the Acropolis.",
+      "routes": [
+        "H3-W2-G",
+        "H3-W4-G"
+      ],
+      "status": "Covered in plan",
+      "action": "Verify the exact source packet and individual component checks in Step 5; produce and trial materials in Step 6."
+    },
+    {
+      "id": "6.50",
+      "source_text": "Explain the unification of the Greek city-states by Macedonia, and analyze the impact of Alexander the Great and the diffusion of Hellenistic culture.",
+      "routes": [
+        "H3-W4-I",
+        "H3-W4-G"
+      ],
+      "status": "Covered in plan",
+      "action": "Verify the exact source packet and individual component checks in Step 5; produce and trial materials in Step 6."
+    },
+    {
+      "id": "6.51",
+      "source_text": "Identify and locate on a map the geographical and political features of ancient Rome, including: • Constantinople • Italian Alps • Italian Peninsula • Mediterranean Sea • Rome • Tiber River G, P",
+      "routes": [
+        "H4-W1-I",
+        "H4-W3-I",
+        "H4-W4-I",
+        "H4-W4-G"
+      ],
+      "status": "Covered in plan",
+      "action": "Verify the exact source packet and individual component checks in Step 5; produce and trial materials in Step 6."
+    },
+    {
+      "id": "6.52",
+      "source_text": "Analyze how the geographical location of ancient Rome contributed to its political and economic growth in the Mediterranean region and beyond. E, G, H, P",
+      "routes": [
+        "H4-W1-I",
+        "H4-W3-G",
+        "H4-W4-I",
+        "H4-W4-G"
+      ],
+      "status": "Covered in plan",
+      "action": "Verify the exact source packet and individual component checks in Step 5; produce and trial materials in Step 6."
+    },
+    {
+      "id": "6.53",
+      "source_text": "Describe the class system of ancient Rome, including the role of patricians, plebeians, and enslaved people in Roman society.",
+      "routes": [
+        "H4-W1-I",
+        "H4-W4-I",
+        "H4-W4-G"
+      ],
+      "status": "Covered in plan",
+      "action": "Verify the exact source packet and individual component checks in Step 5; produce and trial materials in Step 6."
+    },
+    {
+      "id": "6.54",
+      "source_text": "Describe the government of the Roman Republic, including: • Branches of government • Checks and balances • Civic participation • Representative democracy • The rule of law and the Twelve Tables",
+      "routes": [
+        "H4-W1-I",
+        "H4-W1-G",
+        "H4-W4-I",
+        "H4-W4-G"
+      ],
+      "status": "Covered in plan",
+      "action": "Verify the exact source packet and individual component checks in Step 5; produce and trial materials in Step 6."
+    },
+    {
+      "id": "6.55",
+      "source_text": "Describe the characteristics of Julius Caesar’s rule, including: • Leadership in the military • Popularity amongst plebeians • Role as dictator for life • Assassination",
+      "routes": [
+        "H4-W1-G",
+        "H4-W4-I",
+        "H4-W4-G"
+      ],
+      "status": "Covered in plan",
+      "action": "Verify the exact source packet and individual component checks in Step 5; produce and trial materials in Step 6."
+    },
+    {
+      "id": "6.56",
+      "source_text": "Analyze the influence of Augustus Caesar, including the establishment of the Roman Empire and its political, geographic, and economic expansion during the Pax Romana.",
+      "routes": [
+        "H4-W1-G",
+        "H4-W3-G",
+        "H4-W4-I",
+        "H4-W4-G"
+      ],
+      "status": "Covered in plan",
+      "action": "Verify the exact source packet and individual component checks in Step 5; produce and trial materials in Step 6."
+    },
+    {
+      "id": "6.57",
+      "source_text": "Determine how the engineering and architectural achievements of Ancient Rome influenced daily life, including the role of: • Aqueducts • Arches • Bridges • Domes • Roads • Sanitation • The Colosseum",
+      "routes": [
+        "H4-W2-I",
+        "H4-W4-I",
+        "H4-W4-G"
+      ],
+      "status": "Covered in plan",
+      "action": "Verify the exact source packet and individual component checks in Step 5; produce and trial materials in Step 6."
+    },
+    {
+      "id": "6.58",
+      "source_text": "Explain the polytheistic religion of ancient Rome, with respect to beliefs about the humanlike qualities of the deities and their importance in everyday life.",
+      "routes": [
+        "H4-W2-I",
+        "H4-W2-G",
+        "H4-W4-I",
+        "H4-W4-G"
+      ],
+      "status": "Covered in plan",
+      "action": "Verify the exact source packet and individual component checks in Step 5; produce and trial materials in Step 6."
+    },
+    {
+      "id": "6.59",
+      "source_text": "Describe the origins and central features of Christianity: • Key Person(s) Jesus, Paul • Sacred Texts: The Bible • Basic Beliefs: monotheism, sin and forgiveness, eternal life, Jesus as the Messiah",
+      "routes": [
+        "H4-W2-G",
+        "H4-W4-I",
+        "H4-W4-G"
+      ],
+      "status": "Covered in plan",
+      "action": "Verify the exact source packet and individual component checks in Step 5; produce and trial materials in Step 6."
+    },
+    {
+      "id": "6.60",
+      "source_text": "Explain the reasons for the expulsion of the Jews from their homeland by the Romans (i.e., the Jewish diaspora).",
+      "routes": [
+        "H4-W2-G",
+        "H4-W4-I",
+        "H4-W4-G"
+      ],
+      "status": "Covered in plan",
+      "action": "Verify the exact source packet and individual component checks in Step 5; produce and trial materials in Step 6."
+    },
+    {
+      "id": "6.61",
+      "source_text": "Explain the division of the Roman Empire into East and West, and identify why Constantinople was established as the capital by Constantine.",
+      "routes": [
+        "H4-W3-I",
+        "H4-W3-G",
+        "H4-W4-I",
+        "H4-W4-G"
+      ],
+      "status": "Covered in plan",
+      "action": "Verify the exact source packet and individual component checks in Step 5; produce and trial materials in Step 6."
+    },
+    {
+      "id": "6.62",
+      "source_text": "Analyze the fall of the Western Roman Empire, including difficulty governing its large territory, political corruption, economic instability, and attacks by Germanic tribes, and identify the continuation of the Eastern Roman Empire as the Byzantine Empire.",
+      "routes": [
+        "H4-W3-I",
+        "H4-W3-G",
+        "H4-W4-I",
+        "H4-W4-G"
+      ],
+      "status": "Covered in plan",
+      "action": "Verify the exact source packet and individual component checks in Step 5; produce and trial materials in Step 6."
+    },
+    {
+      "id": "SSP.01",
+      "source_text": "Varied primary/secondary source collection, including artifacts, maps, media and oral accounts.",
+      "routes": [
+        "H1-W1-I",
+        "H1-W3-I",
+        "H2-W1-G",
+        "H3-W3-I",
+        "H4-W4-G"
+      ],
+      "status": "Covered in plan",
+      "action": "Recurring practice contributions; verify all source modalities and cumulative evidence in detailed planning. Oral-history study uses a sourced modern archaeology/discovery oral account, not a fabricated ancient eyewitness."
+    },
+    {
+      "id": "SSP.02",
+      "source_text": "Paraphrase, fact/opinion, purpose/perspective/bias, inference and argument limits.",
+      "routes": [
+        "H1-W3-I",
+        "H1-W3-G",
+        "H2-W2-I",
+        "H3-W1-G",
+        "H4-W2-G"
+      ],
+      "status": "Covered in plan",
+      "action": "Recurring practice contributions; verify all source modalities and cumulative evidence in detailed planning. Oral-history study uses a sourced modern archaeology/discovery oral account, not a fabricated ancient eyewitness."
+    },
+    {
+      "id": "SSP.03",
+      "source_text": "Corroborate different accounts and ask further questions.",
+      "routes": [
+        "H1-W3-G",
+        "H2-W4-I",
+        "H3-W4-I",
+        "H4-W3-G"
+      ],
+      "status": "Covered in plan",
+      "action": "Recurring practice contributions; verify all source modalities and cumulative evidence in detailed planning. Oral-history study uses a sourced modern archaeology/discovery oral account, not a fabricated ancient eyewitness."
+    },
+    {
+      "id": "SSP.04",
+      "source_text": "Defend claims, compare views, explain causes, distinguish prediction and counterfactual, engage in civic discourse.",
+      "routes": [
+        "H1-W4-I",
+        "H2-W4-G",
+        "H3-W4-G",
+        "H4-W4-I",
+        "H4-W4-G"
+      ],
+      "status": "Covered in plan",
+      "action": "Recurring practice contributions; verify all source modalities and cumulative evidence in detailed planning. Oral-history study uses a sourced modern archaeology/discovery oral account, not a fabricated ancient eyewitness."
+    },
+    {
+      "id": "SSP.05",
+      "source_text": "Context, empathy, changing accounts, continuity/change and present connections.",
+      "routes": [
+        "H1-W1-G",
+        "H2-W1-G",
+        "H2-W3-G",
+        "H3-W1-G",
+        "H4-W3-I",
+        "H4-W4-G"
+      ],
+      "status": "Covered in plan",
+      "action": "Recurring practice contributions; verify all source modalities and cumulative evidence in detailed planning. Oral-history study uses a sourced modern archaeology/discovery oral account, not a fabricated ancient eyewitness."
+    },
+    {
+      "id": "SSP.06",
+      "source_text": "Select/evaluate maps, spatial patterns and diffusion, changing regions and human–environment relationships.",
+      "routes": [
+        "H1-W2-I",
+        "H2-W1-I",
+        "H2-W2-I",
+        "H2-W3-I",
+        "H3-W1-I",
+        "H3-W2-I",
+        "H3-W4-I",
+        "H4-W3-I"
+      ],
+      "status": "Covered in plan",
+      "action": "Recurring practice contributions; verify all source modalities and cumulative evidence in detailed planning. Oral-history study uses a sourced modern archaeology/discovery oral account, not a fabricated ancient eyewitness."
+    }
+  ],
+  "needs": [
+    [
+      "Historical depth and calendar",
+      "16 weeks gives a survey across seven major society contexts. Confirm expected depth and actual dates; trial H2-W3 and H3-W2 before detailed expansion. Additional depth may need more time."
+    ],
+    [
+      "Exact source packets",
+      "Step 5 selects creator/date/place/purpose/audience, excerpt boundaries and contrasting viewpoints; Step 6 builds accessible texts/images, fresh cases and answer/scoring guidance."
+    ],
+    [
+      "H3 historical chronology",
+      "TN 6.39 groups printing with Han achievements. Teach evidence-based dates; keep the disputed attribution Unverified pending interpretation. Verify all invention chronology."
+    ],
+    [
+      "H3 investigation access",
+      "Verify Greek clock source access; choose exact Han primary record. Prepare adult-made water-timer kits, equivalent participation and supplied shadow data with provenance."
+    ],
+    [
+      "Religion and historical interpretation",
+      "Use matched academic religion profiles, accurate sacred-text attribution and scholarly context; keep tradition, belief and corroborated historical evidence distinct."
+    ],
+    [
+      "Enrollment and observation",
+      "Assume 24 learners/six teams. Confirm class size and observation capacity before detailed clocks. No required homework."
+    ],
+    [
+      "Program boundary",
+      "Selected NCSS themes/C3 contributions support this ancient-history term. Other geography/economics, contemporary civics and complete Grades 6–8 expectations require schoolwide ownership. Accreditor identity/criteria remain to supply separately."
+    ]
+  ]
+}

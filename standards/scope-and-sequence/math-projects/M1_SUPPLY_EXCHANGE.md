@@ -1,0 +1,343 @@
+# Grade 6 Math - M1 Supply Exchange
+
+Updated October 2, 2026. Teacher planning document: eight 90-minute lessons, four weekly individual/group pairs. Stable lesson IDs connect the course map and workbook.
+
+**Planning status:** Steps 1-5 planning workflow completed with a pacing condition: the 48-hour sequence assumes grade-appropriate entry skills and needs a practical trial, especially M2-W2-G. Materials, calibrated examples and final accessibility checks remain Step 6. This is a 16-week project sequence, not a verified full-year mathematics course or a claim of student mastery.
+
+**Project at a glance:** Compare prices and pack sizes to buy supplies for class kits. Explain the quantities, check the bill, and revise the order when the stock changes.
+
+**Final product:** One purchase file: a quantity-and-cost table for 18 kits, a comparison of two feasible orders, a short recommendation, and an updated order after a stock change. Attach each student's calculations; complete a tabletop fulfillment check.
+
+**Essential question:** How can we show that our order buys enough supplies at a sensible cost?
+
+**What good work shows:** Enough of every item; correct units, pack rounding and cost; comparison based on usable quantities rather than pack price alone; mathematical explanations; a justified revision when stock changes.
+
+## Teacher reference and resources
+
+**Standards baseline:** Tennessee Mathematics: approved February 2021, revised October 2021, implemented 2023-24; selected school year 2027-28. Official review schedule checked 2026-10-02: current standards remain until 2031-32. Common Core Mathematics (2010) is a comparison framework, not the governing TN version. NSQ remains a separate course-design quality reference, not a math content standard.
+
+[Official Tennessee mathematics standards, Grade 6 pp.64-69](https://www.tn.gov/content/dam/tn/stateboardofeducation/documents/standards/math-standards-recommendation-committee-2020/2021%20Math%20Standards%20Edited%20October%202021.pdf#page=64) · [Local Tennessee PDF](../../reference-standards/TN_Math_2021_K-12.pdf) · [Official Common Core mathematics, Grade 6 pp.42-45](https://www.thecorestandards.org/wp-content/uploads/Math_Standards1.pdf#page=42)
+
+### Project design brief
+
+Each kit needs 2 blue clips, 3 gold clips and 1/4 meter of ribbon. Begin with 12 kits, then plan for 18. Supplier A: blue packs of 12 for $2.40; gold packs of 18 for $3.60; ribbon spools of 3 m for $1.50. Supplier B: blue packs of 10 for $1.80; gold packs of 15 for $2.85; ribbon spools of 2 m for $1.10. Initial stock: 10 of each pack/spool. Budget $24; buy whole packs. No tax or shipping. Week 3: A gold stock falls to 2 packs; split suppliers if useful. Final fresh offers: A blue 12/$2.64, gold 18/$3.42, ribbon 3 m/$1.65; B blue 10/$1.90, gold 15/$3.00, ribbon 2 m/$1.00; stock 10 each, then A gold limited to 2 packs. Both cases have feasible orders below $24.
+
+### Materials to build in Step 6
+
+Produce a one-page illustrated kit brief, the two supplier cards above, order ledger, ratio table/axes, fraction strips, decimal place-value grids, and a short individual check card per lesson. Use counters as clips and paper strips as ribbon; no real purchase. Prepare a worked six-kit order, a developing order that buys too few whole packs, and a completed 18-kit file matching the product size. These student materials and calibrated examples remain Step 6 work.
+
+All examples and project data in this document are teacher-authored planning specifications. They are available here in full; named student cards/templates are not finished downloadable resources yet. No outside website login or paid reading is required. Workbook lesson-resource cells link directly to the matching section of this document.
+
+**Reading/access plan:** Use the brief, short problem cards, labeled diagrams and tables listed in each lesson. Cap new prose at about 150-250 words per block, usually less; read the first complex prompt together. These are production limits, not measured reading levels. Explain vocabulary with a model, retain mathematical notation, offer enlarged/tactile grids and oral/text-to-speech access to directions. Keep the assessed reasoning the learner's own. Fade sentence frames and partially labeled diagrams before independent evidence; record continuing accommodations. Step 6 must inspect the actual wording, legibility and screen-reader order.
+
+**Assessment routine:** Use the lesson-specific criteria below. Record each component as secure in this response, developing, or not yet evidenced, with date and support conditions; these descriptive records are not a school grading scale. Practice gets feedback. The final product integrates revised work. Keep group quality separate from each learner's fresh explanations. Sample fluency repeatedly without imposing an invented speed cutoff. Calculator checks follow selected written algorithms; use required accommodations and record conditions.
+
+**Response to difficulty and extension:** Follow the specific signal/action/recheck in each lesson. Use the budgeted feedback or workshop time; do not add hidden minutes. If the fresh recheck is unsuccessful, carry the exact component and response to the next named support window. Learners ready to extend may compare a second method or construct a counterexample within the same work time; do not add a second major product.
+
+**Outside work:** Optional consolidation, at most two 20-minute practice periods per week (40 minutes/week). The prior plan proposed this duration; it is not a confirmed homework requirement. Introductions, essential project work and required evidence are planned in class. No new instruction or indispensable material access is assigned outside class. Entry-skill gaps may require a calendar decision; homework does not conceal that shortage.
+
+## Four-week sequence
+
+| Week | Individual lesson | Group lesson | Milestone |
+| --- | --- | --- | --- |
+| 1 | Read the kit and price the quantities | Model fractional supply and place the first order | Initial proposal/model |
+| 2 | Compare suppliers with linked representations | Scale the order and interpret percent | Compared and developed plan |
+| 3 | Plan packs and interpret powers | Respond to a stock change | Revised plan with explanation |
+| 4 | Finish and defend an individual recommendation | Run the supply exchange | Final product plus fresh application |
+
+## Lessons
+
+<a id="m1-w1-i"></a>
+### M1-W1-I - Read the kit and price the quantities
+
+**Week 1 / Individual / 90 minutes.**
+
+**Focus and project connection:** Distinguish a part-to-part ratio from a fraction of the clips; interpret a price per clip. Begin whole-number division retrieval.
+
+**Skills and prerequisite:** Teach: ratio versus fraction; per-one rate. Practice: kit quantities and prices. Check: new counter ratio and unit price. Builds on: multiplication, fractions, money.
+
+**Resources and reading:** Supply Exchange design brief and initial supplier cards, below; read the kit recipe plus 6 price rows. Teacher reads one row aloud and defines pack, item and per. Paper counters and place-value division model.
+[Full project brief and material specifications](#project-design-brief) · [Tennessee source](https://www.tn.gov/content/dam/tn/stateboardofeducation/documents/standards/math-standards-recommendation-committee-2020/2021%20Math%20Standards%20Edited%20October%202021.pdf#page=65)
+
+**Teacher instruction and modeling:** Model a six-kit quantity table: 12 blue, 18 gold, 1.5 m ribbon. Contrast blue:gold = 2:3 with blue/all clips = 2/5. Compare $2.40/12 = $0.20 per blue clip with $1.80/10 = $0.18. Connect 936/24 = 39 to partial groups, then a standard algorithm.
+
+**Activity design:** 1. Students build one kit with counters and explain both comparisons. 2. Individually make the 12-kit requirement table (24 blue, 36 gold, 3 m ribbon). 3. Calculate and label both blue unit prices; explain why the cheaper clip may not mean the cheapest whole order. 4. Annotate the table with one purchasing question. Keep this table for the group order.
+
+**Individual work to collect / assessment prompt:** Collect the quantity table and a private annotation: for 3 red and 2 green counters state red:green and red/all; find the unit price of 8 clips for $2.00; show 864/24 by a standard algorithm.
+
+**How this work is judged:** Require 3:2 versus 3/5, $0.25 per clip, and 36 with place-value steps. Assess ratio meanings and units; division is baseline evidence, not a fluency certification.
+
+**Difficulty: observable signal, response and fresh recheck:** If 2:3 is described as 2 of all 3 clips, ask the learner to circle all 5 counters and label the two groups. Recheck 4 blue/1 gold: 4:1 and 4/5. For misplaced division digits, rebuild tens/ones before a fresh 672/21 = 32.
+
+**Preparation and handoff:** Prepare a six-kit model separate from the student 12-kit table. Bring the annotated tables into M1-W1-G; its opening 10 minutes revisits pack size and any division gaps.
+
+**Mathematical practice:** MP2: attach units and meanings to each quotient.
+
+**Sequential clock:** 0-10: readiness and retrieval; 10-30: explicit modeling and guided practice; 30-70: individual project work and brief feedback conferences; 70-85: independent evidence and different-example recheck; 85-90: archive and handoff. Total 90 minutes.
+
+**Standards match:** Primary: 6.RP.A.1, 6.RP.A.2. Supporting: 6.NS.B.2. Confirmed in plan for the specified components; lesson materials are not yet produced and student learning is unobserved. Primary means a central teaching/review and individual evidence target; it is separate from the project's home-standard assignment.
+
+<a id="m1-w1-g"></a>
+### M1-W1-G - Model fractional supply and place the first order
+
+**Week 1 / Group / 90 minutes.**
+
+**Focus and project connection:** Interpret fractional division and connect decimal addition/subtraction to a purchase ledger.
+
+**Skills and prerequisite:** Teach: fraction quotient and decimal add/subtract. Practice: ribbon and order ledger. Check: new quotient with inverse check and two money calculations. Builds on: fraction units and place value.
+
+**Resources and reading:** Initial supplier cards; read 6 rows and one ribbon problem. Fraction strips with twelfths, order ledger and decimal grids. Explain quotient and leftover.
+[Full project brief and material specifications](#project-design-brief) · [Tennessee source](https://www.tn.gov/content/dam/tn/stateboardofeducation/documents/standards/math-standards-recommendation-committee-2020/2021%20Math%20Standards%20Edited%20October%202021.pdf#page=65)
+
+**Teacher instruction and modeling:** Use 3/4 m divided into 1/4 m pieces to show 3 pieces, then 2/3 divided by 3/4 = 8/9 of a full piece with twelfths and the multiplication check (3/4)(8/9)=2/3. Model $4.80+$7.20+$1.50=$13.50 and $24-$13.50=$10.50, aligned by place value.
+
+**Activity design:** 1. Each student models a ribbon quotient before discussion. 2. Teams choose whole packs to supply 12 kits and record quantities, cost and leftovers. 3. Rotate calculator/checker/explainer roles so everyone calculates one line by hand. 4. Verify a full kit can be filled from the order and revise any shortage; keep the same ledger.
+
+**Individual work to collect / assessment prompt:** Collect each student's fraction-strip explanation of (3/5)/(1/2)=6/5 and multiplication check, plus hand-computed $7.85+$4.60 and $20-$12.45. During project work collect 756/21=36 as a division revisit.
+
+**How this work is judged:** The model must show 1 and 1/5 half-meter pieces, not 1 and 1/5 meters; money answers $12.45 and $7.55 need place-value reasoning. Grade individual reasoning separately from team order feasibility.
+
+**Difficulty: observable signal, response and fresh recheck:** If dividing by a fraction is assumed to shrink a number, compare a whole ribbon with half-unit pieces. Recheck (3/4)/(1/2)=3/2. If decimal points follow digit edges, use a money grid and recheck $6.70-$2.85=$3.85.
+
+**Preparation and handoff:** Prepare the fraction model and deliberately incorrect $7.85+$4.60 calculation. Carry shortages and arithmetic notes to the first 10 minutes of M1-W2-I.
+
+**Mathematical practice:** MP4: connect the ribbon drawing, equation and order.
+
+**Sequential clock:** 0-10: retrieval and reading the brief; 10-30: model and guided example; 30-70: team project work; collect private annotations during work; 70-85: individual evidence and targeted recheck; 85-90: archive and handoff. Total 90 minutes.
+
+**Standards match:** Primary: 6.NS.A.1, 6.NS.B.3. Supporting: 6.RP.A.1, 6.RP.A.2, 6.NS.B.2. Confirmed in plan for the specified components; lesson materials are not yet produced and student learning is unobserved. Primary means a central teaching/review and individual evidence target; it is separate from the project's home-standard assignment.
+
+<a id="m1-w2-i"></a>
+### M1-W2-I - Compare suppliers with linked representations
+
+**Week 2 / Individual / 90 minutes.**
+
+**Focus and project connection:** Connect equivalent-ratio tables, graphs and equations; use decimal multiplication/division and constant speed.
+
+**Skills and prerequisite:** Teach: RP3a-b and decimal multiply/divide. Practice: tables, graph, rule and speed. Check: linked representations and fresh algorithms. Builds on: unit rate and decimal add/subtract.
+
+**Resources and reading:** Initial supplier cards; read two price rows and one delivery-rate card: 6 km in 30 minutes at constant speed. Table/axes and decimal grids; no graphing software required.
+[Full project brief and material specifications](#project-design-brief) · [Tennessee source](https://www.tn.gov/content/dam/tn/stateboardofeducation/documents/standards/math-standards-recommendation-committee-2020/2021%20Math%20Standards%20Edited%20October%202021.pdf#page=65)
+
+**Teacher instruction and modeling:** Model 1,2,3 packs of A blue as (12,2.40),(24,4.80),(36,7.20); graph quantity versus cost, write c=0.20n, and compare B. Show 2.40x3=7.20 and 7.20/0.20=36 using standard algorithms with place-value explanations. Double number line: 6 km/30 min gives 12 km/hour and 9 km/45 min.
+
+**Activity design:** 1. Independently construct A and B gold quantity/cost tables with one missing entry each. 2. Plot matching pairs, label axes and write both cost rules. 3. Compare the cost for 90 gold clips using both representations. 4. Add a delivery estimate for 9 km to the purchase file; explain the constant-speed assumption.
+
+**Individual work to collect / assessment prompt:** Collect the table, graph and rules; independently solve a fresh 8 km/40 min trip to find distance in 60 min, and compute 3.25x4 and 13.00/0.25 by standard algorithms.
+
+**How this work is judged:** A gold costs $18 for 90 and B $17.10; graph points must match the table. Fresh responses: 12 km, $13.00 and 52. Require operation choice, aligned place value and units; assess individual graph/equation consistency.
+
+**Difficulty: observable signal, response and fresh recheck:** If a student adds the same amount to both sides of a ratio, build a two-pack tape and scale both quantities multiplicatively. Recheck 4 items/$3 to 12 items/$9. For decimal division, use equivalent quotients and recheck 4.8/0.6=8.
+
+**Preparation and handoff:** Prepare equal-scale axes and a delivery card. Keep comparison tables for M1-W2-G; use its first 10 minutes to recheck decimal operations before scaling orders.
+
+**Mathematical practice:** MP8: explain the constant multiplier across table rows.
+
+**Sequential clock:** 0-10: retrieval and resource reading; 10-35: two short modeling/guided-practice segments; 35-70: individual project application and teacher support; 70-85: independent evidence and different-example recheck; 85-90: archive and handoff. Total 90 minutes.
+
+**Standards match:** Primary: 6.RP.A.3, 6.NS.B.3. Supporting: 6.RP.A.2. Confirmed in plan for the specified components; lesson materials are not yet produced and student learning is unobserved. Primary means a central teaching/review and individual evidence target; it is separate from the project's home-standard assignment.
+
+<a id="m1-w2-g"></a>
+### M1-W2-G - Scale the order and interpret percent
+
+**Week 2 / Group / 90 minutes.**
+
+**Focus and project connection:** Find a percent part and the whole; convert units within metric and customary systems while scaling to 18 kits.
+
+**Skills and prerequisite:** Teach: RP3c-d part/whole and conversions. Practice: scaled order. Check: two percent directions and both unit systems. Builds on: equivalent ratios and fraction meaning.
+
+**Resources and reading:** Kit brief and initial offers; read the changed quantity and 4 short conversion/percent prompts. Hundred grid, double number line, rulers; teach percent as per 100.
+[Full project brief and material specifications](#project-design-brief) · [Tennessee source](https://www.tn.gov/content/dam/tn/stateboardofeducation/documents/standards/math-standards-recommendation-committee-2020/2021%20Math%20Standards%20Edited%20October%202021.pdf#page=65)
+
+**Teacher instruction and modeling:** Model 25% of 24 counters = 6 and 6 as 25% of an unknown whole = 24 using the same bar. Convert 4.5 m to 450 cm and 2.5 yd to 7.5 ft with labeled ratio tables. Contrast a fractional requirement with the need to buy whole spools.
+
+**Activity design:** 1. Teams scale their existing ledger to 18 kits: 36 blue, 54 gold, 4.5 m ribbon. 2. Compare two feasible whole-pack orders, including leftovers. 3. Each member adds a percent-part and percent-whole explanation using a stock card. 4. Audit ribbon in centimeters and a separate customary-unit packaging example; retain only the revised ledger.
+
+**Individual work to collect / assessment prompt:** Individually find 30% of 40 and the whole when 15 is 25%; convert 1.25 m to cm and 4 yd to ft with ratio reasoning. Collect one checked order line per student.
+
+**How this work is judged:** Require 12, 60, 125 cm and 12 ft; a whole answer must be larger than its 25% part. The order needs sufficient supplies, whole packs and a justified cost comparison; polish is not scored.
+
+**Difficulty: observable signal, response and fresh recheck:** If 25% is treated as 25 items regardless of whole, rebuild a 100-grid and label the current whole. Recheck 8 as 20% of 40. If units are inverted, label each ratio step; recheck 3 m = 300 cm.
+
+**Preparation and handoff:** Prepare percent bars for different wholes and both unit systems. Carry each student's percent/conversion record to M1-W3-I opening retrieval; preserve the 18-kit ledger.
+
+**Mathematical practice:** MP6: keep units and whole-pack decisions explicit.
+
+**Sequential clock:** 0-10: retrieval and reading the brief; 10-30: model and guided example; 30-70: team project work; collect private annotations during work; 70-85: individual evidence and targeted recheck; 85-90: archive and handoff. Total 90 minutes.
+
+**Standards match:** Primary: 6.RP.A.3. Supporting: 6.RP.A.1, 6.RP.A.2, 6.NS.A.1, 6.NS.B.3. Confirmed in plan for the specified components; lesson materials are not yet produced and student learning is unobserved. Primary means a central teaching/review and individual evidence target; it is separate from the project's home-standard assignment.
+
+<a id="m1-w3-i"></a>
+### M1-W3-I - Plan packs and interpret powers
+
+**Week 3 / Individual / 90 minutes.**
+
+**Focus and project connection:** Use GCF, LCM and factored sums for packing; distinguish exponents from multiplication.
+
+**Skills and prerequisite:** Teach: GCF, LCM, factored sums and powers. Practice: bundle/restock explanation. Check: new number pairs and exponent expression. Builds on: factors, multiples and operation order.
+
+**Resources and reading:** 18-kit ledger; read a 24-blue/36-gold sorting card and a restock-every-6/8-days card. Counters, factor lists, square arrays; no claim that a power is needed for every order.
+[Full project brief and material specifications](#project-design-brief) · [Tennessee source](https://www.tn.gov/content/dam/tn/stateboardofeducation/documents/standards/math-standards-recommendation-committee-2020/2021%20Math%20Standards%20Edited%20October%202021.pdf#page=65)
+
+**Teacher instruction and modeling:** Model 24 and 36 as 12 equal groups of 2 and 3; contrast LCM(6,8)=24 as the next shared restock day. Factor 24+36=12(2+3). Use square arrays to compare 3 squared=9 with 3x2=6; evaluate 2+3 squared x4=38.
+
+**Activity design:** 1. Students propose equal bundle sizes using GCF and a restock meeting day using LCM. 2. Write a factored sum explaining the shared group size. 3. Complete two power expressions in the packing-code section. 4. Add a backup paragraph to the order: which supplier or quantity changes if a stock limit is imposed?
+
+**Individual work to collect / assessment prompt:** Collect GCF(30,45)=15 with group meaning; LCM(4,10)=20; 30+45=15(2+3); and 5+2 cubed x3=29 with operation order. Revisit 924/22=42 independently.
+
+**How this work is judged:** Credit the greatest shared factor and first shared multiple with explanations of different purposes. Powers need expanded multiplication or an array and correct order, not a memorized number alone.
+
+**Difficulty: observable signal, response and fresh recheck:** If GCF and LCM are swapped, physically sort 12 and 18 counters, then list delivery multiples on a line. Recheck GCF(18,30)=6 and LCM(3,8)=24. If 2 cubed becomes 6, use three factors and recheck 3 cubed=27.
+
+**Preparation and handoff:** Prepare sorting counters and restock timelines; keep the backup paragraph. M1-W3-G first 10 minutes retrieves the factor/power items before the stock change.
+
+**Mathematical practice:** MP7: use a common factor to describe a repeated group.
+
+**Sequential clock:** 0-10: readiness and retrieval; 10-30: explicit modeling and guided practice; 30-70: individual project work and brief feedback conferences; 70-85: independent evidence and different-example recheck; 85-90: archive and handoff. Total 90 minutes.
+
+**Standards match:** Primary: 6.NS.B.4, 6.EE.A.1. Supporting: 6.NS.B.2, 6.NS.B.3. Confirmed in plan for the specified components; lesson materials are not yet produced and student learning is unobserved. Primary means a central teaching/review and individual evidence target; it is separate from the project's home-standard assignment.
+
+<a id="m1-w3-g"></a>
+### M1-W3-G - Respond to a stock change
+
+**Week 3 / Group / 90 minutes.**
+
+**Focus and project connection:** Revisit number structure and all decimal operations while revising a feasible order.
+
+**Skills and prerequisite:** Revisit: decimal algorithms, factors, multiples and powers. Practice: revised purchase. Check: independent audit annotations. Builds on: M1 weeks 1-3.
+
+**Resources and reading:** Week 3 update: supplier A has only 2 gold packs. Read one update and compare the two current order drafts. Retain original calculations for before/after evidence.
+[Full project brief and material specifications](#project-design-brief) · [Tennessee source](https://www.tn.gov/content/dam/tn/stateboardofeducation/documents/standards/math-standards-recommendation-committee-2020/2021%20Math%20Standards%20Edited%20October%202021.pdf#page=65)
+
+**Teacher instruction and modeling:** Think aloud: three A gold packs would cost $10.80 but are unavailable. Two A packs plus two B packs give 66 gold clips for $12.90. Compare with four B packs: 60 gold clips for $11.40. Cheapest per clip is not sufficient to choose a feasible whole order.
+
+**Activity design:** 1. Each student marks the failed stock constraint. 2. Teams calculate at least two feasible replacements and update all totals/leftovers. 3. Rotate explanation roles and challenge an unsupported claim. 4. Use the last project minutes for each student to annotate a changed calculation, a factored packing sum and a power expression; reuse the ledger.
+
+**Individual work to collect / assessment prompt:** Collect an individual four-operation audit (2.85x4=11.40; 11.40/15=0.76; 7.20+11.40+3.00=21.60; 24.00-21.60=2.40), plus GCF(36,54)=18, LCM(6,9)=18, 36+54=18(2+3), and 2+2 cubed=10. Distribute these short items across work conferences and closing check.
+
+**How this work is judged:** Require feasible stock quantities, accurate written algorithms and a multiplication explanation of the factored sum/power. Record fluency from independent work across lessons, including strategy and accuracy, not one timed score.
+
+**Difficulty: observable signal, response and fresh recheck:** If a learner chooses an unavailable bargain, cover the price and check quantity/stock first; recheck an offer with stock 2 but need 3. For 2+2 cubed read as 64, expand only the exponent base and recheck 4+3 squared=13.
+
+**Preparation and handoff:** Prepare the update and one feasible alternative key. Use M1-W4-I targeted workshop for unresolved operations or factor/power explanations; carry each learner's specific evidence.
+
+**Mathematical practice:** MP3: challenge a purchase claim with quantity and cost evidence.
+
+**Sequential clock:** 0-10: retrieval and correction feedback; 10-25: review/model changed condition; 25-70: team revision with short individual conferences; 70-85: independent evidence/recheck; 85-90: archive and handoff. Total 90 minutes.
+
+**Standards match:** Primary: 6.NS.B.3, 6.NS.B.4, 6.EE.A.1. Supporting: 6.RP.A.2, 6.RP.A.3. Confirmed in plan for the specified components; lesson materials are not yet produced and student learning is unobserved. Primary means a central teaching/review and individual evidence target; it is separate from the project's home-standard assignment.
+
+<a id="m1-w4-i"></a>
+### M1-W4-I - Finish and defend an individual recommendation
+
+**Week 4 / Individual / 90 minutes.**
+
+**Focus and project connection:** Consolidate ratio reasoning and fraction meaning; close individual evidence gaps without duplicating the team file.
+
+**Skills and prerequisite:** Revisit: ratio application and fraction division. Practice: concise recommendation. Check: fresh linked representations and quotient. Builds on: all prior M1 evidence.
+
+**Resources and reading:** Student's existing purchase file, 2 short fresh comparison cards and fraction strips. Read only unresolved ledger lines and a new context; no new extended text.
+[Full project brief and material specifications](#project-design-brief) · [Tennessee source](https://www.tn.gov/content/dam/tn/stateboardofeducation/documents/standards/math-standards-recommendation-committee-2020/2021%20Math%20Standards%20Edited%20October%202021.pdf#page=65)
+
+**Teacher instruction and modeling:** Use evidence to run a 15-minute targeted workshop: ratio representation or fraction model. Model on different numbers, e.g. (5/6)/(1/3)=5/2. Demonstrate how a recommendation cites quantity, cost and a reason to reject another offer.
+
+**Activity design:** 1. Students audit the existing file against the product criteria. 2. Write a 4-6 sentence recommendation attached to the final table. 3. Revise one weak representation. 4. Complete an independent transfer card; teacher meets one need group while others improve explanations rather than add decorative pages.
+
+**Individual work to collect / assessment prompt:** Fresh card: 3 tickets/$2.40 versus 5/$4.25; compare 15 tickets using a table and equation, and plot a pair. Interpret (3/4)/(2/3)=9/8 with model and inverse check. Use prior lesson evidence for other components; recheck only flagged percent, speed, conversion or algorithms with new numbers.
+
+**How this work is judged:** Require $12 versus $12.75 for 15 tickets, linked representations and a quotient interpreted as groups. Recommendation must justify feasibility and choice using the student's own calculations.
+
+**Difficulty: observable signal, response and fresh recheck:** If the recommendation only names the cheaper supplier, have the learner point to a whole-pack line that supports it. Recheck with 11 needed items sold in packs of 6 or 10. If a fraction drawing changes the whole, re-establish equal wholes before a new quotient.
+
+**Preparation and handoff:** Prepare two need-group trays from recorded evidence, not a full new test for all 8 standards. Unfinished targets enter M1-W4-G's 15-minute recheck window and the M2 recurrence record.
+
+**Mathematical practice:** MP1: identify a weak step and improve a feasible solution.
+
+**Sequential clock:** 0-5: sort individual evidence needs; 5-20: targeted teaching and guided recheck; 20-55: individual final-product completion and revision; 55-85: fresh individual transfer and selected component checks; 85-90: archive unresolved needs. Total 90 minutes.
+
+**Standards match:** Primary: 6.RP.A.3, 6.NS.A.1. Supporting: 6.RP.A.1, 6.RP.A.2. Confirmed in plan for the specified components; lesson materials are not yet produced and student learning is unobserved. Primary means a central teaching/review and individual evidence target; it is separate from the project's home-standard assignment.
+
+<a id="m1-w4-g"></a>
+### M1-W4-G - Run the supply exchange
+
+**Week 4 / Group / 90 minutes.**
+
+**Focus and project connection:** Apply established reasoning to new prices and a common stock change; distinguish individual mathematics from team presentation.
+
+**Skills and prerequisite:** Revisit: rate and ratio decisions. Practice: fresh procurement simulation. Check: private decision and targeted transfer. Builds on: the completed purchase file.
+
+**Resources and reading:** Final fresh offers in the design brief; read 6 rows, then a one-sentence stock update. Counters/paper ribbon, final order ledger and individual decision slip.
+[Full project brief and material specifications](#project-design-brief) · [Tennessee source](https://www.tn.gov/content/dam/tn/stateboardofeducation/documents/standards/math-standards-recommendation-committee-2020/2021%20Math%20Standards%20Edited%20October%202021.pdf#page=65)
+
+**Teacher instruction and modeling:** Review the meaning of price per item, enough stock and whole packs using one unrelated offer. Explain the performance sequence and show where evidence is recorded; do not model the final choice.
+
+**Activity design:** 1. Teams prepare an 18-kit order using the new offers. 2. Issue the common gold-stock limit; teams revise and demonstrate that enough items remain. 3. Exchange ledgers with another team for a two-minute quantity challenge. 4. Every student writes a private price/quantity justification; brief table visits replace long sequential presentations.
+
+**Individual work to collect / assessment prompt:** Individual slip: unit price and required packs for one changed item, justification of the revised order, plus a fresh targeted recheck from the learner's evidence record. Keep initial and revised ledgers. Use 15 minutes for targeted conferences/rechecks, not a second full test.
+
+**How this work is judged:** A feasible fresh all-A order before the update costs $21.48; a mixed feasible order after the change may differ. Score correct constraints, calculations, units and reasoned tradeoffs; allow multiple valid orders. Team quality cannot replace missing individual evidence.
+
+**Difficulty: observable signal, response and fresh recheck:** If a learner cannot explain a team line, ask for a solo parallel 7-item order using packs of 4 at $1.20: 2 packs, $2.40, 1 spare. Record that evidence separately and schedule unresolved work in M2-W1-I/G retrieval.
+
+**Preparation and handoff:** Build and key final offer cards, including the update, before use. Archive each learner's component record for M2; retain any unobserved fluency components as open.
+
+**Mathematical practice:** MP5: choose a table, model or calculator check and explain its use.
+
+**Sequential clock:** 0-5: read performance brief; 5-40: team performance, change and revision; 40-50: paired defenses or table visits; 50-70: private fresh application; 70-85: targeted reteaching and different-example recheck; 85-90: archive and handoff. Total 90 minutes.
+
+**Standards match:** Primary: 6.RP.A.2, 6.RP.A.3. Supporting: 6.RP.A.1, 6.NS.B.3. Confirmed in plan for the specified components; lesson materials are not yet produced and student learning is unobserved. Primary means a central teaching/review and individual evidence target; it is separate from the project's home-standard assignment.
+
+## Standards component and recurrence routes
+
+This is a component checklist, not a claim that any single lesson covers an entire standard. Lesson prompts above specify individual evidence; initial instruction is followed by review and fresh use. The course map retains all supplied primary ownership and recurrence assignments. Supporting references are real practice routes, not automatic full-standard coverage.
+
+| Forge ID / Tennessee | Required learning in plain language | Lesson destinations | Course role |
+| --- | --- | --- | --- |
+| FF.G6.MATH.01 / 6.RP.A.1 | Describe two quantities with ratio language; distinguish part-to-part ratio from part-of-whole fraction. | M1-W1-I, M1-W1-G, M1-W2-G, M1-W4-I, M1-W4-G | Home project |
+| FF.G6.MATH.02 / 6.RP.A.2 | Interpret a/b as an amount per one, with units and nonzero divisor; no complex-fraction unit rates. | M1-W1-I, M1-W1-G, M1-W2-I, M1-W2-G, M1-W3-G, M1-W4-I, M1-W4-G | Home project |
+| FF.G6.MATH.03 / 6.RP.A.3 | a: equivalent-ratio tables, missing values, plotted pairs and comparison. b: unit price AND constant speed. c: find percent part AND whole. d: convert customary AND metric units within each system. | M1-W2-I, M1-W2-G, M1-W3-G, M1-W4-I, M1-W4-G | Home project |
+| FF.G6.MATH.04 / 6.NS.A.1 | Interpret fraction division through a context, model, equation and multiplication check; explain the quotient, not just invert and multiply. | M1-W1-G, M1-W2-G, M1-W4-I | Home project |
+| FF.G6.MATH.05 / 6.NS.B.2 | Use a standard multi-digit whole-number division algorithm accurately and efficiently across repeated opportunities. | M1-W1-I, M1-W1-G, M1-W3-I | Home project |
+| FF.G6.MATH.06 / 6.NS.B.3 | Use standard algorithms for all four decimal operations and connect each to place value or prior conceptual work; gather repeated fluency evidence. | M1-W1-G, M1-W2-I, M1-W2-G, M1-W3-I, M1-W3-G, M1-W4-G | Home project |
+| FF.G6.MATH.07 / 6.NS.B.4 | Find GCF for numbers at most 100, LCM for numbers at most 12, and factor a sum using the distributive property. | M1-W3-I, M1-W3-G | Home project |
+| FF.G6.MATH.12 / 6.EE.A.1 | Write and evaluate numerical expressions with whole-number exponents and conventional operation order. | M1-W3-I, M1-W3-G | Home project |
+
+## Lesson match review and Common Core reference
+
+The same-number Common Core code below is the closest counterpart. Comparison labels describe the specified component, not blanket equivalence of state and Common Core standards. Source comparison notes are centralized here. Role and verification are separate: no match is promoted because a project has an appealing theme. All present lesson matches have an explicit planned route; production and classroom evidence remain outstanding.
+
+| Lesson | Primary TN match / evidence | Closest CC counterpart | Supporting TN | Plan verification |
+| --- | --- | --- | --- | --- |
+| M1-W1-I | 6.RP.A.1, 6.RP.A.2; Collect the quantity table and a private annotation: for 3 red and 2 green counters state red:green and red/all; find the unit price of 8 clips for $2.00; show 864/24 by a standard algorithm. | 6.RP.A.1, 6.RP.A.2; see differences below. | 6.NS.B.2 | Confirmed in plan for the specified components; lesson materials are not yet produced and student learning is unobserved. |
+| M1-W1-G | 6.NS.A.1, 6.NS.B.3; Collect each student's fraction-strip explanation of (3/5)/(1/2)=6/5 and multiplication check, plus hand-computed $7.85+$4.60 and $20-$12.45. During project work collect 756/21=36 as a division revisit. | 6.NS.A.1, 6.NS.B.3; see differences below. | 6.RP.A.1, 6.RP.A.2, 6.NS.B.2 | Confirmed in plan for the specified components; lesson materials are not yet produced and student learning is unobserved. |
+| M1-W2-I | 6.RP.A.3, 6.NS.B.3; Collect the table, graph and rules; independently solve a fresh 8 km/40 min trip to find distance in 60 min, and compute 3.25x4 and 13.00/0.25 by standard algorithms. | 6.RP.A.3, 6.NS.B.3; see differences below. | 6.RP.A.2 | Confirmed in plan for the specified components; lesson materials are not yet produced and student learning is unobserved. |
+| M1-W2-G | 6.RP.A.3; Individually find 30% of 40 and the whole when 15 is 25%; convert 1.25 m to cm and 4 yd to ft with ratio reasoning. Collect one checked order line per student. | 6.RP.A.3; see differences below. | 6.RP.A.1, 6.RP.A.2, 6.NS.A.1, 6.NS.B.3 | Confirmed in plan for the specified components; lesson materials are not yet produced and student learning is unobserved. |
+| M1-W3-I | 6.NS.B.4, 6.EE.A.1; Collect GCF(30,45)=15 with group meaning; LCM(4,10)=20; 30+45=15(2+3); and 5+2 cubed x3=29 with operation order. Revisit 924/22=42 independently. | 6.NS.B.4, 6.EE.A.1; see differences below. | 6.NS.B.2, 6.NS.B.3 | Confirmed in plan for the specified components; lesson materials are not yet produced and student learning is unobserved. |
+| M1-W3-G | 6.NS.B.3, 6.NS.B.4, 6.EE.A.1; Collect an individual four-operation audit (2.85x4=11.40; 11.40/15=0.76; 7.20+11.40+3.00=21.60; 24.00-21.60=2.40), plus GCF(36,54)=18, LCM(6,9)=18, 36+54=18(2+3), and 2+2 cubed=10. Distribute these short items across work conferences and closing check. | 6.NS.B.3, 6.NS.B.4, 6.EE.A.1; see differences below. | 6.RP.A.2, 6.RP.A.3 | Confirmed in plan for the specified components; lesson materials are not yet produced and student learning is unobserved. |
+| M1-W4-I | 6.RP.A.3, 6.NS.A.1; Fresh card: 3 tickets/$2.40 versus 5/$4.25; compare 15 tickets using a table and equation, and plot a pair. Interpret (3/4)/(2/3)=9/8 with model and inverse check. Use prior lesson evidence for other components; recheck only flagged percent, speed, conversion or algorithms with new numbers. | 6.RP.A.3, 6.NS.A.1; see differences below. | 6.RP.A.1, 6.RP.A.2 | Confirmed in plan for the specified components; lesson materials are not yet produced and student learning is unobserved. |
+| M1-W4-G | 6.RP.A.2, 6.RP.A.3; Individual slip: unit price and required packs for one changed item, justification of the revised order, plus a fresh targeted recheck from the learner's evidence record. Keep initial and revised ledgers. Use 15 minutes for targeted conferences/rechecks, not a second full test. | 6.RP.A.2, 6.RP.A.3; see differences below. | 6.RP.A.1, 6.NS.B.3 | Confirmed in plan for the specified components; lesson materials are not yet produced and student learning is unobserved. |
+
+| TN / closest CC code | Comparison and practical limit |
+| --- | --- |
+| 6.RP.A.1 | Close; TN explicitly distinguishes ratios and fractions. |
+| 6.RP.A.2 | Strong counterpart for the specified component. |
+| 6.RP.A.3 | Close; TN specifies within-system conversions. |
+| 6.NS.A.1 | Strong counterpart for the specified component. |
+| 6.NS.B.2 | Strong counterpart for the specified component. |
+| 6.NS.B.3 | Close; TN explicitly connects algorithms to concepts. |
+| 6.NS.B.4 | Strong counterpart for the specified component. |
+| 6.EE.A.1 | Strong counterpart for the specified component. |
+
+## Build-and-audit review
+
+| Lesson/project | Issue | Concrete correction | Evidence checked | Unresolved need |
+| --- | --- | --- | --- | --- |
+| M1 | A project product can conceal individual gaps | Every lesson specifies a private response and a fresh recheck | Eight individual evidence routes; task-specific criteria | Produce and calibrate student cards/examples in Step 6 |
+| M1 | Reading and simultaneous products can crowd mathematics | Reuse one main file; short cards/diagrams; cap prose and model only one different example | Product scope, 90-minute clocks, at least 35 minutes of actual project work | Inspect actual handout wording and trial student completion |
+| M1 | Code similarity can overstate standards equivalence | Separate lesson role, plan verification and CC comparison | Official TN pp.64-69 and CC pp.42-45 | No claim of full CC coverage; see partial matches |
+| M1 | Supported group work can appear as mastery | Keep support condition with individual evidence; assess a different example | Teacher build and student-task planning walkthroughs | Classroom observation, actual calendar and entry-skill readiness |
+| M1 | Required topic may not fit the theme | Teach the named content directly inside the lesson rather than omit it | Clock reviewed against task count; no classroom timing trial | If entry skills are weak, additional class support time must be scheduled; retain affected coverage as open |
+
+## Step 6 handoff
+
+Build the listed cards/templates, complete worked example and developing example with feedback; verify every answer and feasible performance case. Trial the busiest individual/group pair, then resolve actual material access, accommodations, lesson wording and pacing before calling the project classroom-ready. Use the existing project file for revisions; do not create another standards-only planning layer.

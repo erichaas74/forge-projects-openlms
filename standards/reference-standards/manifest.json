@@ -1,0 +1,92 @@
+{
+  "tennessee_planning_baseline": "2027-28",
+  "files": [
+    {
+      "file": "TN_ELA_2019_K-12.pdf",
+      "source_url": "https://www.tn.gov/content/dam/tn/stateboardofeducation/documents/2019-sbe-meetings/february-8,-2019-sbe-meeting/2-8-19%20IV%20C%20English%20Language%20Arts%20Standards%20Attachment%20Clean%20Copy.pdf",
+      "download_date": "2026-10-02",
+      "bytes": 974264,
+      "sha256": "dc8f4a0e3b96da0e0a2b03aacf649a4a767acf1f85bc40dfd3451fb5c4658ed4",
+      "pages": 101
+    },
+    {
+      "file": "TN_Math_2021_K-12.pdf",
+      "source_url": "https://www.tn.gov/content/dam/tn/stateboardofeducation/documents/standards/math-standards-recommendation-committee-2020/2021%20Math%20Standards%20Edited%20October%202021.pdf",
+      "download_date": "2026-10-02",
+      "bytes": 5571300,
+      "sha256": "c0bd38e7345104202b2b8903d20bb59e0df6e2d4d707a925ac06e2a9debfd6c7",
+      "pages": 143
+    },
+    {
+      "file": "TN_Science_2022_K-12.pdf",
+      "source_url": "https://www.tn.gov/content/dam/tn/stateboardofeducation/documents/standards/science/New%2010-28-22%20Science%20Standards.pdf",
+      "download_date": "2026-10-02",
+      "bytes": 1353514,
+      "sha256": "f42122047661a8b584afc2b20501ff9314f1d5e01360c0ceb0bbe532be8eea83",
+      "pages": 135
+    },
+    {
+      "file": "TN_Social_Studies_2027-28_K-12.pdf",
+      "source_url": "https://www.tn.gov/content/dam/tn/stateboardofeducation/documents/standards/social-studies-2022-2023/TN%20Academic%20Social%20Studies%20Standards_25.pdf",
+      "download_date": "2026-10-02",
+      "bytes": 1888686,
+      "sha256": "f62fd21f6a1854e48d9dc3b07c90b4607a95a23efeaa7edfb53595c19e297100",
+      "pages": 269
+    },
+    {
+      "file": "TN_Social_Studies_Pre-2027_K-12_REFERENCE_ONLY.pdf",
+      "source_url": "https://www.tn.gov/content/dam/tn/education/standards/ss/Social_Studies_Standards.pdf",
+      "download_date": "2026-10-02",
+      "bytes": 3072876,
+      "sha256": "675b11ef19d279ebf5b36294245ab20669a7539d4702fff9454632d908af96e7",
+      "pages": 247
+    },
+    {
+      "file": "Common_Core_ELA_Literacy_K-12.pdf",
+      "source_url": "https://corestandards.org/wp-content/uploads/2023/09/ELA_Standards1.pdf",
+      "download_date": "2026-10-02",
+      "bytes": 1663111,
+      "sha256": "fa333bc3e442725ad4fca685fd787f0da65c6922d1477a7663264e843d6de187",
+      "pages": 66
+    },
+    {
+      "file": "NGSS_All_Grades_DCI.pdf",
+      "source_url": "https://www.nextgenscience.org/sites/default/files/AllDCI.pdf",
+      "download_date": "2026-10-02",
+      "bytes": 9965837,
+      "sha256": "79e26e426859caa31a235331920b58d57d0d49bd1cfe72c3683088c1eb4e5e05",
+      "pages": 103
+    },
+    {
+      "file": "NSQ_Online_Courses_2025.pdf",
+      "source_url": "https://nsqol.org/wp-content/uploads/2025/02/National-Standards-for-Quality-Online-Courses-2025-Accessible.pdf",
+      "download_date": "2026-10-02",
+      "bytes": 1676610,
+      "sha256": "57a6c31a9236f4c1ef40dec1f061351aa5d1398967f3b6206e8a6970cd555310",
+      "pages": 31
+    },
+    {
+      "file": "NSQ_Online_Teaching_2025.pdf",
+      "source_url": "https://nsqol.org/wp-content/uploads/2025/02/National-Standards-for-Quality-Online-Teaching-2025-Accessible.pdf",
+      "download_date": "2026-10-02",
+      "bytes": 1649727,
+      "sha256": "cca69ccecc79868fa480073a65cb1a44dcf3ec2526ee74bcb9db6dcfc102f42f",
+      "pages": 31
+    },
+    {
+      "file": "NSQ_Online_Programs_2025.pdf",
+      "source_url": "https://education.ohio.gov/getattachment/Topics/Community-Schools/eSchools/Standards-for-K-12-Online-Learning/National-Standards-for-Quality-Online-Programs-Third-Edition.pdf.aspx?lang=en-US",
+      "download_date": "2026-10-02",
+      "bytes": 1385069,
+      "sha256": "4baa1b2edd44e1628c17a2e465f1483d15fffeb06f601e18e7cc2e765d10cd3b",
+      "pages": 39
+    },
+    {
+      "file": "NSQ_Digital_Learning_Leadership.html",
+      "source_url": "https://nsqol.org/the-standards/quality-digital-learning-leadership/",
+      "download_date": "2026-10-02",
+      "bytes": 496357,
+      "sha256": "9ff85dd2f847c29770cb32df1c56fb641511a074924e4a054f683df86e1209ec"
+    }
+  ]
+}
