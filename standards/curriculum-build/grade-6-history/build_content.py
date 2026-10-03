@@ -1,8 +1,8 @@
-"""Maintained Step 1–4 history outline. No project-creation archive inputs."""
+"""Maintained Steps 1–5 history planning build. No project-creation archive inputs."""
 from pathlib import Path
 import re,json
 base=Path(__file__).resolve().parent
-STATUS='Steps 1–4 scope and sequence drafted and reviewed. Detailed lesson plans (Step 5), student materials (Step 6) and classroom pacing remain to develop. One Tennessee chronology item remains unverified.'
+STATUS='Steps 1–5 planning build: four projects and 32 detailed teacher lesson plans. Step 6 student packets, source-dependent checks and classroom pacing remain. Tennessee 6.39 chronology is Unverified; SSP.01 oral modality is Conditional.'
 themes=['Culture','Time, Continuity, and Change','People, Places, and Environments','Individual Development and Identity','Individuals, Groups, and Institutions','Power, Authority, and Governance','Production, Distribution, and Consumption','Science, Technology, and Society','Global Connections','Civic Ideals and Practices']
 # Interpretive summaries, not verbatim official wording. Theme IDs are local labels.
 specs={
@@ -334,6 +334,15 @@ needs=[
 ['Religion and historical interpretation','Use matched academic religion profiles, accurate sacred-text attribution and scholarly context; keep tradition, belief and corroborated historical evidence distinct.'],
 ['Enrollment and observation','Assume 24 learners/six teams. Confirm class size and observation capacity before detailed clocks. No required homework.'],
 ['Program boundary','Selected NCSS themes/C3 contributions support this ancient-history term. Other geography/economics, contemporary civics and complete Grades 6–8 expectations require schoolwide ownership. Accreditor identity/criteria remain to supply separately.']]
+from lesson_details import enrich
+enrich(projects,resources,specs,tn)
+needs=[
+ ['Material production','Step 6: produce the 32 bounded source packets, accessible maps/cards, models, developing responses, held-back cases and response keys from the detailed specifications. Check primary-object provenance and exact excerpt fit.'],
+ ['Historical chronology','TN 6.39 remains Unverified: date documented Han achievements and later printing separately; verify compass/porcelain attribution before certifying these components.'],
+ ['Oral modality','SSP.01 is Conditional until a real 60–90-second modern archaeology oral account has verified speaker/date/context and transcript. A written discovery record does not satisfy oral evidence.'],
+ ['Investigation','Pilot six adult-prepared water timers and labeled supplied shadow data; choose the Han primary artifact record. MacTutor provides the selected Greek scholarly context.'],
+ ['Pacing and enrollment','All 32 budgets total 90 minutes with at least 30 minutes project work. Assume 24 students/six groups; trial H2-W3 and H3-W2 with actual readers. Keep no required homework.'],
+ ['Program boundary','Selected NCSS themes/C3 contributions only; schoolwide grade-band ownership, accreditor identity and criteria remain separate.']]
 data=dict(date='2026-10-03',status=STATUS,scope='16 weeks; four projects; eight 90-minute blocks per project; 32 blocks / 48 hours; individual then group each week; no required homework.',projects=projects,resources=resources,national=national,themes=[dict(id=f'NCSS-T{i}',title=v,routes=[l['id'] for p in projects for l in p['lessons'] if i in l['themes']]) for i,v in enumerate(themes,1)],tn=tn,needs=needs)
 (base/'history.json').write_text(json.dumps(data,ensure_ascii=False,indent=2),encoding='utf-8')
-print('Maintained 4 projects / 32 outline lessons / 22 C3 contributions / 10 NCSS themes / 62 TN content and 6 recurring practice checks.')
+print('Maintained 4 projects / 32 detailed teacher plans / 22 C3 contributions / 10 NCSS themes / 62 TN content and 6 recurring practice checks.')

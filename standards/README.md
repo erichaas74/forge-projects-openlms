@@ -33,5 +33,5 @@ Each course map links its detailed project plans. These are planning drafts; mat
 
 Create a separate `Xth Grade` output folder when X-grade curriculum work begins.
 
-History is complete through Steps 1–4: four projects and 32 block outlines using NCSS/C3, including H3's inventions and timekeeping investigation. Detailed lessons and student materials remain. The separate Tennessee check records one unresolved chronology component in 6.39.
+History has four projects and 32 detailed Step 5 teacher plans using NCSS/C3, including H3's inventions and timekeeping investigation. The workbook links to procedures, worked examples, private prompts, assessment criteria, feedback and 90-minute agendas. Step 6 student packets and classroom trials remain. The separate Tennessee check keeps 6.39 chronology Unverified and SSP.01 oral modality Conditional.
 

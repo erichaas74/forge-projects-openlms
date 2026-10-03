@@ -50,9 +50,9 @@ with zipfile.ZipFile(file) as z:
    for row,l in enumerate(p['lessons'],7):
     assert values[f'A{row}'].startswith(l['id']+'\n')
     assert all(values.get(f'{col}{row}') for col in 'ABCDEFGHI')
-    assert values[f'D{row}']==l['model'] and values[f'E{row}']==l['activity']
+    assert values[f'D{row}']==l['model_summary'] and values[f'E{row}']==l['activity_summary']
     assert values[f'G{row}']==l['handoff'] and values[f'H{row}']==l['skills']
-    assert l['evidence'] in values[f'F{row}'] and l['criteria'] in values[f'F{row}']
+    assert values[f'F{row}']=='Collect: '+l['evidence']+'\n'+l['check_summary']
     assert 'C3 Primary' in values[f'I{row}'] and 'TN ' not in values[f'I{row}']
   rs=E.fromstring(z.read(f'xl/worksheets/_rels/sheet{sn}.xml.rels'));targets={x.get('Id'):x.get('Target') for x in rs}
   expected={x['cell']:x for x in links if x['sheet']==sn};actual=doc.findall('s:hyperlinks/s:hyperlink',ns);assert len(actual)==len(expected)
@@ -65,5 +65,13 @@ with zipfile.ZipFile(file) as z:
      target,_,anchor=url.partition('#');path=(file.parent/target).resolve();assert path.is_file()
      if anchor:assert f'id="{anchor}"' in path.read_text(encoding='utf-8')
   count+=len(actual)
-assert count==55
-print('PASS: 32 unique 90-minute outlines, 4 projects, 22 C3 contributions, all 10 theme routes, 62 TN content and 6 SSP checks; one flagged chronology item preserved. Five saved workbook tabs, all lesson values, pane settings, 55 hyperlinks and document anchors inspected. No files modified.')
+assert count==len(links)
+print('PASS: 32 unique 90-minute detailed plans, 4 projects, 22 C3 contributions, all 10 theme routes, 62 TN content and 6 SSP checks; one flagged chronology item preserved. Five saved workbook tabs, all lesson values, pane settings, native hyperlinks and document anchors inspected. No files modified.')
+
+for l in lessons:
+ assert sum(a['minutes'] for a in l['agenda'])==90
+ assert sum(a['minutes'] for a in l['agenda'] if a['task'].startswith('Project'))>=30
+ assert len(l['steps'])==6 and l['prompt'] and l['worked_example'] and l['recheck']
+ assert {r['id'] for r in l['standards_routes']}==set(l['primary']+l['supporting'])
+assert next(t for t in d['tn'] if t['id']=='SSP.01')['status']=='Conditional'
+print('PASS: every detailed lesson has ordered procedures, model, prompt, recheck and a fitted 90-minute clock with >=30 minutes actual project work. Oral modality remains conditional.')
