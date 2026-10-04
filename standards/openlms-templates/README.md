@@ -33,6 +33,7 @@ Plus two support items in every template: a hidden **Teacher notes** page and an
 3. **Fresh numbers for checks.** Use calculated questions so each student gets a different example, as the guides' "recheck on a different example" rule requires.
 4. **No invented grading policy.** Rubrics use descriptive levels (Secure / Developing / Not yet evidenced), not point cutoffs, unless the school supplies a policy.
 5. **One H5P item per slot at most.** Keeps lessons focused.
+6. **Checks are auto-graded; explanations are separate.** A quiz attempt with an unmarked Essay has no grade, so grade-based routing and *Receive a grade* completion wait for the teacher. Put auto-graded items in the **④ Check** quiz and essays in a separate **④ Explain** quiz or assignment.
 
 ## Part 1 — Set up the template course (once)
 
@@ -58,7 +59,7 @@ Not part of the five lesson templates; build it once per project in the real cou
 | 2 | **Project data** | H5P → **Information Wall** (searchable cards) or **Accordion** | *Project data* — one card per supplier, site, dataset or rule | Practice category; no grade |
 | 3 | **Practice map** (optional) | H5P → **Game Map** with short practice exercises per stage | Practice items from the eight lessons | Practice category; never required |
 | 4 | **Team product file** | **Wiki** (Group mode: Separate groups, Grouping: Teams, Wiki mode: Collaborative) *or* **Assignment** with group submission | *Final product* | No grade on the wiki itself; grading happens on item 5 |
-| 5 | **Final product** | **Assignment**, Group submission = Yes, Grouping = Teams, Grading method = **Rubric** | *Final product* and *What good work shows* → rubric rows | Team product category |
+| 5 | **Final product** | **Assignment**, Group submission = Yes, Grouping = Teams, Grading method = **Rubric** | *Final product* and *What good work shows* → rubric rows | Team product category; graded in the W4-G showcase (Template E links here rather than adding a second assignment) |
 
 The Database activity would make a better team ledger but is disabled on this site; the wiki works until an admin enables it.
 
@@ -73,9 +74,10 @@ The Database activity would make a better team ledger but is disabled on this si
 ### Quizzes (Check slot)
 - **Grade category:** Individual evidence. **Attempts:** 1 for the check; the recheck quiz in the stuck route gets its own attempt.
 - **Question behaviour:** *Deferred feedback* for checks; *Interactive with multiple tries* for practice.
-- **Review options:** show marks and feedback after the quiz closes, so students see their result before the next lesson.
+- **Review options:** show marks and feedback after the quiz closes, so students see their result before the next lesson. This needs a close date (for example, the end of the lesson day); without one, use *Later, while the quiz is still open*.
 - **Calculated questions:** use wildcards for every number that should change, for example *"{n} clips cost ${p}. What is the price per clip?"* with answer formula `{p}/{n}`. Show computed values in the question text with `{={d}*{q}}`. Generate at least 20 dataset items and check several by hand before use.
-- **Explanation items:** add one **Essay** question for the "explain why" part. It is manually graded, so set a marking guide in the feedback.
+- **Explanation items:** put the "explain why" part in a separate **④ Explain** quiz with an **Essay** question (allow one attachment for photos of paper work). Write the marking guide in *Information for graders*. Keep it out of the ④ Check quiz (rule 6).
+- **GCF, LCM, fractions and ratios:** calculated formulas can't produce these cleanly. Make one Numerical or Cloze question per variant in a category and add a **Random question** from it. For decimal divisors, use 0.25, 0.5 or 0.75 so displayed values stay exact.
 
 ### Assignments
 - **Submission types:** Online text (default) and File submissions (for photos of paper work).

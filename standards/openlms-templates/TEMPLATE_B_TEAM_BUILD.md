@@ -18,10 +18,11 @@ Create a subsection named `Template B — Team Build`, then add these items in o
 | 3 | ② Teach | `[ID] ② Mini-model` | H5P → **Interactive Video** (2–5 min recording of the model) with 2–3 pause questions | *Teach and model* | Practice category; save state on | Receive a grade |
 | 4 | ③ Work | `[ID] ③ Team task` | Text and media area with a link to the Project Hub's Team product file | *Activity steps*, numbered; name the section of the product file teams update | — | None |
 | 5 | ③ Work | `[ID] ③ Team product update` | **Assignment**, Group submission = Yes, *Require all members submit* = No, Grouping = Teams | *Activity steps* outcome: what the team must have saved by the end | Team product category; grading = **Checklist** from team-related parts of *How the work is judged* | Make a submission |
-| 6 | ④ Check | `[ID] ④ Private check` | **Quiz**, individual (calculated items + 1 Essay) | *Individual work to collect* and *How the work is judged* | Individual evidence; 1 attempt; deferred feedback; link **Primary** competencies | Receive a grade |
+| 6 | ④ Check | `[ID] ④ Private check` | **Quiz**, individual, auto-graded items only | Number items from *Individual work to collect*; answers from *How the work is judged* | Individual evidence; 1 attempt; deferred feedback; link **Primary** competencies | Receive a grade |
+| 6b | ④ Check | `[ID] ④ Explain` | **Quiz** with Essay question(s), attachments allowed | The explanation or model from *Individual work to collect* | Individual evidence; link **Primary** competencies | Make a submission |
 | 7 | Stuck | `[ID] If you're stuck: [skill]` | Page, restricted | *If students struggle* | Same restriction pattern as Template A | View |
 | 8 | Stuck | `[ID] Recheck` | Quiz, restricted | Recheck example from *If students struggle* | Individual evidence | Receive a grade |
-| 9 | ⑤ Wrap | `[ID] ⑤ Team challenge` | **Forum**, type *Q and A* (students must post before seeing others' posts), Group mode: Visible groups | Prompt: "Post one claim from your team's work and the number that supports it. Then question one other team's claim." | No grade | Start discussions: 1; Replies: 1 |
+| 9 | ⑤ Wrap | `[ID] ⑤ Team challenge` | **Forum**, type *Standard forum for general use*, Group mode: **No groups** (in Visible groups, students can't reply to another team's post). Students start each post with their team name. | Prompt: "Post one claim from your team's work and the number that supports it. Then question one other team's claim." | No grade | Start discussions: 1; Replies: 1 |
 
 ### Keeping individual and team evidence separate
 - The Team product update (item 5) goes in **Team product**. The Private check (item 6) goes in **Individual evidence**. Never grade one from the other.
@@ -37,13 +38,14 @@ Create a subsection named `Template B — Team Build`, then add these items in o
 | 3 | ② Mini-model | Video: 3/4 m into 1/4 m pieces (3 pieces); 2/3 ÷ 3/4 = 8/9 with twelfths and the check (3/4)(8/9) = 2/3; $4.80 + $7.20 + $1.50 = $13.50 and $24 − $13.50 = $10.50 lined up by place value. Pause questions after each step. |
 | 4 | ③ Team task | 1. Each student models a ribbon quotient first. 2. Choose whole packs for 12 kits; record quantities, cost and leftovers. 3. Rotate roles. 4. Check a full kit can be filled; fix any shortage. |
 | 5 | ③ Team product update | Ledger saved with quantities, cost, leftovers and a fill check. Checklist: whole packs only; enough of every item; cost totals correct. |
-| 6 | ④ Private check | Q1 (Essay with drawing upload): explain (3/5) ÷ (1/2) = 6/5 with fraction strips and a multiplication check; must show 1 1/5 half-meter pieces, not 1 1/5 meters. Q2–Q3 (calculated): $7.85 + $4.60 = $12.45 and $20 − $12.45 = $7.55, with wildcards for other amounts. Q4 (calculated): 756 ÷ 21 = 36 as a division revisit. Link 6.NS.A.1, 6.NS.B.3. |
+| 6 | ④ Private check | Q1–Q2 (calculated): $7.85 + $4.60 = $12.45 and $20 − $12.45 = $7.55, with wildcards for other amounts. Q3 (calculated): 756 ÷ 21 = 36 as a division revisit. Link 6.NS.A.1, 6.NS.B.3. |
+| 6b | ④ Explain | Essay with drawing upload: explain (3/5) ÷ (1/2) = 6/5 with fraction strips and a multiplication check; must show 1 1/5 half-meter pieces, not 1 1/5 meters. |
 | 7 | If you're stuck | "Dividing by a fraction can make a bigger number: compare a whole ribbon with half-unit pieces." Money grid for decimal points. |
 | 8 | Recheck | (3/4) ÷ (1/2) = 3/2; $6.70 − $2.85 = $3.85. |
 | 9 | ⑤ Team challenge | "Post your order total and one line that proves you have enough ribbon." |
 
 ## Before students see it
-- [ ] Teams grouping set on the group assignment and the forum.
+- [ ] Teams grouping set on the group assignment; the forum uses No groups.
 - [ ] Group assignment in Team product; private check in Individual evidence.
 - [ ] A test student in each team can see only their own team's submission.
 - [ ] Interactive Video has captions or a transcript.

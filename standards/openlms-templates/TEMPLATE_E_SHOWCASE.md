@@ -16,9 +16,9 @@ Create a subsection named `Template E — Showcase`, then add these items in ord
 | 1 | ① Launch | `[ID] ① Performance brief` | Page | *Resources and reading* (the fresh offers, cases or data) and the event sequence from *Activity steps* | Release the "change" card separately (item 2) | View |
 | 2 | ③ Work | `[ID] ③ The change` | Page or Text and media area, **hidden until the teacher shows it** (toggle visibility live, or restrict by date and time) | The mid-event change in *Activity steps* (for example the common stock limit) | — | View |
 | 3 | ③ Work | `[ID] ③ Live session` (online classes only) | **BigBlueButton**, Group mode: Separate groups, Grouping: Teams | — | Recording optional; check the school's policy | None |
-| 4 | ③ Work | `[ID] ③ Final team product` | **Assignment**, Group submission = Yes, Grouping = Teams | The final product from the Project Hub (*Final product*); initial and revised versions | Team product category; grading = **Rubric** from *What good work shows* | Make a submission |
-| 5 | ③ Work | `[ID] ③ Peer challenge` | **Workshop** activity, grading strategy = **Rubric**, allocation = random 1 reviewer team per submission | The exchange or challenge step in *Activity steps* (for example "exchange ledgers for a two-minute quantity challenge") | Assessment grade weight 0 or small; switch phases live: Submission → Assessment → Closed | Submit and assess |
-| 6 | ④ Check | `[ID] ④ Decision slip` | **Quiz** (calculated items + 1 Essay) or individual **Assignment** | *Individual work to collect* (the private slip) and *How the work is judged* | Individual evidence; 1 attempt; link **Primary** competencies | Receive a grade |
+| 4 | ③ Work | Link to the Project Hub **Final product** assignment | Not a new activity: grade the Hub assignment here | The final product from the Project Hub (*Final product*); initial and revised versions | Team product category; grading = **Rubric** from *What good work shows* | Make a submission |
+| 5 | ③ Work | `[ID] ③ Peer challenge` | **Forum**, Standard, Group mode: No groups. One member posts the team's product; the teacher names the reviewing team. (The Workshop activity has no team submissions and assigns reviewers per student.) | The exchange or challenge step in *Activity steps* (for example "exchange ledgers for a two-minute quantity challenge") | No grade | Start discussions or replies: 1 |
+| 6 | ④ Check | `[ID] ④ Decision slip` | **Quiz** (auto-graded items) plus a separate `[ID] ④ Explain` essay, or one individual **Assignment** | *Individual work to collect* (the private slip) and *How the work is judged* | Individual evidence; 1 attempt; link **Primary** competencies | Receive a grade |
 | 7 | ④ Check | `[ID] ④ Teacher observation` | **Assignment**, *no submission*, grading = **Checklist** for each student's oral contribution | Individual parts of *How the work is judged* (for example "explains a team line") | Individual evidence; grade in Open Grader during the event | None (teacher-graded) |
 | 8 | Stuck | `[ID] Solo recheck` | Quiz, restricted on the Decision slip grade | The solo parallel task in *If students struggle* | Individual evidence | Receive a grade |
 | 9 | ⑤ Wrap | `[ID] ⑤ Project reflection` | **Questionnaire** (installed) or Forum | "What did you get better at in this project? What do you still want to practice?" plus what carries into the next project from *Prepare and hand off* | Anonymous: No | Submit |
@@ -26,7 +26,7 @@ Create a subsection named `Template E — Showcase`, then add these items in ord
 ### Running the live event
 - Use the observation plan in Teacher notes. The guide's *Prepare and hand off* often gives the timing assumption (for example six teams, short table visits instead of long presentations); confirm class size first.
 - Grade item 7 live in **Open Grader** on a tablet; the checklist keeps it quick.
-- Workshop phases: open *Submission* when teams finish, switch to *Assessment* for the challenge, then *Closed* at the end of class. Practice the phase switches once in the template course.
+- Peer challenge: name the reviewing team for each team before class so the swap takes two minutes.
 
 ## Worked example: M1-W4-G — Run the supply exchange
 
@@ -44,7 +44,7 @@ Create a subsection named `Template E — Showcase`, then add these items in ord
 
 ## Before students see it
 - [ ] "The change" is hidden and the teacher knows how to show it live.
-- [ ] Workshop phases rehearsed; reviewer allocation tested with two test teams.
+- [ ] Peer-challenge pairings set; the forum is No groups so reviewers can reply.
 - [ ] Team rubric (Team product) separate from the decision slip and observation (Individual evidence).
 - [ ] Observation checklist opens in Open Grader on the teacher's device.
 - [ ] Class size confirmed against the observation plan.
