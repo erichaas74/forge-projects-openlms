@@ -35,6 +35,10 @@ MAP = {
         'V08T_ExampleA': 'example-a', 'V08T_ExampleB': 'example-b', 'V08T_SkinBlocks': 'skin-pink-paint'},
     'V09-table-to-graph': {
         'V09_ExampleA': 'example-a', 'V09_ExampleB': 'example-b', 'V09_SkinBlocks': 'skin-blocks'},
+    'V01F-part-over-whole-fraction': {
+        'V01F_ExampleA': 'example-a', 'V01F_ExampleB': 'example-b', 'V01F_SkinBlocks': 'skin-blocks'},
+    'V10-necklace-shortage': {
+        'V10_ExampleA': 'example-a', 'V10_ExampleB': 'example-b', 'V10_SkinBlocks': 'skin-blocks-bracelets'},
 }
 
 def split(src):
