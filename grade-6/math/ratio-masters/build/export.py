@@ -33,6 +33,8 @@ MAP = {
         'V08_ExampleA': 'example-a', 'V08_ExampleB': 'example-b', 'V08_SkinBlocks': 'skin-pink-paint'},
     'V08T-mixture-to-a-total': {
         'V08T_ExampleA': 'example-a', 'V08T_ExampleB': 'example-b', 'V08T_SkinBlocks': 'skin-pink-paint'},
+    'V09-table-to-graph': {
+        'V09_ExampleA': 'example-a', 'V09_ExampleB': 'example-b', 'V09_SkinBlocks': 'skin-blocks'},
 }
 
 def split(src):
