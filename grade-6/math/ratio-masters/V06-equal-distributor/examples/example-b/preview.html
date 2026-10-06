@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>V06 Example B: apples in 1 bag</title>
+<style>
+body{margin:0;background:#FFFFFF}
+.ratio-master{--rm-ink:#1B1F2A;--rm-muted:#4A5263;--rm-panel:#F3F4F7;--rm-focus:#1E5BD8;
+box-sizing:border-box;max-width:1040px;margin:0 auto;padding:40px 16px 48px;background:#FFFFFF;color:var(--rm-ink);font-family:system-ui,-apple-system,"Segoe UI",sans-serif;line-height:1.4}
+.ratio-master *,.ratio-master *::before,.ratio-master *::after{box-sizing:border-box}
+.ratio-master .rm-question{max-width:34ch;margin:0 auto 24px;text-align:center;font-size:clamp(20px,3vw,26px);font-weight:700;line-height:1.3}
+.ratio-master .rm-wrap{width:min(100%, 560px);margin:0 auto}
+.ratio-master .rm-cap{margin:0 0 8px;text-align:center;font-size:20px;font-weight:700}
+.ratio-master .rm-cap-bottom{margin:6px 0 0}
+.ratio-master .rm-stage{position:relative;height:0;padding-top:89.5%}
+.ratio-master .rm-pile{position:absolute;left:-1.5%;top:-1.676%;width:103%;height:27.933%;border-radius:16px;background:var(--rm-panel)}
+.ratio-master .rm-coin{position:absolute;z-index:2;width:10%;height:11.173%;display:flex;align-items:center;justify-content:center;transition:translate .6s ease-in-out}
+.ratio-master .rm-item{display:block;width:86%;height:86%}
+.ratio-master .rm-group{position:absolute;display:flex;align-items:center;justify-content:center}
+.ratio-master .rm-gicon{display:block;height:100%;width:auto}
+.ratio-master .rm-jar{position:absolute;z-index:3;pointer-events:none}
+.ratio-master .rm-jar svg{display:block;width:100%;height:100%;overflow:visible}
+.ratio-master .rm-focus{position:absolute;z-index:4;border:3px dashed var(--rm-ink);border-radius:14px}
+.ratio-master .rm-answer{margin:24px 0 0;text-align:center;font-size:clamp(24px,4vw,32px);font-weight:800}
+.ratio-master .rm-ans{position:relative;display:inline-flex;align-items:center;justify-content:center;min-width:56px;margin:0 4px;padding:0 10px;outline:3px solid var(--rm-ink);border-radius:12px;font-variant-numeric:tabular-nums}
+.ratio-master .rm-unknown{color:var(--rm-muted)}
+.ratio-master .rm-reveal,.ratio-master .rm-late{display:none}
+.ratio-master .rm-check{max-width:520px;margin:24px auto 0;text-align:center}
+.ratio-master .rm-check summary{display:inline-flex;align-items:center;justify-content:center;min-height:48px;padding:10px 24px;border:2px solid var(--rm-ink);border-radius:999px;background:#FFFFFF;font-size:18px;font-weight:700;cursor:pointer;list-style:none}
+.ratio-master .rm-check summary::-webkit-details-marker{display:none}
+.ratio-master .rm-check summary:focus-visible{outline:3px solid var(--rm-focus);outline-offset:3px}
+.ratio-master .rm-check[open] summary{background:var(--rm-panel)}
+.ratio-master .rm-feedback{margin:14px 0 0;font-size:18px}
+.ratio-master:has(.rm-check[open]) .rm-coin{translate:0 0 !important}
+.ratio-master:has(.rm-check[open]) .rm-hide{display:none}
+.ratio-master:has(.rm-check[open]) .rm-reveal{display:block;animation:rm-pop .45s ease-out both}
+.ratio-master:has(.rm-check[open]) span.rm-ans .rm-reveal{display:inline}
+.ratio-master:has(.rm-check[open]) .rm-late{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;border-radius:12px;background:#FFFFFF;animation:rm-gone .3s ease-out 4.52s both}
+.ratio-master .rm-sr{position:absolute;width:1px;height:1px;margin:-1px;padding:0;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap;border:0}
+@keyframes rm-pop{from{opacity:0;transform:scale(.7)}to{opacity:1;transform:none}}
+@keyframes rm-gone{from{opacity:1}to{opacity:0}}
+@media (prefers-reduced-motion: reduce){.ratio-master .rm-coin{transition:none}.ratio-master .rm-reveal{animation:none !important}.ratio-master:has(.rm-check[open]) .rm-late{display:none}}
+</style>
+</head>
+<body>
+<div class="ratio-master" data-master="V06" data-skin="apple-bag">
+<h2 class="rm-question">20 apples fill 5 bags equally. How many apples go in 1 bag?</h2>
+<p class="rm-sr">20 apples in a pile, to be shared equally among 5 bags.</p>
+<div class="rm-wrap" aria-hidden="true">
+<p class="rm-cap">20 apples</p>
+<div class="rm-stage">
+<span class="rm-pile"></span>
+<span class="rm-jar" style="left: 2.5%; top: 35.196%; width: 15%; height: 63.128%"><svg viewBox="0 0 150 565" focusable="false"><path d="M45 100 C45 15 105 15 105 100" fill="none" stroke="rgba(27,31,42,0.65)" stroke-width="7" stroke-linecap="round"></path><path d="M4 100 H146 L138 545 Q136 561 120 561 H30 Q14 561 12 545 Z" fill="rgba(150,180,220,0.18)" stroke="rgba(27,31,42,0.65)" stroke-width="7" stroke-linejoin="round"></path></svg></span><span class="rm-jar" style="left: 22.5%; top: 35.196%; width: 15%; height: 63.128%"><svg viewBox="0 0 150 565" focusable="false"><path d="M45 100 C45 15 105 15 105 100" fill="none" stroke="rgba(27,31,42,0.65)" stroke-width="7" stroke-linecap="round"></path><path d="M4 100 H146 L138 545 Q136 561 120 561 H30 Q14 561 12 545 Z" fill="rgba(150,180,220,0.18)" stroke="rgba(27,31,42,0.65)" stroke-width="7" stroke-linejoin="round"></path></svg></span><span class="rm-jar" style="left: 42.5%; top: 35.196%; width: 15%; height: 63.128%"><svg viewBox="0 0 150 565" focusable="false"><path d="M45 100 C45 15 105 15 105 100" fill="none" stroke="rgba(27,31,42,0.65)" stroke-width="7" stroke-linecap="round"></path><path d="M4 100 H146 L138 545 Q136 561 120 561 H30 Q14 561 12 545 Z" fill="rgba(150,180,220,0.18)" stroke="rgba(27,31,42,0.65)" stroke-width="7" stroke-linejoin="round"></path></svg></span><span class="rm-jar" style="left: 62.5%; top: 35.196%; width: 15%; height: 63.128%"><svg viewBox="0 0 150 565" focusable="false"><path d="M45 100 C45 15 105 15 105 100" fill="none" stroke="rgba(27,31,42,0.65)" stroke-width="7" stroke-linecap="round"></path><path d="M4 100 H146 L138 545 Q136 561 120 561 H30 Q14 561 12 545 Z" fill="rgba(150,180,220,0.18)" stroke="rgba(27,31,42,0.65)" stroke-width="7" stroke-linejoin="round"></path></svg></span><span class="rm-jar" style="left: 82.5%; top: 35.196%; width: 15%; height: 63.128%"><svg viewBox="0 0 150 565" focusable="false"><path d="M45 100 C45 15 105 15 105 100" fill="none" stroke="rgba(27,31,42,0.65)" stroke-width="7" stroke-linecap="round"></path><path d="M4 100 H146 L138 545 Q136 561 120 561 H30 Q14 561 12 545 Z" fill="rgba(150,180,220,0.18)" stroke="rgba(27,31,42,0.65)" stroke-width="7" stroke-linejoin="round"></path></svg></span>
+<span class="rm-coin" style="left: 5%; top: 83.799%; translate: -50% -750%; transition-delay: 0.3s"><svg class="rm-item" viewBox="0 0 32 32" focusable="false"><path d="M16 9 C10 5 3 9 4 17 C5 25 11 30 16 27 C21 30 27 25 28 17 C29 9 22 5 16 9 Z" fill="#D23A2E" stroke="#8C1E19" stroke-width="2"></path><path d="M16 9 C16 6 17 4 19 2" fill="none" stroke="#5B3A1E" stroke-width="2" stroke-linecap="round"></path><path d="M18 6 C21 3 25 4 26 6 C23 8 20 8 18 6 Z" fill="#3E8E3E"></path></svg></span>
+<span class="rm-coin" style="left: 25%; top: 83.799%; translate: -150% -750%; transition-delay: 0.38s"><svg class="rm-item" viewBox="0 0 32 32" focusable="false"><path d="M16 9 C10 5 3 9 4 17 C5 25 11 30 16 27 C21 30 27 25 28 17 C29 9 22 5 16 9 Z" fill="#D23A2E" stroke="#8C1E19" stroke-width="2"></path><path d="M16 9 C16 6 17 4 19 2" fill="none" stroke="#5B3A1E" stroke-width="2" stroke-linecap="round"></path><path d="M18 6 C21 3 25 4 26 6 C23 8 20 8 18 6 Z" fill="#3E8E3E"></path></svg></span>
+<span class="rm-coin" style="left: 45%; top: 83.799%; translate: -250% -750%; transition-delay: 0.46s"><svg class="rm-item" viewBox="0 0 32 32" focusable="false"><path d="M16 9 C10 5 3 9 4 17 C5 25 11 30 16 27 C21 30 27 25 28 17 C29 9 22 5 16 9 Z" fill="#D23A2E" stroke="#8C1E19" stroke-width="2"></path><path d="M16 9 C16 6 17 4 19 2" fill="none" stroke="#5B3A1E" stroke-width="2" stroke-linecap="round"></path><path d="M18 6 C21 3 25 4 26 6 C23 8 20 8 18 6 Z" fill="#3E8E3E"></path></svg></span>
+<span class="rm-coin" style="left: 65%; top: 83.799%; translate: -350% -750%; transition-delay: 0.54s"><svg class="rm-item" viewBox="0 0 32 32" focusable="false"><path d="M16 9 C10 5 3 9 4 17 C5 25 11 30 16 27 C21 30 27 25 28 17 C29 9 22 5 16 9 Z" fill="#D23A2E" stroke="#8C1E19" stroke-width="2"></path><path d="M16 9 C16 6 17 4 19 2" fill="none" stroke="#5B3A1E" stroke-width="2" stroke-linecap="round"></path><path d="M18 6 C21 3 25 4 26 6 C23 8 20 8 18 6 Z" fill="#3E8E3E"></path></svg></span>
+<span class="rm-coin" style="left: 85%; top: 83.799%; translate: -450% -750%; transition-delay: 0.62s"><svg class="rm-item" viewBox="0 0 32 32" focusable="false"><path d="M16 9 C10 5 3 9 4 17 C5 25 11 30 16 27 C21 30 27 25 28 17 C29 9 22 5 16 9 Z" fill="#D23A2E" stroke="#8C1E19" stroke-width="2"></path><path d="M16 9 C16 6 17 4 19 2" fill="none" stroke="#5B3A1E" stroke-width="2" stroke-linecap="round"></path><path d="M18 6 C21 3 25 4 26 6 C23 8 20 8 18 6 Z" fill="#3E8E3E"></path></svg></span>
+<span class="rm-coin" style="left: 5%; top: 72.067%; translate: 450% -645%; transition-delay: 1.2s"><svg class="rm-item" viewBox="0 0 32 32" focusable="false"><path d="M16 9 C10 5 3 9 4 17 C5 25 11 30 16 27 C21 30 27 25 28 17 C29 9 22 5 16 9 Z" fill="#D23A2E" stroke="#8C1E19" stroke-width="2"></path><path d="M16 9 C16 6 17 4 19 2" fill="none" stroke="#5B3A1E" stroke-width="2" stroke-linecap="round"></path><path d="M18 6 C21 3 25 4 26 6 C23 8 20 8 18 6 Z" fill="#3E8E3E"></path></svg></span>
+<span class="rm-coin" style="left: 25%; top: 72.067%; translate: 350% -645%; transition-delay: 1.28s"><svg class="rm-item" viewBox="0 0 32 32" focusable="false"><path d="M16 9 C10 5 3 9 4 17 C5 25 11 30 16 27 C21 30 27 25 28 17 C29 9 22 5 16 9 Z" fill="#D23A2E" stroke="#8C1E19" stroke-width="2"></path><path d="M16 9 C16 6 17 4 19 2" fill="none" stroke="#5B3A1E" stroke-width="2" stroke-linecap="round"></path><path d="M18 6 C21 3 25 4 26 6 C23 8 20 8 18 6 Z" fill="#3E8E3E"></path></svg></span>
+<span class="rm-coin" style="left: 45%; top: 72.067%; translate: 250% -645%; transition-delay: 1.36s"><svg class="rm-item" viewBox="0 0 32 32" focusable="false"><path d="M16 9 C10 5 3 9 4 17 C5 25 11 30 16 27 C21 30 27 25 28 17 C29 9 22 5 16 9 Z" fill="#D23A2E" stroke="#8C1E19" stroke-width="2"></path><path d="M16 9 C16 6 17 4 19 2" fill="none" stroke="#5B3A1E" stroke-width="2" stroke-linecap="round"></path><path d="M18 6 C21 3 25 4 26 6 C23 8 20 8 18 6 Z" fill="#3E8E3E"></path></svg></span>
+<span class="rm-coin" style="left: 65%; top: 72.067%; translate: 150% -645%; transition-delay: 1.44s"><svg class="rm-item" viewBox="0 0 32 32" focusable="false"><path d="M16 9 C10 5 3 9 4 17 C5 25 11 30 16 27 C21 30 27 25 28 17 C29 9 22 5 16 9 Z" fill="#D23A2E" stroke="#8C1E19" stroke-width="2"></path><path d="M16 9 C16 6 17 4 19 2" fill="none" stroke="#5B3A1E" stroke-width="2" stroke-linecap="round"></path><path d="M18 6 C21 3 25 4 26 6 C23 8 20 8 18 6 Z" fill="#3E8E3E"></path></svg></span>
+<span class="rm-coin" style="left: 85%; top: 72.067%; translate: 50% -645%; transition-delay: 1.52s"><svg class="rm-item" viewBox="0 0 32 32" focusable="false"><path d="M16 9 C10 5 3 9 4 17 C5 25 11 30 16 27 C21 30 27 25 28 17 C29 9 22 5 16 9 Z" fill="#D23A2E" stroke="#8C1E19" stroke-width="2"></path><path d="M16 9 C16 6 17 4 19 2" fill="none" stroke="#5B3A1E" stroke-width="2" stroke-linecap="round"></path><path d="M18 6 C21 3 25 4 26 6 C23 8 20 8 18 6 Z" fill="#3E8E3E"></path></svg></span>
+<span class="rm-coin" style="left: 5%; top: 60.335%; translate: -50% -430%; transition-delay: 2.1s"><svg class="rm-item" viewBox="0 0 32 32" focusable="false"><path d="M16 9 C10 5 3 9 4 17 C5 25 11 30 16 27 C21 30 27 25 28 17 C29 9 22 5 16 9 Z" fill="#D23A2E" stroke="#8C1E19" stroke-width="2"></path><path d="M16 9 C16 6 17 4 19 2" fill="none" stroke="#5B3A1E" stroke-width="2" stroke-linecap="round"></path><path d="M18 6 C21 3 25 4 26 6 C23 8 20 8 18 6 Z" fill="#3E8E3E"></path></svg></span>
+<span class="rm-coin" style="left: 25%; top: 60.335%; translate: -150% -430%; transition-delay: 2.18s"><svg class="rm-item" viewBox="0 0 32 32" focusable="false"><path d="M16 9 C10 5 3 9 4 17 C5 25 11 30 16 27 C21 30 27 25 28 17 C29 9 22 5 16 9 Z" fill="#D23A2E" stroke="#8C1E19" stroke-width="2"></path><path d="M16 9 C16 6 17 4 19 2" fill="none" stroke="#5B3A1E" stroke-width="2" stroke-linecap="round"></path><path d="M18 6 C21 3 25 4 26 6 C23 8 20 8 18 6 Z" fill="#3E8E3E"></path></svg></span>
+<span class="rm-coin" style="left: 45%; top: 60.335%; translate: -250% -430%; transition-delay: 2.26s"><svg class="rm-item" viewBox="0 0 32 32" focusable="false"><path d="M16 9 C10 5 3 9 4 17 C5 25 11 30 16 27 C21 30 27 25 28 17 C29 9 22 5 16 9 Z" fill="#D23A2E" stroke="#8C1E19" stroke-width="2"></path><path d="M16 9 C16 6 17 4 19 2" fill="none" stroke="#5B3A1E" stroke-width="2" stroke-linecap="round"></path><path d="M18 6 C21 3 25 4 26 6 C23 8 20 8 18 6 Z" fill="#3E8E3E"></path></svg></span>
+<span class="rm-coin" style="left: 65%; top: 60.335%; translate: -350% -430%; transition-delay: 2.34s"><svg class="rm-item" viewBox="0 0 32 32" focusable="false"><path d="M16 9 C10 5 3 9 4 17 C5 25 11 30 16 27 C21 30 27 25 28 17 C29 9 22 5 16 9 Z" fill="#D23A2E" stroke="#8C1E19" stroke-width="2"></path><path d="M16 9 C16 6 17 4 19 2" fill="none" stroke="#5B3A1E" stroke-width="2" stroke-linecap="round"></path><path d="M18 6 C21 3 25 4 26 6 C23 8 20 8 18 6 Z" fill="#3E8E3E"></path></svg></span>
+<span class="rm-coin" style="left: 85%; top: 60.335%; translate: -450% -430%; transition-delay: 2.42s"><svg class="rm-item" viewBox="0 0 32 32" focusable="false"><path d="M16 9 C10 5 3 9 4 17 C5 25 11 30 16 27 C21 30 27 25 28 17 C29 9 22 5 16 9 Z" fill="#D23A2E" stroke="#8C1E19" stroke-width="2"></path><path d="M16 9 C16 6 17 4 19 2" fill="none" stroke="#5B3A1E" stroke-width="2" stroke-linecap="round"></path><path d="M18 6 C21 3 25 4 26 6 C23 8 20 8 18 6 Z" fill="#3E8E3E"></path></svg></span>
+<span class="rm-coin" style="left: 5%; top: 48.603%; translate: 450% -325%; transition-delay: 3s"><svg class="rm-item" viewBox="0 0 32 32" focusable="false"><path d="M16 9 C10 5 3 9 4 17 C5 25 11 30 16 27 C21 30 27 25 28 17 C29 9 22 5 16 9 Z" fill="#D23A2E" stroke="#8C1E19" stroke-width="2"></path><path d="M16 9 C16 6 17 4 19 2" fill="none" stroke="#5B3A1E" stroke-width="2" stroke-linecap="round"></path><path d="M18 6 C21 3 25 4 26 6 C23 8 20 8 18 6 Z" fill="#3E8E3E"></path></svg></span>
+<span class="rm-coin" style="left: 25%; top: 48.603%; translate: 350% -325%; transition-delay: 3.08s"><svg class="rm-item" viewBox="0 0 32 32" focusable="false"><path d="M16 9 C10 5 3 9 4 17 C5 25 11 30 16 27 C21 30 27 25 28 17 C29 9 22 5 16 9 Z" fill="#D23A2E" stroke="#8C1E19" stroke-width="2"></path><path d="M16 9 C16 6 17 4 19 2" fill="none" stroke="#5B3A1E" stroke-width="2" stroke-linecap="round"></path><path d="M18 6 C21 3 25 4 26 6 C23 8 20 8 18 6 Z" fill="#3E8E3E"></path></svg></span>
+<span class="rm-coin" style="left: 45%; top: 48.603%; translate: 250% -325%; transition-delay: 3.16s"><svg class="rm-item" viewBox="0 0 32 32" focusable="false"><path d="M16 9 C10 5 3 9 4 17 C5 25 11 30 16 27 C21 30 27 25 28 17 C29 9 22 5 16 9 Z" fill="#D23A2E" stroke="#8C1E19" stroke-width="2"></path><path d="M16 9 C16 6 17 4 19 2" fill="none" stroke="#5B3A1E" stroke-width="2" stroke-linecap="round"></path><path d="M18 6 C21 3 25 4 26 6 C23 8 20 8 18 6 Z" fill="#3E8E3E"></path></svg></span>
+<span class="rm-coin" style="left: 65%; top: 48.603%; translate: 150% -325%; transition-delay: 3.24s"><svg class="rm-item" viewBox="0 0 32 32" focusable="false"><path d="M16 9 C10 5 3 9 4 17 C5 25 11 30 16 27 C21 30 27 25 28 17 C29 9 22 5 16 9 Z" fill="#D23A2E" stroke="#8C1E19" stroke-width="2"></path><path d="M16 9 C16 6 17 4 19 2" fill="none" stroke="#5B3A1E" stroke-width="2" stroke-linecap="round"></path><path d="M18 6 C21 3 25 4 26 6 C23 8 20 8 18 6 Z" fill="#3E8E3E"></path></svg></span>
+<span class="rm-coin" style="left: 85%; top: 48.603%; translate: 50% -325%; transition-delay: 3.32s"><svg class="rm-item" viewBox="0 0 32 32" focusable="false"><path d="M16 9 C10 5 3 9 4 17 C5 25 11 30 16 27 C21 30 27 25 28 17 C29 9 22 5 16 9 Z" fill="#D23A2E" stroke="#8C1E19" stroke-width="2"></path><path d="M16 9 C16 6 17 4 19 2" fill="none" stroke="#5B3A1E" stroke-width="2" stroke-linecap="round"></path><path d="M18 6 C21 3 25 4 26 6 C23 8 20 8 18 6 Z" fill="#3E8E3E"></path></svg></span>
+<span class="rm-focus rm-reveal" style="left: 1.3%; top: 32.961%; width: 17.4%; height: 66.145%; animation-delay: 4.12s"></span>
+</div>
+<p class="rm-cap rm-cap-bottom">5 bags</p>
+</div>
+<p class="rm-answer">1 bag holds <span class="rm-ans"><span class="rm-hide rm-unknown">?</span><span class="rm-late rm-unknown">?</span><span class="rm-reveal" style="animation-delay: 4.52s">4</span></span> apples</p>
+<details class="rm-check">
+<summary>Check the answer</summary>
+<p class="rm-feedback">20 apples shared equally by 5 bags is 4 each: 20 ÷ 5 = 4. Answer: 4 apples per bag.</p>
+</details>
+</div>
+</body>
+</html>
