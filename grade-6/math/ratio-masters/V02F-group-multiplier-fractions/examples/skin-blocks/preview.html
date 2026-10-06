@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>V02F Skin test: blocks</title>
+<style>
+body{margin:0;background:#FFFFFF}
+.ratio-master{--rm-ink:#1B1F2A;--rm-muted:#4A5263;--rm-panel:#F3F4F7;
+--rm-a:#1E5BD8;--rm-a-edge:#123E99;--rm-a-detail:#4C7FE6;--rm-a-text:#1A4FBF;--rm-b:#F5BE0B;--rm-b-edge:#8A6400;--rm-b-detail:#FAD55C;--rm-b-text:#6E5000;
+box-sizing:border-box;max-width:1040px;margin:0 auto;padding:40px 16px 48px;background:#FFFFFF;color:var(--rm-ink);font-family:system-ui,-apple-system,"Segoe UI",sans-serif;line-height:1.4}
+.ratio-master *,.ratio-master *::before,.ratio-master *::after{box-sizing:border-box}
+.ratio-master .rm-question{max-width:34ch;margin:0 auto 28px;text-align:center;font-size:clamp(20px,3vw,26px);font-weight:700;line-height:1.3}
+.ratio-master .rm-model{display:flex;flex-wrap:wrap;align-items:center;justify-content:center;gap:24px}
+.ratio-master .rm-keys{display:flex;flex-direction:column;justify-content:space-between;align-self:stretch;padding:14px 0;font-size:18px;font-weight:700;text-align:right}
+.ratio-master .rm-groups{display:flex;flex-wrap:wrap;justify-content:center;gap:14px;margin:0;padding:0;list-style:none}
+.ratio-master .rm-group{display:flex;flex-direction:column;align-items:center;gap:10px;padding:14px 14px;background:var(--rm-panel);border-radius:14px}
+.ratio-master .rm-top,.ratio-master .rm-bottom{display:flex;justify-content:center;gap:6px}
+.ratio-master .rm-bar{align-self:stretch;height:3px;background:var(--rm-ink);border-radius:2px}
+.ratio-master .rm-frac{display:inline-flex;flex-direction:column;align-items:center;font-weight:800;line-height:1.15;font-variant-numeric:tabular-nums}
+.ratio-master .rm-frac > span{position:relative;padding:0 10px}
+.ratio-master .rm-frac > span + span{border-top:4px solid var(--rm-ink)}
+.ratio-master .rm-total{margin:32px auto 0;display:flex;justify-content:center;font-size:clamp(40px,7vw,56px)}
+.ratio-master .rm-q{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;background:#FFFFFF;color:var(--rm-muted)}
+.ratio-master .rm-notation{display:flex;align-items:center;justify-content:center;gap:16px;margin:32px 0 0;font-size:clamp(40px,7vw,56px);font-weight:800}
+.ratio-master .rm-obj{display:block;width:36px;height:36px;flex:none}
+.ratio-master .rm-obj .rm-body{stroke-width:2}
+.ratio-master .rm-obj .rm-detail{stroke-width:1.5}
+.ratio-master .rm-obj-a .rm-body{fill:var(--rm-a);stroke:var(--rm-a-edge)}
+.ratio-master .rm-obj-a .rm-detail{fill:var(--rm-a-detail);stroke:var(--rm-a-edge)}
+.ratio-master .rm-obj-b .rm-body{fill:var(--rm-b);stroke:var(--rm-b-edge)}
+.ratio-master .rm-obj-b .rm-detail{fill:var(--rm-b-detail);stroke:var(--rm-b-edge)}
+.ratio-master .rm-a-text{color:var(--rm-a-text)}
+.ratio-master .rm-b-text{color:var(--rm-b-text)}
+.ratio-master .rm-sr{position:absolute;width:1px;height:1px;margin:-1px;padding:0;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap;border:0}
+@keyframes rm-add{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:none}}
+@keyframes rm-fade{from{opacity:0}to{opacity:1}}
+@keyframes rm-out{from{opacity:1}to{opacity:0}}
+.ratio-master .rm-step{animation:rm-add .6s ease-out both}
+.ratio-master .rm-fade{animation:rm-fade .5s ease-out both}
+.ratio-master .rm-out{animation:rm-out .4s ease-out both}
+@media (prefers-reduced-motion: reduce){.ratio-master .rm-step,.ratio-master .rm-fade{animation:none}.ratio-master .rm-q{display:none}}
+@media (max-width: 480px){.ratio-master .rm-obj{width:30px;height:30px}.ratio-master .rm-keys{display:none}}
+</style>
+</head>
+<body>
+<div class="ratio-master" data-master="V02F" data-skin="blocks">
+<h2 class="rm-question">2 blue blocks go with 3 yellow blocks. How many yellow blocks go with 6 blue blocks?</h2>
+<p class="rm-sr">Each group is a fraction: 2 blue blocks on top and 3 yellow blocks on the bottom. There are 3 groups. Together that is 6 blue over 9 yellow. 2/3 = 6/9.</p>
+<div class="rm-model" aria-hidden="true">
+<div class="rm-keys"><span class="rm-a-text">blue</span><span class="rm-b-text">yellow</span></div>
+<ol class="rm-groups">
+<li class="rm-group"><div class="rm-top"><svg class="rm-obj rm-obj-a" viewBox="0 0 32 32" focusable="false"><rect class="rm-body" x="2" y="2" width="28" height="28" rx="4"></rect><rect class="rm-detail" x="9" y="9" width="14" height="14" rx="2"></rect></svg><svg class="rm-obj rm-obj-a" viewBox="0 0 32 32" focusable="false"><rect class="rm-body" x="2" y="2" width="28" height="28" rx="4"></rect><rect class="rm-detail" x="9" y="9" width="14" height="14" rx="2"></rect></svg></div><span class="rm-bar"></span><div class="rm-bottom"><svg class="rm-obj rm-obj-b" viewBox="0 0 32 32" focusable="false"><rect class="rm-body" x="2" y="2" width="28" height="28" rx="4"></rect><rect class="rm-detail" x="9" y="9" width="14" height="14" rx="2"></rect></svg><svg class="rm-obj rm-obj-b" viewBox="0 0 32 32" focusable="false"><rect class="rm-body" x="2" y="2" width="28" height="28" rx="4"></rect><rect class="rm-detail" x="9" y="9" width="14" height="14" rx="2"></rect></svg><svg class="rm-obj rm-obj-b" viewBox="0 0 32 32" focusable="false"><rect class="rm-body" x="2" y="2" width="28" height="28" rx="4"></rect><rect class="rm-detail" x="9" y="9" width="14" height="14" rx="2"></rect></svg></div></li>
+<li class="rm-group rm-step" style="animation-delay: 1s"><div class="rm-top"><svg class="rm-obj rm-obj-a" viewBox="0 0 32 32" focusable="false"><rect class="rm-body" x="2" y="2" width="28" height="28" rx="4"></rect><rect class="rm-detail" x="9" y="9" width="14" height="14" rx="2"></rect></svg><svg class="rm-obj rm-obj-a" viewBox="0 0 32 32" focusable="false"><rect class="rm-body" x="2" y="2" width="28" height="28" rx="4"></rect><rect class="rm-detail" x="9" y="9" width="14" height="14" rx="2"></rect></svg></div><span class="rm-bar"></span><div class="rm-bottom"><svg class="rm-obj rm-obj-b" viewBox="0 0 32 32" focusable="false"><rect class="rm-body" x="2" y="2" width="28" height="28" rx="4"></rect><rect class="rm-detail" x="9" y="9" width="14" height="14" rx="2"></rect></svg><svg class="rm-obj rm-obj-b" viewBox="0 0 32 32" focusable="false"><rect class="rm-body" x="2" y="2" width="28" height="28" rx="4"></rect><rect class="rm-detail" x="9" y="9" width="14" height="14" rx="2"></rect></svg><svg class="rm-obj rm-obj-b" viewBox="0 0 32 32" focusable="false"><rect class="rm-body" x="2" y="2" width="28" height="28" rx="4"></rect><rect class="rm-detail" x="9" y="9" width="14" height="14" rx="2"></rect></svg></div></li>
+<li class="rm-group rm-step" style="animation-delay: 2s"><div class="rm-top"><svg class="rm-obj rm-obj-a" viewBox="0 0 32 32" focusable="false"><rect class="rm-body" x="2" y="2" width="28" height="28" rx="4"></rect><rect class="rm-detail" x="9" y="9" width="14" height="14" rx="2"></rect></svg><svg class="rm-obj rm-obj-a" viewBox="0 0 32 32" focusable="false"><rect class="rm-body" x="2" y="2" width="28" height="28" rx="4"></rect><rect class="rm-detail" x="9" y="9" width="14" height="14" rx="2"></rect></svg></div><span class="rm-bar"></span><div class="rm-bottom"><svg class="rm-obj rm-obj-b" viewBox="0 0 32 32" focusable="false"><rect class="rm-body" x="2" y="2" width="28" height="28" rx="4"></rect><rect class="rm-detail" x="9" y="9" width="14" height="14" rx="2"></rect></svg><svg class="rm-obj rm-obj-b" viewBox="0 0 32 32" focusable="false"><rect class="rm-body" x="2" y="2" width="28" height="28" rx="4"></rect><rect class="rm-detail" x="9" y="9" width="14" height="14" rx="2"></rect></svg><svg class="rm-obj rm-obj-b" viewBox="0 0 32 32" focusable="false"><rect class="rm-body" x="2" y="2" width="28" height="28" rx="4"></rect><rect class="rm-detail" x="9" y="9" width="14" height="14" rx="2"></rect></svg></div></li>
+</ol>
+</div>
+<p class="rm-notation rm-fade" style="animation-delay: 2.8s" aria-hidden="true"><span class="rm-frac"><span class="rm-a-text">2</span><span class="rm-b-text">3</span></span><span>=</span><span class="rm-frac"><span class="rm-a-text">6</span><span class="rm-b-text">9<span class="rm-q rm-out" style="animation-delay: 3.8s">?</span></span></span></p>
+</div>
+</body>
+</html>

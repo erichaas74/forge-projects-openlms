@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>V04 Example B: ratio table</title>
+<style>
+body{margin:0;background:#FFFFFF}
+.ratio-master{--rm-ink:#1B1F2A;--rm-muted:#4A5263;--rm-panel:#F3F4F7;--rm-rule:#D7DBE2;--rm-hl:#FFF3C4;--rm-focus:#1E5BD8;
+--rm-arrow-w:120px;--rm-col:130px;
+--rm-a:#C8322B;--rm-a-edge:#8C1E19;--rm-a-detail:#FFFFFF;--rm-a-text:#B02A23;--rm-b:#FFFFFF;--rm-b-edge:#2F3440;--rm-b-detail:#DFE3E9;--rm-b-text:#2F3440;
+box-sizing:border-box;max-width:1040px;margin:0 auto;padding:40px 16px 48px;background:#FFFFFF;color:var(--rm-ink);font-family:system-ui,-apple-system,"Segoe UI",sans-serif;line-height:1.4}
+.ratio-master *,.ratio-master *::before,.ratio-master *::after{box-sizing:border-box}
+.ratio-master .rm-question{max-width:34ch;margin:0 auto 28px;text-align:center;font-size:clamp(20px,3vw,26px);font-weight:700;line-height:1.3}
+.ratio-master .rm-grid{display:grid;grid-template-columns:var(--rm-arrow-w) var(--rm-col) var(--rm-col) var(--rm-arrow-w);grid-auto-rows:64px;justify-content:center}
+.ratio-master .rm-th{display:flex;align-items:center;justify-content:center;gap:8px;border-bottom:3px solid var(--rm-ink);font-size:20px;font-weight:700}
+.ratio-master .rm-td{display:flex;align-items:center;justify-content:center;border-bottom:1px solid var(--rm-rule);font-size:clamp(28px,5vw,36px);font-weight:800;font-variant-numeric:tabular-nums;transition:background-color .4s}
+.ratio-master .rm-td[style*="grid-column: 2"]{border-right:2px solid var(--rm-rule)}
+.ratio-master .rm-ans{position:relative;display:inline-flex;align-items:center;justify-content:center;min-width:64px;padding:0 10px;outline:3px solid var(--rm-ink);border-radius:12px;line-height:1.25}
+.ratio-master .rm-unknown{color:var(--rm-muted)}
+.ratio-master .rm-arr{position:relative;display:flex;align-items:stretch;padding:32px 0}
+.ratio-master .rm-arr-l{justify-content:flex-end;padding-right:6px}
+.ratio-master .rm-arr-r{justify-content:flex-start;padding-left:6px}
+.ratio-master .rm-bracket{position:relative;width:22px;border:3px solid var(--rm-ink)}
+.ratio-master .rm-arr-l .rm-bracket{border-right:none;border-radius:16px 0 0 16px}
+.ratio-master .rm-arr-r .rm-bracket{border-left:none;border-radius:0 16px 16px 0}
+.ratio-master .rm-head-arrow{position:absolute;bottom:-9px;width:16px;height:16px;fill:none;stroke:var(--rm-ink);stroke-width:3;stroke-linecap:round;stroke-linejoin:round}
+.ratio-master .rm-arr-l .rm-head-arrow{right:-8px}
+.ratio-master .rm-arr-r .rm-head-arrow{left:-8px;transform:scaleX(-1)}
+.ratio-master .rm-chip{align-self:center;margin:0 8px;padding:6px 12px;border:3px solid var(--rm-ink);border-radius:14px;background:var(--rm-panel);font-size:22px;font-weight:800;white-space:nowrap}
+.ratio-master .rm-reveal{display:none}
+.ratio-master .rm-check{max-width:520px;margin:28px auto 0;text-align:center}
+.ratio-master .rm-check summary{display:inline-flex;align-items:center;justify-content:center;min-height:48px;padding:10px 24px;border:2px solid var(--rm-ink);border-radius:999px;background:#FFFFFF;font-size:18px;font-weight:700;cursor:pointer;list-style:none}
+.ratio-master .rm-check summary::-webkit-details-marker{display:none}
+.ratio-master .rm-check summary:focus-visible{outline:3px solid var(--rm-focus);outline-offset:3px}
+.ratio-master .rm-check[open] summary{background:var(--rm-panel)}
+.ratio-master .rm-feedback{margin:14px 0 0;font-size:18px}
+.ratio-master:has(.rm-check[open]) .rm-hide{display:none}
+.ratio-master:has(.rm-check[open]) .rm-reveal{display:flex}
+.ratio-master:has(.rm-check[open]) span.rm-reveal{display:inline;animation:rm-pop .5s ease-out both}
+.ratio-master:has(.rm-check[open]) .rm-hl{background:var(--rm-hl)}
+.ratio-master:has(.rm-check[open]) .rm-grow{animation:rm-grow .6s ease-out .2s both;transform-origin:top}
+.ratio-master:has(.rm-check[open]) .rm-slide{animation:rm-slide 1s ease-in-out 1s both}
+.ratio-master:has(.rm-check[open]) .rm-late{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;border-radius:12px;background:inherit;animation:rm-gone .3s ease-out 2.2s both}
+.ratio-master .rm-late{display:none}
+.ratio-master .rm-d2{animation-delay:2.2s !important}
+.ratio-master .rm-obj{display:block;width:26px;height:26px;flex:none}
+.ratio-master .rm-obj .rm-body{stroke-width:2}
+.ratio-master .rm-obj .rm-detail{stroke-width:1.5}
+.ratio-master .rm-obj-a .rm-body{fill:var(--rm-a);stroke:var(--rm-a-edge)}
+.ratio-master .rm-obj-a .rm-detail{fill:var(--rm-a-detail);stroke:var(--rm-a-edge)}
+.ratio-master .rm-obj-b .rm-body{fill:var(--rm-b);stroke:var(--rm-b-edge)}
+.ratio-master .rm-obj-b .rm-detail{fill:var(--rm-b-detail);stroke:var(--rm-b-edge)}
+.ratio-master .rm-a-text{color:var(--rm-a-text)}
+.ratio-master .rm-b-text{color:var(--rm-b-text)}
+.ratio-master .rm-sr{position:absolute;width:1px;height:1px;margin:-1px;padding:0;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap;border:0}
+@keyframes rm-grow{from{opacity:0;transform:scaleY(.2)}to{opacity:1;transform:none}}
+@keyframes rm-slide{from{transform:translateX(calc(-1 * (var(--rm-arrow-w) + 2 * var(--rm-col))))}to{transform:none}}
+@keyframes rm-pop{from{opacity:0;transform:scale(.6)}to{opacity:1;transform:none}}
+@keyframes rm-gone{from{opacity:1}to{opacity:0}}
+@media (prefers-reduced-motion: reduce){.ratio-master .rm-reveal,.ratio-master .rm-grow,.ratio-master .rm-slide{animation:none !important}.ratio-master:has(.rm-check[open]) .rm-late{display:none}.ratio-master .rm-td{transition:none}}
+@media (max-width: 480px){.ratio-master{--rm-arrow-w:76px;--rm-col:88px}.ratio-master .rm-chip{margin:0 4px;padding:4px 6px;font-size:17px}.ratio-master .rm-bracket{width:14px}.ratio-master .rm-th{font-size:16px}.ratio-master .rm-obj{width:20px;height:20px}}
+</style>
+</head>
+<body>
+<div class="ratio-master" data-master="V04" data-skin="beads">
+<h2 class="rm-question">3 red beads go with 2 white beads. How many white beads go with 9 red beads?</h2>
+<p class="rm-sr">Ratio table of red and white beads. Rows: 3 red, 2 white; 6 red, 4 white; 9 red, unknown white; 12 red, 8 white.</p>
+<div class="rm-grid" aria-hidden="true">
+<div class="rm-th" style="grid-column: 2; grid-row: 1"><svg class="rm-obj rm-obj-a" viewBox="0 0 32 32" focusable="false"><circle class="rm-body" cx="16" cy="16" r="14"></circle><circle class="rm-detail" cx="16" cy="16" r="4.5"></circle></svg><span class="rm-a-text">red</span></div>
+<div class="rm-th" style="grid-column: 3; grid-row: 1"><svg class="rm-obj rm-obj-b" viewBox="0 0 32 32" focusable="false"><circle class="rm-body" cx="16" cy="16" r="14"></circle><circle class="rm-detail" cx="16" cy="16" r="4.5"></circle></svg><span class="rm-b-text">white</span></div>
+<div class="rm-td rm-a-text rm-hl" style="grid-column: 2; grid-row: 2">3</div>
+<div class="rm-td rm-b-text rm-hl" style="grid-column: 3; grid-row: 2">2</div>
+<div class="rm-td rm-a-text" style="grid-column: 2; grid-row: 3">6</div>
+<div class="rm-td rm-b-text" style="grid-column: 3; grid-row: 3">4</div>
+<div class="rm-td rm-a-text rm-hl" style="grid-column: 2; grid-row: 4">9</div>
+<div class="rm-td rm-hl" style="grid-column: 3; grid-row: 4"><span class="rm-ans rm-b-text"><span class="rm-late rm-unknown">?</span><span class="rm-reveal rm-d2">6</span><span class="rm-hide rm-unknown">?</span></span></div>
+<div class="rm-td rm-a-text" style="grid-column: 2; grid-row: 5">12</div>
+<div class="rm-td rm-b-text" style="grid-column: 3; grid-row: 5">8</div>
+<div class="rm-arr rm-arr-l rm-reveal rm-grow" style="grid-column: 1; grid-row: 2 / 5"><span class="rm-chip">× 3</span><span class="rm-bracket"><svg class="rm-head-arrow" viewBox="0 0 16 16" focusable="false"><path d="M2 3 L13 8 L2 13"></path></svg></span></div>
+<div class="rm-arr rm-arr-r rm-reveal rm-slide" style="grid-column: 4; grid-row: 2 / 5"><span class="rm-bracket"><svg class="rm-head-arrow" viewBox="0 0 16 16" focusable="false"><path d="M2 3 L13 8 L2 13"></path></svg></span><span class="rm-chip">× 3</span></div>
+</div>
+<details class="rm-check">
+<summary>Check the answer</summary>
+<p class="rm-feedback">3 × 3 = 9, so the same × 3 works on the white column too. Answer: 6 white beads.</p>
+</details>
+</div>
+</body>
+</html>
